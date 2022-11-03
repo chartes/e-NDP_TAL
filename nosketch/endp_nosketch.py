@@ -330,7 +330,7 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
     nosketch_vertical+='<doc link="{}" id="{}" sujet="{}" volume="{}" folio="{}" date="{}" >\n{}</doc>\n'.format(AN_link, id_nosketch, keywords, vol, k, formatted_data, text_nosketch)
 
 ## Saving the final vertical file
-os.makedirs("vertical")
+if not os.path.exists("vertical"): os.makedirs("vertical")
 with open("vertical/source", 'w', encoding="utf-8") as f:
         f.write(nosketch_vertical) #Saving the final vertical file
     
