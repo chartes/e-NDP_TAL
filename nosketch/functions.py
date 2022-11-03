@@ -2,14 +2,22 @@
 
 import numpy as np
 import cv2
+#import stanza
 
 #text transformation
 
 # The Omnia lemmatizer don't recognize V and J as well as common diptonga. Moreover, some other paratextual characters (optional) can be replaced in order to facilitate tagging
+
+forggiven_characters=[("ę", "e"), ("æ", "e"), ("œ", "e"),("V", "U"), ("v", "u"), ("J", "I"), ("j", "i")]
+
+#a one more complex set of corrections including pountuation and paratextual.
+'''
 forggiven_characters=[("ę", "e"), ("æ", "e"), ("œ", "e"), ("<", ""), ("(", ""), (")", ""), ("\xa0", ""),
                      (">", ""), ("*", ""), ("°", "_"), ("[", ""), ("]", ""), ("«", ""), ("»", ""), 
                      (",", " ,"), (".", " ."), (";", " ;"), ("  ", " "), (" | | ", " "), (" | |", ""), ("\n", ""), ("\t", ""),
                      ("V", "U"), ("v", "u"), ("J", "I"), ("j", "i")]
+'''
+
 
 
 def grafias(x):
@@ -19,8 +27,9 @@ def grafias(x):
         #x=x.lower()
         #x=x.split()
     return x
+    
 
-# The Omnia lemmatizer used and old unicode package which is not well recognized by many modern application. In order to correct that, an utf-conversion must be applied
+# The Omnia lemmatizer used and old unicode package which is not well recognized by many modern applications. In order to correct that, an utf-conversion must be applied
 def transcription(x):
   try:
     lemma=x.split("_", 1)[0]
@@ -35,6 +44,19 @@ def transcription(x):
 
 
 
+def Paris(s): #special case Par. and variations (the only abreviation case accepted during transcription)
+  if s.lower().startswith("pa") and "." in s:
+    return "Parisiensis"
+  else:
+    if "." in s and s[-1]!=".":
+      return " . ".join(s.split("."))
+    elif "." in s[:-1]:
+      return " . ".join(s.split("."))
+    else:
+      return s
+
+
+
 # XML conversion
 
 #function to transform cloud point to rectangular coordinates
@@ -44,7 +66,6 @@ def square(h):
   h=np.array([h])
   h=cv2.boundingRect(h) #X coordinate, Y coordinate, width, height
   return h
-
 
 
 
@@ -84,6 +105,65 @@ def transformation (filename, registres, regions):
   #dict_html={k:v for k,v in dict_html.items() if len(v)>1}
 
   return lista_html, dict_html
+  
+  
+  
+#Configuration parameters to apply stanza taggers (future)
+config = {
+        # Comma-separated list of processors to use
+	'processors': 'lemma,pos',
+        # Language code for the language to build the Pipeline in
+        'lang': 'la',
+        # Processor-specific arguments are set with keys "{processor_name}_{argument_name}"
+        # You only need model paths if you have a specific model outside of stanza_resources
+	'tokenize_model_path': '/home/magistermilitum/stanza/saved_modelsittb.pt',
+	'lemma_model_path': '/home/magistermilitum/stanza/saved_models/la_test_lemmatizer.pt',
+	'pos_model_path': '/home/magistermilitum/stanza/saved_models/la_test_tagger.pt',
+	'pos_pretrain_path': '/home/magistermilitum/stanza/saved_models/fasttext_lat.pt',
+        # Use pretokenized text as input and disable tokenization
+	'tokenize_pretokenized': True,
+  "download_method":None
+}
 
 
+#nlp = stanza.Pipeline(**config) #uncomment if stanza
 
+
+#function to extract bio_conll format from the stanza tokenizers and Flair ner
+def bio_conll(pr_sentence):
+  tokenized_text=[token.text for token in pr_sentence]
+  conll_text=["O"]*len(tokenized_text)
+  for x in pr_sentence.get_spans('ner'):
+      if len(x)==1:
+        try:
+          conll_text[x[0].idx-1]="B-"+x.tag
+        except:
+          print(x[0].idx, x)
+      else:
+        conll_text[x[0].idx-1]="B-"+x.tag
+        for token in x[1:]:
+          conll_text[token.idx-1]="I-"+x.tag
+  
+  doc = nlp([tokenized_text])
+  lemmas=[word.lemma for sent in doc.sentences for word in sent.words]
+  poses=[word.pos for sent in doc.sentences for word in sent.words]
+  conll_bio=list([a,b,c,d] for a,b,c,d in zip(tokenized_text, lemmas, poses, conll_text))
+  return conll_bio
+  
+  
+#function to extract bio_conll format only from the flair ner tagger
+def bio_conll_single(pr_sentence):
+  tokenized_text=[token.text for token in pr_sentence]
+  conll_text=["O"]*len(tokenized_text)
+  for x in pr_sentence.get_spans('ner'):
+      if len(x)==1:
+        try:
+          conll_text[x[0].idx-1]="B-"+x.tag
+        except:
+          print(x[0].idx, x)
+      else:
+        conll_text[x[0].idx-1]="B-"+x.tag
+        for token in x[1:]:
+          conll_text[token.idx-1]="I-"+x.tag
+  
+  return conll_text
