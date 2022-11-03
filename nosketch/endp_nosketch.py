@@ -122,7 +122,17 @@ corrections={x[0]:x[1] for x in corrections[corrections.apply(lambda x: x["origi
 #------------------------------EXTRACTING DATA FROM XML FILES--------------------------------------------
 
 
-#dezipping the page xml folder contending all the automatic transcriptions
+#dezipping the page xml folder contending all the automatic transcriptionsimport nltk
+import ssl
+
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
+nltk.download()
 #zip_url="./endp_pages_all_V7.zip"
 
 import pathlib as pl
@@ -352,6 +362,8 @@ target = 'vertical/endp.txt'
 shutil.copy(source, target)
 
 ## Saving the the subcorps file
-source = "registry_files/subcorps"
-target = 'vertical/subcorps.txt'
-shutil.copy(source, target)
+subcorps=""
+for k in topics.keys(): 
+    subcorps+='={}\n\tdoc\n\ttopic="{}"\n'.format(k,k)
+with open('subcorps.txt', 'w') as f:
+    f.write('vertical/subcorps')
