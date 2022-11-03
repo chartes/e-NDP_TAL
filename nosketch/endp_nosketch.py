@@ -48,6 +48,7 @@ parser = argparse.ArgumentParser(description='Script to generate vertical nosket
 parser.add_argument("-iiif", action="store_true", help="get the IIIF line-level images")
 parser.add_argument("-ner", action="store_true", help="get ner tagging from Flair medieval latin model")
 parser.add_argument("-mac", action="store_true", help="switch to the mac os version of treetagger")
+#parser.add_argument("-stanza", action="store_true", help="switch to the Stanza lemmatizers / pos")
 # Execute the parse_args() method
 args = parser.parse_args()
 
