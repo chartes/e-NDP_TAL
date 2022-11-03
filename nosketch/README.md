@@ -38,7 +38,7 @@ CLI arguments
 ## Caveats
 1. L'installation a été testé sur Python3.7 and 3.8. Il peut avoir des conflicts avec une version supérieure.
 
-2. Si GPU il faudra enlèver ``torch==1.6.0+cpu`` du fichier `requirements.txt`.
+2. Si GPU il faudra enlèver ``torch>=1.0+cpu`` du fichier `requirements.txt`.
 
 3. Si après l'installation Pytorch est en conflict avec Cublas, il faut reinstaller cudatoolkit: ```conda install -y -c conda-forge -c pytorch-test pytorch cudatoolkit=11.1```
 
