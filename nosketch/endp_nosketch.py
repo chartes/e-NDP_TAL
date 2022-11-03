@@ -117,13 +117,18 @@ corrections={x[0]:x[1] for x in corrections[corrections.apply(lambda x: x["origi
 
 
 #dezipping the page xml folder contending all the automatic transcriptions
-zip_url="./endp_pages_all_V7.zip"
+#zip_url="./endp_pages_all_V7.zip"
+
+import pathlib as pl
+import os.path
+
+p=pl.Path(".")
+zip_url=list(p.glob("**/endp_pages_all_V7.zip"))[0]
 
 #create new folder
-import os.path
 new_path_V7=os.path.join('xml_files')
+#os.mkdir(new_path)
 
-#testing if folder exists on multiple iterations
 if os.path.exists(new_path_V7):
     shutil.rmtree(new_path_V7)
 os.makedirs(new_path_V7)
