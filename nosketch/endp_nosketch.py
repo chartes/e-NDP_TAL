@@ -117,7 +117,7 @@ corrections={x[0]:x[1] for x in corrections[corrections.apply(lambda x: x["origi
 
 
 #dezipping the page xml folder contending all the automatic transcriptions
-zip_url="data/endp_pages_all_V7.zip"
+zip_url="./endp_pages_all_V7.zip"
 
 #create new folder
 import os.path
