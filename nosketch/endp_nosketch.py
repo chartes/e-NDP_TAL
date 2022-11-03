@@ -138,9 +138,9 @@ shutil.unpack_archive(zip_url, new_path_V7)
 
 #dezipping source
 if args.mac:
-  zip_url_b="tools/treetagger/treetagger.zip"
-else:
   zip_url_b="tools/treetagger/treetagger_OSX.zip"
+else:
+  zip_url_b="tools/treetagger/treetagger.zip"
 
 #create new folder
 if not os.path.exists("treetagger"):
