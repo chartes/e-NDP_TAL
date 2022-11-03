@@ -275,7 +275,7 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
 
             converter= lambda x : [x[0], x[1]-120, x[2], x[3]+270 ] if x[1]-120>0 else [x[0], 0, x[2],x[3]+270]#adding context to graphical lines
             str_coord=",".join(map(str,converter(sent[0]))) #string version to indicate graphical section to the iiif api
-            str_coord='<s img="'+"https://iiif.chartes.psl.eu/images/endp/FRAN_0393_LL_"+str(vol[2:])+"/"+k+".jpg/"+str_coord+"/full/0/default.jpg"+'">'
+            str_coord='<s img="https://iiif.chartes.psl.eu/images/endp/FRAN_0393_LL_{}/{}.jpg/{}/full/0/default.jpg">'.format(str(vol[2:]),k,str_coord)
           
             phrase_text+=str_coord+"\n"
             phrase_text+=tags+"\n</s>\n"
