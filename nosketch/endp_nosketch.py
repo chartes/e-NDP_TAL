@@ -213,7 +213,6 @@ for filename in glob.glob(new_path_V7+"/raw_plus_manual/*.xml"): #14k files (aut
 dict_registres={k:dict_registres[k] for k in sorted(dict_registres.keys()) if len(dict_registres[k])>0}
 
 
-
 #--------------------------------MAIN FUNCTION : transforming content to vertical format-------------------------------------
 
 start_time = time.time()
