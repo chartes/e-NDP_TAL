@@ -217,6 +217,7 @@ dict_registres={k:dict_registres[k] for k in sorted(dict_registres.keys()) if le
 #--------------------------------MAIN FUNCTION : transforming content to vertical format-------------------------------------
 
 start_time = time.time()
+registry="registry_files/registry"
 
 pages_list=list(dict_registres.keys()) #list of id files
 dict_omnia_endp={}
@@ -248,6 +249,7 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
     text_nosketch=""
 
     if args.iiif: #if processing on IIIF images (line-level information), otherwise processing AN images (zone-level information, faster)
+      registry+="_iiif"
       # The Omnia treetagger tagging
       for kk,vv in c.items(): #iteration occurs inside the content of each detected page region (an c-item)
         coordinates=[[",".join([str(y) for y in cc[0]]),len(word_tokenize(cc[1]))] for cc in vv] #line sqaure coordinates
@@ -262,6 +264,7 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
             tags=[x.split("\t") for x in tags]
 
             if args.ner: #If we want display the NER tagging as a nosketch attribut of the text. This will increase the processing time to 2 hours.
+              registry+="_entities"
               FLAT_sentence=Sentence(tags_cap)
               FLAT_model.predict(FLAT_sentence)
               entities=bio_conll_single(FLAT_sentence)
@@ -295,6 +298,8 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
           tags=[x.split("\t") for x in tags]
 
           if args.ner: #if ner tagging
+            registry+="_entities"
+            
             FLAT_sentence=Sentence(tags_cap)
             FLAT_model.predict(FLAT_sentence)
             entities=bio_conll_single(FLAT_sentence)
@@ -325,5 +330,11 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
     nosketch_vertical+='<doc link="{}" id="{}" sujet="{}" volume="{}" folio="{}" date="{}" >\n{}</doc>\n'.format(AN_link, id_nosketch, keywords, vol, k, formatted_data, text_nosketch)
 
 ## Saving the final vertical file
-with open("source", 'w', encoding="utf-8") as f:
-        f.write(nosketch_vertical) 
+os.makedirs("vertical")
+with open("vertical/source", 'w', encoding="utf-8") as f:
+        f.write(nosketch_vertical) #Saving the final vertical file
+    
+## Saving the the right registry file
+source = registry
+target = 'vertical/endp.txt'
+shutil.copy(source, target)
