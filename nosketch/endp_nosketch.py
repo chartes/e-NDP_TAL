@@ -19,7 +19,6 @@ from tqdm import tqdm
 from flair.models import SequenceTagger
 from flair.data import Sentence
 
-
 from itertools import groupby, chain
 from matplotlib import pyplot as plt
 from bs4 import BeautifulSoup
@@ -42,7 +41,6 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-
 # Create the parser
 parser = argparse.ArgumentParser(description='Script to generate vertical nosketch file from endp transcriptions')
 parser.add_argument("-iiif", action="store_true", help="get the IIIF line-level images")
@@ -63,12 +61,10 @@ with open("metadata/endp_volumes.txt") as f: metadata=f.readlines()
 volumes={x.split(":")[0]:[int(x.split(":")[1].split(" - ")[0].split("_")[-2].lstrip("0")), int(x.split(":")[1].split(" - ")[1].split("_")[-2].lstrip("0"))+1, x.split(":", 1)[1].split(" - ")[-1].strip()] for x in metadata}
 #liens=[x for x in metadata]
 
-
 # Extracting the month date for each volume sector. We must read and transform an external xlsx written in two sheets.
 
 month_a=[[x[2], int(x[12].split("_")[2].lstrip("0")), int(x[13].split("_")[2].lstrip("0"))] for x in pd.read_excel("metadata/e-NDP_recolement_lot1_2_LAMOP.xlsx", "Lot1",engine='openpyxl').values.tolist()[10:-1]]
 month_b=[[x[2], int(x[12].split("_")[2].lstrip("0")), int(x[13].split("_")[2].lstrip("0"))] for x in pd.read_excel("metadata/e-NDP_recolement_lot1_2_LAMOP.xlsx", "Lot2",engine='openpyxl').values.tolist()[11:-1]]
-
 
 months=month_a+month_b
 month_year=[]
@@ -113,7 +109,6 @@ corrections=pd.read_excel("metadata/corrections_endp.xlsx",engine='openpyxl') #t
 corrections={x[0]:x[1] for x in corrections[corrections.apply(lambda x: x["original"]!= x["corrected"], axis=1)].iloc[:, 1:3].values.tolist()}
 
 
-
 #------------------------------EXTRACTING DATA FROM XML FILES--------------------------------------------
 
 
@@ -141,7 +136,6 @@ shutil.unpack_archive(zip_url, new_path_V7)
 
 #------------------------------EXTRACTING THE OMNIA LEMMATIZER-----------------------------------------------
 
-
 #dezipping source
 zip_url_b="tools/treetagger/treetagger.zip"
 
@@ -165,7 +159,6 @@ tagger=treetaggerwrapper.TreeTagger(TAGLANG="la", TAGDIR="treetagger/treetagger"
 
 FLAT_model = SequenceTagger.load('tools/flair/best-model_flat_13_03_2022.pt')
 #https://hal.archives-ouvertes.fr/hal-03703239/
-
 
 
 #------------------------------EXTRACTING DATA FROM THE XML FILES------------------------------------------------
@@ -200,7 +193,6 @@ for filename in glob.glob(new_path_V7+"/raw_plus_manual/*.xml"): #14k files (aut
         points_regions.append(y.attrib["points"])
       except:
         continue
-
 
 # working on the automatic layout segmentation
   type_regions=[]
