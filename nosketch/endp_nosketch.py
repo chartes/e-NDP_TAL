@@ -350,3 +350,8 @@ with open("vertical/source", 'w', encoding="utf-8") as f:
 source = registry
 target = 'vertical/endp.txt'
 shutil.copy(source, target)
+
+## Saving the the subcorps file
+source = "registry_files/subcorps"
+target = 'vertical/subcorps.txt'
+shutil.copy(source, target)
