@@ -13,7 +13,7 @@ pip install -r requirements.txt
 python endp_nosketch.py
 ```
 
-- input: placer `endp_pages_all_V7.zip` (cf release) in `./data/endp_pages_all_V7.zip`
+- input: copier [`endp_pages_all_V7.zip`](https://github.com/chartes/e-NDP_TAL/releases/download/v0.0.1/endp_pages_all_V7.zip) (cf release `Page2NoSketch v.0.0.1`) in `./data/endp_pages_all_V7.zip`
 - output: `./vertical_nosketch/source`
 
 CLI arguments
@@ -55,6 +55,12 @@ make run
 ```
 
 ## Chargement du corpus
+
+Le corpus NoSketch compte 3 fichiers :
+
+- [`source`](https://github.com/chartes/e-NDP_TAL/releases/download/v0.0.1/source): tout le texte à indexer au format COLLN+HTML. [https://www.sketchengine.eu/my_keywords/vertical/](https://www.sketchengine.eu/my_keywords/vertical/)
+- [`endp.txt`](https://github.com/chartes/e-NDP_TAL/blob/master/nosketch/registry_files/registry): le fichier de configuration du corpus. [https://www.sketchengine.eu/documentation/the-corpus-configuration-file/](https://www.sketchengine.eu/documentation/the-corpus-configuration-file/)
+- [`subcorps`](https://github.com/chartes/e-NDP_TAL/blob/master/nosketch/registry_files/subcorps): le fichier de configuration des sous-corpus thématiques. [https://www.sketchengine.eu/documentation/creating-subcorpora-for-sharing-with-all-users/](https://www.sketchengine.eu/documentation/creating-subcorpora-for-sharing-with-all-users/)
 
 
 Le dossier d'installation doit être comme suit:

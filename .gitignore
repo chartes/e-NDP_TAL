@@ -5,3 +5,5 @@ nosketch/treetagger/
 nosketch/venv/
 nosketch/vertical_nosketch/
 nosketch/xml_files/
+nosketch/data/
+nosketch/vertical/
