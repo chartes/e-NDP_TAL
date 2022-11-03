@@ -16,6 +16,13 @@ python endp_nosketch.py
 - input: placer `endp_pages_all_V7.zip` (cf release) in `./data/endp_pages_all_V7.zip`
 - output: `./vertical_nosketch/source`
 
+CLI arguments
+
+| arg | action                 |
+|-------|-------------------------------------------------|
+| -iiif | add the IIIF line-level images                  |
+| -ner  | add the NER tagging from Flair medieval latin model |
+| -mac  | switch to the Mac os version of treetagger      |
 
 ## `metadata`
 
@@ -28,6 +35,12 @@ python endp_nosketch.py
 `endp_volumes.txt` : tableau de concordances volumes / images des folios / collections eScriptorium. Utilisé pour permettre l’affichage de l’image d’une concordance dans noSketch.
 
 
+## Caveats
+1. L'installation a été testé sur Python3.7 and 3.8. Il peut avoir des conflicts avec une version supérieure.
+
+2. Si GPU il faudra enlèver ``torch==1.6.0+cpu`` du fichier `requirements.txt`.
+
+3. Si après l'installation Pytorch est en conflict avec Cublas, il faut reinstaller cudatoolkit: ```conda install -y -c conda-forge -c pytorch-test pytorch cudatoolkit=11.1```
 
 ## Installation de NoSketch
 
