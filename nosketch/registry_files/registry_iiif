@@ -70,13 +70,17 @@ STRUCTURE   doc {
 STRUCTURE g {
 	ATTRIBUTE zone
 	   DISPLAYTAG 0
-	   DISPLAYBEGIN " |%(zone) ==> "
-	   DISPLAYEND " | "
+	   DISPLAYBEGIN "	%(zone) ==>	"
+	   DISPLAYEND "  "
 }
 
 STRUCTURE s {
-	ATTRIBUTE img
-	URLTEMPLATE "%s"
+	DISPLAYTAG 0
+	DISPLAYBEGIN " / "
+	DISPLAYEND ""
+		ATTRIBUTE img {
+		URLTEMPLATE "%s"
 		MEDIATYPE "image"
+}
 }
 
