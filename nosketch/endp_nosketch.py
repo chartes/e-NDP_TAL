@@ -233,7 +233,7 @@ dict_registres={k:dict_registres[k] for k in sorted(dict_registres.keys()) if le
 start_time = time.time()
 registry="registry_files/registry"
 if args.iiif: registry+="_iiif"
-if args.nwe : registry+="_entities"
+if args.ner : registry+="_entities"
 
 pages_list=list(dict_registres.keys()) #list of id files
 dict_omnia_endp={}
