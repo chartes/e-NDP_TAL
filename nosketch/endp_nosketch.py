@@ -242,6 +242,8 @@ dict_registres={k:dict_registres[k] for k in sorted(dict_registres.keys()) if le
 
 start_time = time.time()
 registry="registry_files/registry"
+if args.iiif: registry+="_iiif"
+if args.nwe : registry+="_entities"
 
 pages_list=list(dict_registres.keys()) #list of id files
 dict_omnia_endp={}
@@ -273,7 +275,6 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
     text_nosketch=""
 
     if args.iiif: #if processing on IIIF images (line-level information), otherwise processing AN images (zone-level information, faster)
-      registry+="_iiif"
       # The Omnia treetagger tagging
       for kk,vv in c.items(): #iteration occurs inside the content of each detected page region (an c-item)
         coordinates=[[",".join([str(y) for y in cc[0]]),len(word_tokenize(cc[1]))] for cc in vv] #line sqaure coordinates
@@ -288,7 +289,6 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
             tags=[x.split("\t") for x in tags]
 
             if args.ner: #If we want display the NER tagging as a nosketch attribut of the text. This will increase the processing time to 2 hours.
-              registry+="_entities"
               FLAT_sentence=Sentence(tags_cap)
               FLAT_model.predict(FLAT_sentence)
               entities=bio_conll_single(FLAT_sentence)
@@ -322,8 +322,6 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
           tags=[x.split("\t") for x in tags]
 
           if args.ner: #if ner tagging
-            registry+="_entities"
-            
             FLAT_sentence=Sentence(tags_cap)
             FLAT_model.predict(FLAT_sentence)
             entities=bio_conll_single(FLAT_sentence)
@@ -365,7 +363,6 @@ shutil.copy(source, target)
 
 ## Saving the the subcorps file
 subcorps=""
-for k in topics.keys(): 
-    subcorps+='={}\n\tdoc\n\ttopic="{}"\n'.format(k,k)
-with open('subcorps.txt', 'w') as f:
-    f.write('vertical/subcorps')
+with open('vertical/subcorps.txt', 'w', encoding='utf-8') as f:
+    for k in topics.keys(): 
+        f.write('={}\n\tdoc\n\ttopic="{}"\n'.format(k,k))
