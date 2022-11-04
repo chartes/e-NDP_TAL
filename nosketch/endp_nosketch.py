@@ -277,38 +277,39 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
     if args.iiif: #if processing on IIIF images (line-level information), otherwise processing AN images (zone-level information, faster)
       # The Omnia treetagger tagging
       for kk,vv in c.items(): #iteration occurs inside the content of each detected page region (an c-item)
-        coordinates=[[",".join([str(y) for y in cc[0]]),len(word_tokenize(cc[1]))] for cc in vv] #line sqaure coordinates
-        phrase_text=""
-        for sent in vv: #iterate over line sentences
-        
-          if len(sent[1])>1:
-            tags_cap=tagger.tag_text(sent[1]) #keep the original text
-            tags_cap=[x.split("\t")[0] for x in tags_cap]
-            
-            tags=tagger.tag_text(grafias(sent[1]).lower())# pass lowerized text to treetagger as that produce more accurate pos and lemma
-            tags=[x.split("\t") for x in tags]
+        if len(vv)>1:
+            coordinates=[[",".join([str(y) for y in cc[0]]),len(word_tokenize(cc[1]))] for cc in vv] #line sqaure coordinates
+            phrase_text=""
+            for sent in vv: #iterate over line sentences
 
-            if args.ner: #If we want display the NER tagging as a nosketch attribut of the text. This will increase the processing time to 2 hours.
-              FLAT_sentence=Sentence(tags_cap)
-              FLAT_model.predict(FLAT_sentence)
-              entities=bio_conll_single(FLAT_sentence)
+              if len(sent[1])>1:
+                tags_cap=tagger.tag_text(sent[1]) #keep the original text
+                tags_cap=[x.split("\t")[0] for x in tags_cap]
 
-              tags=[[tags_cap[i], x[1], x[2].split("_", 1)[0], entities[i], kk] for i,x in enumerate(tags)] #combining treetagger and Flair results
-              
-            else:
-              tags=[[tags_cap[i], x[1], x[2].split("_", 1)[0],  kk] for i,x in enumerate(tags)]
+                tags=tagger.tag_text(grafias(sent[1]).lower())# pass lowerized text to treetagger as that produce more accurate pos and lemma
+                tags=[x.split("\t") for x in tags]
 
-            tags="\n".join(["\t".join(x) for x in tags])
+                if args.ner: #If we want display the NER tagging as a nosketch attribut of the text. This will increase the processing time to 2 hours.
+                  FLAT_sentence=Sentence(tags_cap)
+                  FLAT_model.predict(FLAT_sentence)
+                  entities=bio_conll_single(FLAT_sentence)
 
-            converter= lambda x : [x[0], x[1]-120, x[2], x[3]+270 ] if x[1]-120>0 else [x[0], 0, x[2],x[3]+270]#adding context to graphical lines
-            str_coord=",".join(map(str,converter(sent[0]))) #string version to indicate graphical section to the iiif api
-            str_coord='<s img="https://iiif.chartes.psl.eu/images/endp/FRAN_0393_LL_{}/{}.jpg/{}/full/0/default.jpg">'.format(str(vol[2:]),k,str_coord)
-          
-            phrase_text+=str_coord+"\n"
-            phrase_text+=tags+"\n</s>\n"
+                  tags=[[tags_cap[i], x[1], x[2].split("_", 1)[0], entities[i], kk] for i,x in enumerate(tags)] #combining treetagger and Flair results
 
-        text_nosketch+='<g zone="'+kk+'">\n'#Add the tokenized content of each region inside the <s> html tag
-        text_nosketch+=phrase_text+"</g>\n" #closing
+                else:
+                  tags=[[tags_cap[i], x[1], x[2].split("_", 1)[0],  kk] for i,x in enumerate(tags)]
+
+                tags="\n".join(["\t".join(x) for x in tags])
+
+                converter= lambda x : [x[0], x[1]-120, x[2], x[3]+270 ] if x[1]-120>0 else [x[0], 0, x[2],x[3]+270]#adding context to graphical lines
+                str_coord=",".join(map(str,converter(sent[0]))) #string version to indicate graphical section to the iiif api
+                str_coord='<s img="https://iiif.chartes.psl.eu/images/endp/FRAN_0393_LL_{}/{}.jpg/{}/full/0/default.jpg">'.format(str(vol[2:]),k,str_coord)
+
+                phrase_text+=str_coord+"\n"
+                phrase_text+=tags+"\n</s>\n"
+
+            text_nosketch+='<g zone="'+kk+'">\n'#Add the tokenized content of each region inside the <s> html tag
+            text_nosketch+=phrase_text+"</g>\n" #closing
        
 
     else: #if not IIIF, results to page/zone level
