@@ -352,6 +352,9 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
     # adding the generated body data and metadata as tags, attributs and head of each doc on the vertical file
     nosketch_vertical+='<doc link="{}" id="{}" sujet="{}" volume="{}" folio="{}" date="{}" >\n{}</doc>\n'.format(AN_link, id_nosketch, keywords, vol, k, formatted_data, text_nosketch)
 
+    
+  #--------------------------- Save the three files required by Nosketch ------------------
+
 ## Saving the final vertical file
 if not os.path.exists("vertical"): os.makedirs("vertical")
 with open("vertical/source", 'w', encoding="utf-8") as f:
