@@ -8,7 +8,7 @@ import cv2
 
 # The Omnia lemmatizer don't recognize V and J as well as common diptonga. Moreover, some other paratextual characters (optional) can be replaced in order to facilitate tagging
 
-forggiven_characters=[("ę", "e"), ("æ", "e"), ("œ", "e"),("V", "U"), ("v", "u"), ("J", "I"), ("j", "i")]
+forggiven_characters=[("ę", "e"), ("æ", "e"), ("œ", "e"),("V", "U"), ("v", "u"), ("J", "I"), ("j", "i"), ("ᑕ", "C"), ("ᗞ", "D")]
 
 #a one more complex set of corrections including pountuation and paratextual.
 '''
