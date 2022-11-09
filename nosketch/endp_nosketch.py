@@ -196,7 +196,7 @@ for filename in glob.glob(new_path_V7+"/raw_plus_manual/*.xml"): #14k files (aut
   points=[point.attrib["points"] for point in tree.findall('.//{http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15}Baseline')]
 
   unicodes=[uni.text for uni in tree.findall('.//{http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15}Unicode')]
-  unicodes=[" ".join([corrections[y] if y in corrections.keys() else Paris(y) for y in x.split() ]) for x in unicodes if x is not None] #introducting corrections
+  unicodes=[" ".join([corrections[y] if y in corrections.keys() else Paris(y) for y in x.split()]) if x is not None else "" for x in unicodes] #introducting corrections
 
   ids_regions=[elem.attrib["id"] for elem in tree.findall('.//{http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15}TextRegion')]
   #points_regions=[point for point in tree.findall(".//{http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15}TextRegion")]
@@ -221,7 +221,7 @@ for filename in glob.glob(new_path_V7+"/raw_plus_manual/*.xml"): #14k files (aut
   xml_content=list(zip(ids, points, unicodes))#tupla: ids, baseline, text
   xml_regions=list(zip(ids_regions, points_regions, type_regions))
 
-  dict_registres[nombre]=[[x[0], square(x[1]), x[2]] for x in xml_content if type(x[2])==str] #line name, rectangular line coordinates and line text
+  dict_registres[nombre]=[[x[0], square(x[1]), x[2]] for x in xml_content if (type(x[2])==str and x[2]!="")] #line name, rectangular line coordinates and line text
   dict_regions[nombre]=[[x[0], square(x[1]), x[2]] for x in xml_regions if x[2]!="-" ] #region name, rectangular region coordinates and region type
 
 
