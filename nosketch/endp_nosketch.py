@@ -359,4 +359,4 @@ shutil.copy(source, target)
 subcorps=""
 with open('vertical/subcorps.txt', 'w', encoding='utf-8') as f:
     for k in topics.keys(): 
-        f.write('={}\n\tdoc\n\ttopic="{}"\n'.format(k,k))
+        f.write('={}\n\tdoc\n\tsujet="{}"\n'.format(k,k))
