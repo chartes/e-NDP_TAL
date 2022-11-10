@@ -196,7 +196,7 @@ for filename in glob.glob(new_path_V7+"/raw_plus_manual/*.xml"): #14k files (aut
   points=[point.attrib["points"] for point in tree.findall('.//{http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15}Baseline')]
 
   unicodes=[uni.text for uni in tree.findall('.//{http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15}Unicode')]
-  unicodes=[" ".join([corrections[y] if y in corrections.keys() else Paris(y) for y in x.split()]) if x is not None else "" for x in unicodes] #introducting corrections
+  unicodes=[" ".join([corrections[y] if y in corrections.keys() else grafias(Paris(y)) for y in x.split()]) if x is not None else "" for x in unicodes] #introducting corrections
 
   ids_regions=[elem.attrib["id"] for elem in tree.findall('.//{http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15}TextRegion')]
   #points_regions=[point for point in tree.findall(".//{http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15}TextRegion")]
