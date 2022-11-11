@@ -244,7 +244,7 @@ with open('metadata/dict_omnia_endp_keywords.json', 'r') as json_file: dict_omni
 #random.shuffle(pages_list) #optional randomize
 
 for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page in xml format and displaying tqdm progress bar
-  if "FRAN_0393" in k:
+  if ("FRAN_0393" in k and len("".join([x[1].strip() for x in dict_registres[k]]))>10): #at least 10 characters to process
     keywords_c="Unclassed"
     a,b=transformation(k, dict_registres, dict_regions)
     c=copy.deepcopy(b) # deepcopy to avoid overwrite during iteration
@@ -254,7 +254,7 @@ for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page i
     page_id=int(k.split("_")[2].lstrip("0")) #page id: FRAN_0393_09136_L
     vol=[n for n,m in volumes.items() if page_id in range(m[0], m[1])][0] #volume
     data=[n.replace("_b", "") for n,m in unified_year_month.items() if page_id in range(m[0], m[1]+1)][0] #date: 1358_octobre
-    formatted_data=data.split("_",1)[0]+","+data.split("_",1)[0]+"::"+data.split("_",1)[1] #data format to nosketch hierarchy 1358::1358_octobre,
+    formatted_data=data.split("_",1)[0]+","+data.split("_",1)[0]+"::"+data.split("_",1)[1] #formatted data according to nosketch hierarchy 1358::1358_octobre,
     script_link=[str(m[2])+k+".jpg" for n,m in volumes.items() if page_id in range(m[0], m[1])][0] # link to the scriptorium page image
     AN_link="https://www.siv.archives-nationales.culture.gouv.fr/mm/media/download/"+str(k)+"-medium.jpg" #link to the archives nationales image
     id_nosketch=data.split("_",1)[0]+"_"+vol #nosketch doc.id to sorted results in nosketch concordance
@@ -350,13 +350,13 @@ if not os.path.exists("vertical"): os.makedirs("vertical")
 with open("vertical/source", 'w', encoding="utf-8") as f:
         f.write(nosketch_vertical) #Saving the final vertical file
     
-## Saving the the right registry file
+## Saving the right registry file
 source = registry
-target = 'vertical/endp.txt'
+target = 'vertical/endp'
 shutil.copy(source, target)
 
-## Saving the the subcorps file
+## Saving the subcorps file
 subcorps=""
-with open('vertical/subcorps.txt', 'w', encoding='utf-8') as f:
+with open('vertical/subcorps', 'w', encoding='utf-8') as f:
     for k in topics.keys(): 
         f.write('={}\n\tdoc\n\tsujet="{}"\n'.format(k,k))
