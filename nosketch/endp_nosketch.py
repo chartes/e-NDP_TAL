@@ -244,7 +244,7 @@ with open('metadata/dict_omnia_endp_keywords.json', 'r') as json_file: dict_omni
 #random.shuffle(pages_list) #optional randomize
 
 for i, k in enumerate(tqdm(pages_list)): #iterating over each transcribed page in xml format and displaying tqdm progress bar
-  if ("FRAN_0393" in k and len("".join([x[1].strip() for x in dict_registres[k]]))>10): #at least 10 characters to process
+  if ("FRAN_0393" in k and len("".join([x[2].strip() for x in dict_registres[k]]))>10): #at least 10 characters to process
     keywords_c="Unclassed"
     a,b=transformation(k, dict_registres, dict_regions)
     c=copy.deepcopy(b) # deepcopy to avoid overwrite during iteration
