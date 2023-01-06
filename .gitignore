@@ -7,3 +7,5 @@ nosketch/vertical_nosketch/
 nosketch/xml_files/
 nosketch/data/
 nosketch/vertical/
+
+.ipynb_checkpoints/
