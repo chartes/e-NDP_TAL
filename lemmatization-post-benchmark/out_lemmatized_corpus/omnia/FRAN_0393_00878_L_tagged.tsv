@@ -1,0 +1,223 @@
+form	lemma	POS morph
+anno	annus annÃ©e, saison	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+millesimo	millesimus milliÃ¨me	NUM
+quadringentesimo	quadringentesimus quatre-centiÃ¨me	NUM
+tercio	tertius troisiÃ¨me	NUM
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+iouis	-	NAM
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+crastinum	crastinum le lendemain	SUB
+decollacionis	decollatio dÃ©collation, dÃ©capitation	SUB
+beati	beatus bienheureux, riche, saint	QLF
+iohannis	-	NAM
+baptiste	baptista baptiseur	SUB
+xxixa	xxixa	NUM
+augusti	augustus1 saint, auguste, vÃ©nÃ©rable	QLF
+quinta	quintus cinquiÃ¨me	NUM
+et	et et	CON
+ultima	ultimus ultime Â¶ ultima, orum, (n. pl.) les derniers moments de la vie	QLF
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+generalis	generalis gÃ©nÃ©ral, universel	QLF
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+g	g	NAM
+.	.	SENT
+cantore	cantor chanteur, chantre	SUB
+ste	sanctus1 saint, sacrÃ©	QLF
+.	.	SENT
+brie	bria gobelet	SUB
+g	g	NAM
+.	.	SENT
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+archidiaconis	archidiaconus archidiacre	SUB
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lorriaco	-	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+pompedorio	pompedorio	QLF
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+iustinis	-	NAM
+g	g	NAM
+.	.	SENT
+cardonnelli	cardonnelli	NAM
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+uisitandum	uisito voir souvent, visiter	VBE
+ecclesias	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+subiectas	subicio soumettre, mettre plus bas, livrer Ã , exposer, substituer|subiecto approcher, jeter en haut, soulever	VBE
+deputati	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+ste	sanctus1 saint, sacrÃ©	QLF
+brie	bria gobelet	SUB
+archidiaconi	archidiaconus archidiacre	SUB
+p	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ogero	-	NAM
+d'aunoy	d'aunoy	VBE
+phi	phi phi (lettre grecque)	SUB
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+salione	salione	SUB
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lorriaco	-	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+hue	hue	VBE
+.	.	SENT
+h	h	VBE
+.	.	SENT
+blancheti	blanchetus Ã©toffe en lainage blanc	SUB
+et	et et	CON
+e	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+campis	campe chenille Â¶ cheval marin, sinuositÃ©|campus plaine, place, champ, camp	SUB
+fedelli	fedelli	SUB
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+rolandi	-	NAM
+e	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+campis	campe chenille Â¶ cheval marin, sinuositÃ©|campus plaine, place, champ, camp	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+uisitandum	uisito voir souvent, visiter	VBE
+domos	domus maison, dynastie, manse	SUB
+claustrales	claustralis1 qui ferme, claustral, monastique, canonial	QLF
+deputati	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+g	g	NAM
+.	.	SENT
+cardonneli	cardonneli	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+rolandi	-	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+passaco	passaco	NAM
+et	et et	CON
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ordeimonte	ordeimonte	SUB
+lau	lau	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mongeria	mongeria	SUB
+phi	phi phi (lettre grecque)	SUB
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+salione	salione	SUB
+hodie	hodie aujourd'hui	ADV
+domni	dominus maÃ®tre, chef, seigneur, sire	SUB
+g	g	NAM
+.	.	SENT
+uigerii	uicarius2 remplaÃ§ant, vicaire	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+sebastiani	-	NAM
+et	et et	CON
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+matheus	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+putheo	putheo	NAM
+etc	etc	VBE
+.	.	SENT
+et	et et	CON
+g	g	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+albiaco	-	NAM
+symon	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+caprosia	caprosia	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+episcopi	episcopus inspecteur, Ã©vÃªque, chef religieux	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+renunciauerunt	renuntio revenir annoncer, proclamer, rÃ©pondre, dÃ©noncer, renoncer	VBE
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sanctis	sancta offrande eucharistique|sanctum sacrement, parcelle du pain consacrÃ©, chose trÃ¨s sainte (ou consacrÃ©e), offrande eucharistique, choeur|sanctus2 saint, fidÃ¨le, martyr, apÃ´tre	SUB
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ordeimonte	ordeimonte	SUB
+t	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+petro	petro agneau Â¶ paysan lourdaud	SUB
+item	item de mÃªme, pareillement, d'autre part, en outre	ADV
+eciam	etiam aussi, mÃªme, encore, oui	ADV
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+iohannes	-	NAM
+le	le	VBE
+painteur	painteur	VBE
+sancti	sanctus1 saint, sacrÃ©	QLF
+sebastiani	-	NAM
+h	h	VBE
+.	.	SENT
+blancheti	blanchetus Ã©toffe en lainage blanc	SUB
+symon	-	NAM
+hubelin	hubelin	SUB
+cappellani	capellanus1 de la chapelle	QLF
+regis	rex roi, tyran, maÃ®tre absolu Â¶ (pl.) le couple royal, la famille royale, les fils du roi|riga ligne, raie, sillon|riuus ruisseau, riviÃ¨re, conduite d'eau, canal	SUB
+p	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ogero	-	NAM
+iohannes	-	NAM
+ianure	ianure	VBE
+cappellanus	capellanus2 chapelain	SUB
+du	505	NUM
+begue	begue	SUB
+sy	sy	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+bourich	bourich	QLF
+iohannes	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+bria	bria gobelet	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+actrebatensis	actrebatensis	SUB
+archidiaconus	archidiaconus archidiacre	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+hue	hue	VBE
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+maignaco	maignaco	NAM
+firminus	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+moulendino	moulendino	SUB
+actrebatensis	actrebatensis	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+episcopi	episcopus inspecteur, Ã©vÃªque, chef religieux	SUB
+parisensis	parisensis	NAM
+renunciarerunt	renunciarerunt	VBE
+etc	etc	VBE
+.	.	SENT
+t	-	NAM
+.	.	SENT
+houcie	hulcia mantelet, housse	SUB
+dyonisius	-	NAM
+saill	saill	NAM
+.mbn	.mbn	SUB
+p	-	NAM
+.	.	SENT
+colli	collis colline, coteau, montagne|collum cou, tige, col	SUB

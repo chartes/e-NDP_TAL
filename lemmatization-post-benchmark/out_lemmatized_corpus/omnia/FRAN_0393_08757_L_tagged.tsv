@@ -1,0 +1,347 @@
+form	lemma	POS morph
+357	@card@	INT
+cc	200	NUM
+fo	fo	VBE
+.	.	SENT
+facto	factum action, punition, redevance|factus exploitation, construction, quantitÃ© d'huile fournie par un tour de pressoir	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ferro	ferronus forgeron|ferrum fer, glaive	SUB
+et	et et	CON
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+dictum	dictum parole, sentence, proverbe, ordre	SUB
+lathomum	-	NAM
+situatam	situo placer, nommer	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+geolla	geolla	SUB
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+tho	tho	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+bailly	bailly	SUB
+procurator	procurator administrateur, intendant, mandataire, procurateur	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+parlamento	parlamentum parlement, parloir	SUB
+cupiat	cupio convoiter, dÃ©sirer, vouloir du bien Ã	VBE
+garandiam	warantia garantie, gage, droit Â¶ garance (bot.)	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+gilleto	gilleto	NAM
+brencissis	brencissis	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+certa	certus dÃ©cidÃ©, bien dÃ©fini, certain	QLF
+causa	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+mota	moto mouvoir, agiter|moueo mettre en mouvement, agiter, Ã©carter, pousser (plantes), dÃ©pendre de	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+requestis	requesta demande en justice	SUB
+inter	inter entre, parmi, dans, pendant	PRE
+ordinatum	ordinatio organisation, ordonnance, disposition, ordonnancement, ordre Â¶ ordination, sacre, consÃ©cration (liturg.)|ordinatus Ã©quipement	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+moneatur	moneo avertir, prÃ©venir	VBE
+ex	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+parte	pars part, partie, partage, parti Â¶ (pl.) rÃ´le (d'un acteur), parti|parta qui a enfantÃ©	SUB
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+sub	sub sous, en prÃ©sence de, au moment de, par, grÃ¢ce Ã	PRE
+penis	pena peine, chÃ¢timent|penis queue, pÃ©nis|penna penne, plume, aile, flÃ¨che, nageoire|penus provisions, garde-manger, sanctuaire|pinna faÃ®te, pinacle, colline	SUB
+suspensionis	suspensio mise en croix, pendaison, attente, incertitude, interruption, suspension de fonctions	SUB
+et	et et	CON
+excommunicacionis	excommunicatio excommunication	SUB
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+iohannes	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lymoges	lymoges	SUB
+presbiter	presbyter prÃªtre	SUB
+beneficiatus	beneficiatus bÃ©nÃ©ficiaire	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+mederici	-	NAM
+ob	ob devant, en vue de, Ã  cause de, en Ã©change de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+subditus	subdo mettre sous, assujettir, soumettre, substituer, fournir	VBE
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+presbiteris	presbyter prÃªtre|presbytera femme de prÃªtre	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+illico	illico sur la place, sur-le-champ	ADV
+restituendo	restituo restaurer, ramener d'exil, rendre	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+quamdam	quidam certain	QLF
+commissionem	commissio joint, mise en contact, reprÃ©sentation, action d'engager le combat, mission, bail Ã  ferme, confiscation d'un fief, mauvaise action	SUB
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+m	1000	NUM
+.	.	SENT
+l	50	NUM
+.	.	SENT
+recreilui	recreilui	VBE
+dicti	dico2 dire, ordonner, chanter	VBE
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+notarium	notarius1 relatif Ã  l'Ã©criture	QLF
+dicto	dico2 dire, ordonner, chanter|dicto dicter, versifier, conseiller, dire souvent	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lymoges	lymoges	SUB
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+utriorem	utriorem	QLF
+et	et et	CON
+interporcionem	interporcionem	SUB
+eius	is2 il, elle, le, la, les	PRO
+nostris	noster notre, le nÃ´tre	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+porcionem	portio portion, part, proportion	SUB
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+g	g	NAM
+.	.	SENT
+auffray	auffray	NAM
+presbiteri	presbyter prÃªtre	SUB
+uicarii	uicarius1 reprÃ©sentant, successeur, rÃ©ciproque	QLF
+alterius	alter autre (de deux), autrui	QLF
+porcionis	portio portion, part, proportion	SUB
+capitularis	capitularis1 divisÃ© en chapitres, marquant le dÃ©but d'un chapitre, membre d'un chapitre de religieux	QLF
+dicti	dictus dit, susdit	QLF
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+mederici	-	NAM
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+dicto	dictus dit, susdit	QLF
+ue	ue2 hÃ©las ! malheur ! Â¶ malheurs, lamentations	INT
+.	.	SENT
+samxon	samxon	NAM
+sibi	se se, soi	PRO
+traditam	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+deseruendo	deseruendo	VBE
+alteri	alter autre (de deux), autrui	QLF
+porcioni	portio portion, part, proportion	SUB
+eiusdem	idem1 (le) mÃªme, ledit, ce	QLF
+cupiceriatur	cupiceriatur	VBE
+nunc	nunc maintenant, alors, donc	ADV
+inter	inter entre, parmi, dans, pendant	PRE
+nonnullos	nonnullus quelque	QLF
+litigiose	litigiosus querelleur, litigieux, oÃ¹ l'on plaide	QLF
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+obitum	obitus arrivÃ©e, visite, coucher (des astres), fin, trÃ©pas, destruction, accomplissement, exÃ©cution, obit	SUB
+deffuncti	deffuncti	VBE
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+karoli	-	NAM
+facci	facces lentille aquatique	SUB
+cum	cum1 (+ abl.) avec	PRE
+porcionis	portio portion, part, proportion	SUB
+fructus	fructus droit d'usage, fruit, usufruit	SUB
+et	et et	CON
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+illo	ille2 celui-lÃ , celle-lÃ , cela Â¶ un tel	PRO
+pendente	pendens pendant, incertain	QLF
+litigio	litigium contestation, dispute, procÃ¨s	SUB
+spectant	specto regarder, considÃ©rer, examiner, Ã©prouver, avoir en vue, donner sur	VBE
+capitulo	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+ean	ean	VBE
+eciam	etiam aussi, mÃªme, encore, oui	ADV
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+casu	casus chute, dÃ©clin, fin, arrivÃ©e fortuite, accident, hasard, cas, affaire Â¶ sub	SUB
+spectat	specto regarder, considÃ©rer, examiner, Ã©prouver, avoir en vue, donner sur	VBE
+personam	personus qui rÃ©sonne	QLF
+ydoneam	idoneus appropriÃ© Â¶ disculpÃ©, innocent, capable d'ester, authentique	QLF
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+eandam	eandam	VBE
+porcionem	portio portion, part, proportion	SUB
+regendam	rego rÃ©gir, diriger, redresser, administrer, rÃ©gner, rÃ©pondre en justice	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+diuinis	diuinus divin, prophÃ©tique, excellent	QLF
+commicttere	commicttere	VBE
+et	et et	CON
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+porcione	portio portion, part, proportion	SUB
+prout	prout selon que, dans la mesure oÃ¹, comme	CON
+dictum	dictum parole, sentence, proverbe, ordre	SUB
+auffroy	auffroy	NAM
+nuper	nuper maintenant, rÃ©cemment	ADV
+commiserunt	committo unir, entreprendre, rendre exÃ©cutoire, risquer, administrer (un sacrement), compromettre, produire, enjoindre, consigner, confier, perdre son droit sur une tenure par un dÃ©lit (ou une omission)	VBE
+inhibeatur	inhibeo retenir, ramer en arriÃ¨re, appliquer, infliger, exercer, prohiber	VBE
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+dicto	dico2 dire, ordonner, chanter|dicto dicter, versifier, conseiller, dire souvent	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lymoges	lymoges	SUB
+sub	sub sous, en prÃ©sence de, au moment de, par, grÃ¢ce Ã	PRE
+eisdem	idem1 (le) mÃªme, ledit, ce	QLF
+penis	pena peine, chÃ¢timent|penis queue, pÃ©nis|penna penne, plume, aile, flÃ¨che, nageoire|penus provisions, garde-manger, sanctuaire|pinna faÃ®te, pinacle, colline	SUB
+macetero	macetero	VBE
+pretextu	pretextus prÃ©texte, Ã©clat, reprÃ©sentation, protection	SUB
+huiusmodi	huiusmodi de cette maniÃ¨re, de cette sorte	ADV
+asserte	assero1 amener, attacher	VBE
+commissari	commissari	VBE
+aut	aut ou bien	CON
+alias	alius autre	QLF
+quouismodo	quouismodo	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+deseruiendo	deseruio servir, se consacrer Ã , fournir la subsistance Ã  qqn, desservir, payer des services Â¶ refuser de servir	VBE
+eidem	idem2 le-mÃªme, ledit	PRO
+porcioni	portio portion, part, proportion	SUB
+litigiose	litigiosus querelleur, litigieux, oÃ¹ l'on plaide	QLF
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+diuinis	diuinus divin, prophÃ©tique, excellent	QLF
+aut	aut ou bien	CON
+fundacione	fundatio crÃ©ation, fondation, stabilitÃ©	SUB
+ecclesiastice	ecclesiasticus1 de l'Ã©glise, chrÃ©tien, ecclÃ©siastique, canonique	QLF
+parrochianis	parochianus1 paroissien, diocÃ©sain	QLF
+ministrando	ministro fournir, servir	VBE
+se	se se, soi	PRO
+intromittat	intromitto faire entrer, introduire, admettre, saisir, envahir	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+se	se se, soi	PRO
+uel	uel ou, et, ou plutÃ´t, mÃªme, et qui plus est, par exemple, vraiment, au moins Â¶ uel... uel.. : ou... ou..., soit... soit... Â¶ + subj. : si seulement	CON
+alium	alius autre	QLF
+seu	siue ou si, soit	CON
+alios	alius autre	QLF
+et	et et	CON
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+premissis	premitto envoyer en avant ou d'avance, anticiper	VBE
+execuciam	execuciam	VBE
+debite	debitum dette, pÃ©chÃ©, tÃ¢che, amende, redevance, prÃ©bende, gage, nÃ©cessitÃ©	SUB
+demendandis	demendandis	VBE
+commissus	commissus1 individu placÃ© sous la protection d'un seigneur|commissus2 dÃ©lit	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+condurier	condurier	VBE
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+propter	propter Ã  cÃ´tÃ© de, le long de, Ã  cause de, pour	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+quam	quam que, combien, Ã  quel point	CON
+citius	citius plus vite, plus aisÃ©ment, plutÃ´t, plutÃ´t que de	ADV
+adibit	adeo2 aller vers	VBE
+dictam	dictus dit, susdit	QLF
+ecclesiam	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+mederici	-	NAM
+una	unus un, unique	NUM
+monicio	monitio avertissement, conseil, rÃ©clamation, expÃ©dition militaire	SUB
+notario	notarius1 relatif Ã  l'Ã©criture	QLF
+et	et et	CON
+portabit	porto transporter, porter, supporter, tenir	VBE
+dicto	dictus dit, susdit	QLF
+auffray	auffray	NAM
+nuper	nuper maintenant, rÃ©cemment	ADV
+ut	ut comment, comme, combien Â¶ (+ indic.) : de mÃªme que, quand, vu que Â¶ (+ subj.) : que, Ã  savoir que, pour que, de sorte que, tellement que, si bien que, Ã  supposer que Â¶ (+ part. futur) : avec l'intention de, comme pour	CON
+premittitur	premitto envoyer en avant ou d'avance, anticiper	VBE
+deputanto	deputanto	VBE
+suas	suus son, sa, sien, sienne	QLF
+litteras	littera lettre, sens littÃ©ral Â¶ Ã©crit, culture littÃ©raire, Ecriture	SUB
+commissoris	commissor coupable, celui qui engage	SUB
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+inseruientis	inseruio servir, asservir	VBE
+eidem	idem2 le-mÃªme, ledit	PRO
+porcioni	portio portion, part, proportion	SUB
+litigiosi	litigiosus querelleur, litigieux, oÃ¹ l'on plaide	QLF
+pendente	pendens pendant, incertain	QLF
+dicto	dico2 dire, ordonner, chanter|dicto dicter, versifier, conseiller, dire souvent	VBE
+litigio	litigium contestation, dispute, procÃ¨s	SUB
+eadem	idem1 (le) mÃªme, ledit, ce	QLF
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+circa	circa2 (+ acc.) autour de, le long de, Ã  propos de, au profit de	PRE
+horam	hora temps, saison, heure Â¶ (pl.) heures canoniales, priÃ¨res des heures canoniales Â¶ ad h : Ã  l'heure, sur l'heure, soudain, tout Ã  l'heure, pour un instant	SUB
+quantum	quantum quelle quantitÃ©, combien, tout ce que, autant que	CON
+post	post2 aprÃ¨s, derriÃ¨re	PRE
+meridiem	meridies midi, le milieu du jour, le sud	SUB
+dictus	dico2 dire, ordonner, chanter	VBE
+condurier	condurier	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+dictum	dictum parole, sentence, proverbe, ordre	SUB
+sanctum	sanctus1 saint, sacrÃ©	QLF
+medericum	-	NAM
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+mei	meus mon, mien	QLF
+notarii	notarius1 relatif Ã  l'Ã©criture	QLF
+predicti	predictus susdit	QLF
+presenti	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+accedens	accedo s'approcher, marcher sur	VBE
+prefatum	prefatus susdit	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lymoges	lymoges	SUB
+inibi	inibi lÃ , Ã  l'instant	ADV
+repertum	reperio retrouver, dÃ©couvrir, imaginer	VBE
+ex	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+parte	pars part, partie, partage, parti Â¶ (pl.) rÃ´le (d'un acteur), parti|parta qui a enfantÃ©	SUB
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+sub	sub sous, en prÃ©sence de, au moment de, par, grÃ¢ce Ã	PRE
+predictis	predictus susdit	QLF
+penis	pena peine, chÃ¢timent|penis queue, pÃ©nis|penna penne, plume, aile, flÃ¨che, nageoire|penus provisions, garde-manger, sanctuaire|pinna faÃ®te, pinacle, colline	SUB
+suspensionis	suspensio mise en croix, pendaison, attente, incertitude, interruption, suspension de fonctions	SUB
+excommunicacionis	excommunicatio excommunication	SUB
+monuit	moneo avertir, prÃ©venir	VBE
+iuxta	iuxta1 tout prÃ¨s, tout de suite aprÃ¨s, un peu avant, Ã©galement, autant	ADV
+premissa	premitto envoyer en avant ou d'avance, anticiper	VBE
+sibique	sibique	ADV
+fecit	facio faire, crÃ©er, agir	VBE
+sub	sub sous, en prÃ©sence de, au moment de, par, grÃ¢ce Ã	PRE
+eisdem	idem1 (le) mÃªme, ledit, ce	QLF
+penis	pena peine, chÃ¢timent|penis queue, pÃ©nis|penna penne, plume, aile, flÃ¨che, nageoire|penus provisions, garde-manger, sanctuaire|pinna faÃ®te, pinacle, colline	SUB
+inhibitum	inhibeo retenir, ramer en arriÃ¨re, appliquer, infliger, exercer, prohiber	VBE
+premissis	premitto envoyer en avant ou d'avance, anticiper	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+se	se se, soi	PRO
+dictam	dictus dit, susdit	QLF
+commissorioram	commissorioram	VBE
+feri	ferus2 animal	SUB
+licteris	licteris	QLF
+commissorias	commissoria pacte commissoire (droit)	SUB
+tradidit	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+dicto	dictus dit, susdit	QLF
+auffroy	auffroy	NAM
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+quo	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+iuramentum	iuramentum serment, jurement	SUB
+recepit	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+fideliter	fideliter fidÃ¨lement, solidement	ADV
+se	se se, soi	PRO
+habendo	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre	VBE
+certa	certus dÃ©cidÃ©, bien dÃ©fini, certain	QLF
+regimen	regimen direction, administration, facultÃ©, libertÃ©, droit d'usage, rÃ©gime	SUB
+et	et et	CON
+administracionem	administratio gestion, fonction	SUB
+dicte	dictus dit, susdit	QLF
+porcionis	portio portion, part, proportion	SUB
+dicte	dictus dit, susdit	QLF
+litigiose	litigiosus querelleur, litigieux, oÃ¹ l'on plaide	QLF
+et	et et	CON
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+reddendo	reddo rendre, raconter, faire entendre  Â¶ (rÃ©fl.) s'Ã©tablir Ã  demeure	VBE
+dictis	dictus dit, susdit	QLF
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+loco	locus lieu, place, passage (d'un Ã©crit), localitÃ©, monastÃ¨re	SUB
+et	et et	CON
+tempore	tempus temps, occasion, circonstances Â¶ tempe	SUB
+fidelem	fidelis fidÃ¨le, croyant, vassal	QLF
+compotum	computus calcul, compte, chronologie, nombre	SUB
+et	et et	CON
+reliqua	reliquus restant Â¶ reliquum est : il reste Ã	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+fructibis	fructibis	SUB
+et	et et	CON
+redditibus	redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+eiusdem	idem1 (le) mÃªme, ledit, ce	QLF
+porcionis	portio portion, part, proportion	SUB
+partem	pars part, partie, partage, parti Â¶ (pl.) rÃ´le (d'un acteur), parti	SUB
+illo	ille2 celui-lÃ , celle-lÃ , cela Â¶ un tel	PRO
+pendente	pendens pendant, incertain	QLF
+litigio	litigium contestation, dispute, procÃ¨s	SUB
+recipiendo	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+et	et et	CON
+habendo	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre	VBE
+prout	prout selon que, dans la mesure oÃ¹, comme	CON
+etiam	etiam aussi, mÃªme, encore, oui	ADV
+dictus	dico2 dire, ordonner, chanter	VBE
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+condurier	condurier	VBE
+retulit	refero rapporter, restituer, payer, proposer une motion, en appeler Ã , revenir dire, rendre compte, reproduire Â¶ refert : il importe, il est de l'intÃ©rÃªt de|retollo remporter	VBE
+premissis	premitto envoyer en avant ou d'avance, anticiper	VBE
+monitoriis	monitorium prÃ©cepte	SUB
+et	et et	CON
+inhibicionem	inhibitio action de ramer en sens contraire, dÃ©fense, gÃªne, empÃªchement	SUB
+dicto	dico2 dire, ordonner, chanter|dicto dicter, versifier, conseiller, dire souvent	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+limoges	limoges	SUB
+fecisse	facio faire, crÃ©er, agir	VBE
+auctoritate	auctoritas autoritÃ©, exemple, conseil	SUB
+sibi	se se, soi	PRO
+admisse	admitto lancer (vers), accepter, admettre	VBE

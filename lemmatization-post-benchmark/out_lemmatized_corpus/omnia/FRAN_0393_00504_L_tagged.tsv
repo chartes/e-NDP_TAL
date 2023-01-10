@@ -1,0 +1,321 @@
+form	lemma	POS morph
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+generale	generalis gÃ©nÃ©ral, universel	QLF
+celebratum	celebratus frÃ©quentÃ©, publiÃ©, cÃ©lÃ©brÃ©	QLF
+anno	annus annÃ©e, saison	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+millesimo	millesimus milliÃ¨me	NUM
+trecentesimo	trecentesimus trois-centiÃ¨me	NUM
+nonagesimo	nonagesimus quatre-vingt-dixiÃ¨me	NUM
+nono	nonus neuviÃ¨me	NUM
+.	.	SENT
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+mercurii	mercurius garrot d'un animal	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+crastinum	crastinum le lendemain	SUB
+festi	festus de fÃªte, solennel	QLF
+natiuitatis	natiuitas naissance, gÃ©nÃ©ration, NoÃ«l, anniversaire de la mort d'un saint, la GenÃ¨se, baptÃªme Â¶ servitude Â¶ horoscope  Â¶ plantes cultivÃ©es	SUB
+beati	beatus bienheureux, riche, saint	QLF
+iohannis	-	NAM
+baptiste	baptista baptiseur	SUB
+prima	primus premier, le plus important, Ã©minent	NUM
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+generalis	generalis gÃ©nÃ©ral, universel	QLF
+.	.	SENT
+xxu	25	NUM
+.ta	.ta	QLF
+mensis	mensa table, mense|mensis mois|mensum mesure (de terre)	SUB
+iunii	iunius1 de juin	QLF
+.	.	SENT
+presentibus	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+capitulantibus	capitulo Ã©numÃ©rer, stipuler, rÃ©unir le chapitre, chapitrer	VBE
+infrascriptis	infrascriptus Ã©crit ci-dessous	QLF
+.	.	SENT
+p	-	NAM
+.	.	SENT
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+g	g	NAM
+.	.	SENT
+cantore	cantor chanteur, chantre	SUB
+prepositi	prepositus prÃ©vÃ´t, prieur, commandant	SUB
+prebendarii	prebendarius1 prÃ©bendÃ©, relatif aux prÃ©bendes	QLF
+apud	apud auprÃ¨s de, chez	PRE
+g	g	NAM
+.	.	SENT
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+.	.	SENT
+brie	bria gobelet	SUB
+archidiacono	archidiaconus archidiacre	SUB
+moriacum	-	NAM
+.	.	SENT
+l	50	NUM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mongeria	mongeria	SUB
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ordeimonte	ordeimonte	SUB
+ciuillyacum	ciuillyacum	NAM
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+rancia	rancia	SUB
+i	1	NUM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+nullyaco	nullyaco	NAM
+cristolium	cristolium	QLF
+ph	ph	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+salione	salione	SUB
+ro	ro	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lorriaco	-	NAM
+ytheuillam	ytheuillam	NAM
+sy	sy	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+bourich	bourich	QLF
+iacobo	-	NAM
+cosson	cosson	SUB
+liricantum	liricantum	VBE
+officiarius	officiarius officier, agent, official, membre d'une maison ecclÃ©siastique, serviteur, agent domanial, appariteur judiciaire	SUB
+anniuersariorum	anniuersarius anniversaire	SUB
+p	-	NAM
+.	.	SENT
+colli	collis colline, coteau, montagne|collum cou, tige, col	SUB
+orlyacum	orlyacum	NAM
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+maignaco	maignaco	NAM
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ordeimonte	ordeimonte	SUB
+andresyacum	andresyacum	NAM
+t	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+alneto	alnetum aulnaie	SUB
+th	th	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+petro	petro agneau Â¶ paysan lourdaud	SUB
+g	g	NAM
+.	.	SENT
+fedelli	fedelli	SUB
+uiriacum	-	NAM
+i	1	NUM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sanctis	sancta offrande eucharistique|sanctum sacrement, parcelle du pain consacrÃ©, chose trÃ¨s sainte (ou consacrÃ©e), offrande eucharistique, choeur|sanctus2 saint, fidÃ¨le, martyr, apÃ´tre	SUB
+m	1000	NUM
+.	.	SENT
+sacheaueine	sacheaueine	SUB
+spedonam	spedonam	NAM
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+cantor	cantor chanteur, chantre	SUB
+g	g	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+kaer	kaer	VBE
+uernotum	uernotum	VBE
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+decanus	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+putheolis	putheolis	NAM
+infirmo	infirmus2 faiblesse morale	SUB
+corberosam	corberosam	SUB
+t	-	NAM
+.	.	SENT
+hocie	hocie	NAM
+l	50	NUM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mongeria	mongeria	SUB
+rosayum	rosayum	QLF
+n	n	VBE
+.	.	SENT
+dictatoris	dictator gÃ©nÃ©ral, chef, dictateur, celui qui dicte, Ã©crivain, poÃ¨te, secrÃ©taire, maÃ®tre de dictamen, arbitre	SUB
+n	n	VBE
+.	.	SENT
+dictatoris	dictator gÃ©nÃ©ral, chef, dictateur, celui qui dicte, Ã©crivain, poÃ¨te, secrÃ©taire, maÃ®tre de dictamen, arbitre	SUB
+g	g	NAM
+.	.	SENT
+iuuenis	iuuenis1 jeune	QLF
+deputati	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+uisitandum	uisito voir souvent, visiter	VBE
+compa	compa	VBE
+?	?	SENT
+rem	res chose, cause, affaire, Ã©vÃ©nement, bien, fortune, intÃ©rÃªt, litige, faits Â¶ (indÃ©cl.) res (lettre hÃ©br.)	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+g	g	NAM
+.	.	SENT
+paillardi	paillardi	NAM
+uictoris	uictor vainqueur	SUB
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+nulleyo	nulleyo	QLF
+.	.	SENT
+ste	sanctus1 saint, sacrÃ©	QLF
+.	.	SENT
+perruelli	perruelli	VBE
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+pompodorio	pompodorio	QLF
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ordeimonte	ordeimonte	SUB
+.	.	SENT
+a	ha ah !	INT
+.	.	SENT
+grangerii	grangerii	SUB
+et	et et	CON
+g	g	NAM
+.	.	SENT
+archidiacono	archidiaconus archidiacre	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sanctis	sancta offrande eucharistique|sanctum sacrement, parcelle du pain consacrÃ©, chose trÃ¨s sainte (ou consacrÃ©e), offrande eucharistique, choeur|sanctus2 saint, fidÃ¨le, martyr, apÃ´tre	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+.	.	SENT
+sy	sy	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+bourich	bourich	QLF
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+rollandi	rotulo inscrire sur un rouleau	VBE
+prouisores	prouisor celui qui prÃ©voit (ou qui pourvoit), prÃ©vÃ´t, officier	SUB
+domus	domus maison, dynastie, manse	SUB
+dei	deus dieu, idole, seigneur	SUB
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+et	et et	CON
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+ma	ma	VBE
+.	.	SENT
+reginaldi	-	NAM
+g	g	NAM
+.	.	SENT
+cantor	cantor chanteur, chantre	SUB
+et	et et	CON
+m	1000	NUM
+.	.	SENT
+reginaldi	-	NAM
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+uoygnon	uoygnon	NAM
+phi	phi phi (lettre grecque)	SUB
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+salione	salione	SUB
+custodia	custodia garde, protection, prison, troupeau, dignitÃ© de custode, custodie (franciscaine)	SUB
+clauium	clauis clef, verrou, barre, serrure	SUB
+litterarum	littera lettre, sens littÃ©ral Â¶ Ã©crit, culture littÃ©raire, Ecriture	SUB
+et	et et	CON
+cartarum	charta papyrus, Ã©crit, feuille, charte, document|quarta quart, quarte, la quatriÃ¨me heure	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+t	-	NAM
+.	.	SENT
+hocie	hocie	NAM
+prouisor	prouisor celui qui prÃ©voit (ou qui pourvoit), prÃ©vÃ´t, officier	SUB
+fabrice	fabrica forge, ferrure d'un cheval, travail, mÃ©tier, ruse, bÃ¢timent, fabrique d'Ã©glise, crÃ©ation du monde|fabricus forgeron	SUB
+cum	cum1 (+ abl.) avec	PRE
+prouisore	prouisor celui qui prÃ©voit (ou qui pourvoit), prÃ©vÃ´t, officier	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+episcopi	episcopus inspecteur, Ã©vÃªque, chef religieux	SUB
+deputatus	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+ste	sanctus1 saint, sacrÃ©	QLF
+.	.	SENT
+perruelli	perruelli	VBE
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iohannes	-	NAM
+rollandi	rotulo inscrire sur un rouleau	VBE
+t	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+petro	petro agneau Â¶ paysan lourdaud	SUB
+h	h	VBE
+.	.	SENT
+blancheti	blanchetus Ã©toffe en lainage blanc	SUB
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+decanus	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+suo	suus son, sa, sien, sienne	QLF
+et	et et	CON
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+nomine	nomen nom, dÃ©nomination, titre, essence Â¶ nomine (+gÃ©n.) : au nom de, au titre de, Ã  cause Â¶ (pl.) reliques	SUB
+optauit	opto choisir, dÃ©sirer, demander	VBE
+taxum	taxus if (bot.)	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+hue	hue	VBE
+prebende	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+deffuncti	deffuncti	VBE
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iohannis	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+karolay	karolay	NAM
+que	que (enclit.) et	CON
+nunc	nunc maintenant, alors, donc	ADV
+ro	ro	VBE
+.	.	SENT
+dangel	dangel	NAM
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+litigiosa	litigiosus querelleur, litigieux, oÃ¹ l'on plaide	QLF
+inter	inter entre, parmi, dans, pendant	PRE
+magistrum	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+petrum	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+reilhaco	reilhaco	SUB
+et	et et	CON
+magistrum	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+michaelem	-	NAM
+perruelli	perruelli	VBE
+inquestum	inquesta enquÃªte judiciaire, plainte	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+opus	opus1 ouvrage, acte, maÃ§onnerie, appareil Â¶ fabrique, oeuvre Â¶ ouvrÃ©e (mesure agraire)|opus2 besoin, nÃ©cessitÃ©, chose utile	SUB
+et	et et	CON
+neccesse	neccesse	VBE
+optare	opto choisir, dÃ©sirer, demander	VBE
+.	.	SENT
+custodia	custodia garde, protection, prison, troupeau, dignitÃ© de custode, custodie (franciscaine)	SUB
+clauium	clauis clef, verrou, barre, serrure	SUB
+arche	arca coffre, cercueil, cellule|arche empire|arcus arc, voÃ»te, arcade	SUB
+thesauri	thesaurus trÃ©sor, argent comptant	SUB
+tradita	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+domino	dominus maÃ®tre, chef, seigneur, sire	SUB
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ordeimonte	ordeimonte	SUB
+et	et et	CON
+n	n	VBE
+.	.	SENT
+dictatoris	dictator gÃ©nÃ©ral, chef, dictateur, celui qui dicte, Ã©crivain, poÃ¨te, secrÃ©taire, maÃ®tre de dictamen, arbitre	SUB
+et	et et	CON
+fiat	fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+tercia	tertius troisiÃ¨me	NUM
+clauis	claua massue, bÃ¢ton, barreau|clauis clef, verrou, barre, serrure|clauus clou, gouvernail, tumeur, poids	SUB
+.	.	SENT

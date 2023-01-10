@@ -1,0 +1,153 @@
+form	lemma	POS morph
+408	@card@	INT
+.	.	SENT
+ueneris	uenus VÃ©nus, amour, charme, mai Â¶ vente	SUB
+xix	19	NUM
+octobris	october mois d'octobre	SUB
+capitulantibus	capitulo Ã©numÃ©rer, stipuler, rÃ©unir le chapitre, chapitrer	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+cancellario	cancellarius huissier, scribe, greffier, chancelier, notaire	SUB
+mondidier	mondidier	VBE
+fourbeur	fourbeur	VBE
+chacy	chacy	VBE
+uictri	uictri	SUB
+sohier	sohier	VBE
+breton	breton	SUB
+cotin	cotin	SUB
+aguenin	aguenin	SUB
+pion	pion	VBE
+gaillon	gaillon	SUB
+paillard	paillard	NAM
+fraxinis	fraxinus frÃªne	SUB
+barre	bara civiÃ¨re|barra barriÃ¨re, bÃ¢ton, barre|barrus Ã©lÃ©phant	SUB
+ierson	ierson	SUB
+boullardi	boullardi	SUB
+haultny	haultny	SUB
+parenti	parens parent (pÃ¨re, mÃ¨re)	SUB
+burdelot	burdelot	VBE
+du	505	NUM
+drac	drac	NAM
+monnet	monnet	SUB
+despars	despars	QLF
+excusato	excusatus lettre d'excuse, exemption	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+croces	crocio croasser|croco teindre en jaune safran	VBE
+luillier	luillier	VBE
+p	-	NAM
+thomas	-	NAM
+preceptum	preceptum leÃ§on, ordre, prÃ©cepte, diplÃ´me	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+camerario	camerarius2 de tonnelle, du trÃ©sor	QLF
+clerico	clericus2 membre du clergÃ©	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+faciat	facio faire, crÃ©er, agir	VBE
+satisfacionem	satisfacionem	SUB
+$	$	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+logua	logua	SUB
+$	$	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+egidio	-	NAM
+symonis	-	NAM
+locagiis	locagium loyer	SUB
+domus	domus maison, dynastie, manse	SUB
+azini	azini	QLF
+rigati	rigo faire couler, arroser, irriguer, baigner	VBE
+egidio	-	NAM
+symonis	-	NAM
+lathomo	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+xii	12	NUM
+scutis	scuta Ã©cuelle|scutum Ã©cu, unitÃ© militaire, fief de haubert, service militaire, contingent fÃ©odal Â¶ s. bellicum : hiÃ©rarchie fÃ©odale de l'Empire germanique	SUB
+auri	auris oreille|aurum or, richesse	SUB
+sibi	se se, soi	PRO
+debitis	debeo devoir	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+reparacionibus	reparatio rÃ©tablissement, renouvellement	SUB
+factis	factum action, punition, redevance|factus exploitation, construction, quantitÃ© d'huile fournie par un tour de pressoir	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+domo	domus maison, dynastie, manse	SUB
+lune	luna lune, mois, gorge, lunule	SUB
+xxii	22	NUM
+octobris	october mois d'octobre	SUB
+capitulantibus	capitulo Ã©numÃ©rer, stipuler, rÃ©unir le chapitre, chapitrer	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+succentore	succentor chanteur qui accompagne, sous-chantre, conseiller, instigateur	SUB
+mondidier	mondidier	VBE
+cancellario	cancellarius huissier, scribe, greffier, chancelier, notaire	SUB
+uitri	uitrum verre, pastel	SUB
+penitenciario	penitenciario	QLF
+parenti	parens parent (pÃ¨re, mÃ¨re)	SUB
+chacy	chacy	VBE
+monnet	monnet	SUB
+breton	breton	NAM
+fourbeur	fourbeur	VBE
+cotin	cotin	SUB
+ierson	ierson	SUB
+gaillon	gaillon	SUB
+luillier	luillier	VBE
+barre	bara civiÃ¨re|barra barriÃ¨re, bÃ¢ton, barre|barrus Ã©lÃ©phant	SUB
+pion	pion	VBE
+haultny	haultny	SUB
+sohier	sohier	VBE
+du	505	NUM
+drac	drac	NAM
+p	-	NAM
+thomas	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+croces	crocio croasser|croco teindre en jaune safran	VBE
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+requesta	requesta demande en justice	SUB
+iohannis	-	NAM
+marseau	marseau	NAM
+suo	suus son, sa, sien, sienne	QLF
+nomine	nomen nom, dÃ©nomination, titre, essence Â¶ nomine (+gÃ©n.) : au nom de, au titre de, Ã  cause Â¶ (pl.) reliques	SUB
+et	et et	CON
+tamquam	tamquam comme, de mÃªme que, en qualitÃ© de, pour ainsi dire	CON
+stipulantes	stipulo promettre, Ã©crire, interroger|stipulor se faire promettre, promettre par stipulation, servir de caution Ã	VBE
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+francisco	-	NAM
+d'angle	d'angle	SUB
+petentis	peto se diriger vers, demander|petor obtenir	VBE
+sibi	se se, soi	PRO
+remicti	remicti	VBE
+arreragia	arrieragium arrÃ©rage	SUB
+debita	debeo devoir|debito lÃ©guer	VBE
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+duabus	duo deux	NUM
+domibus	domus maison, dynastie, manse	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+uico	uicus agglomÃ©ration, quartier, rue, bourg, domaine	SUB
+aux	aux	VBE
+uifz	uifz	NAM
+.	.	SENT
+placet	placeo plaire|placo apaiser	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+remictere	remictere	VBE
+arreragia	arrieragium arrÃ©rage	SUB
+excepta	excepto (re)tirer sans cesse|excipio (re)tirer de, excepter, rÃ©server, stipuler, recueillir, recevoir, surprendre, suivre, continuer, mÃªler	VBE
+una	unus un, unique	NUM
+annata	annata annate, fruits d'une prÃ©bende	SUB
+si	si si	CON
+possit	possum pouvoir Â¶ non p. facere quin, non p. quin : je ne peux pas empÃªcher que	VBE
+haberi	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre	VBE
+prouiso	prouiso1 avec calcul	ADV
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+se	se se, soi	PRO
+portat	porto transporter, porter, supporter, tenir	VBE
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+proprietario	proprietarius1 appartenant Ã	QLF
+etc	etc	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+francisto	francisto	QLF
+dangle	dangle	SUB
+fraxins	fraxins	VBE
+boullardi	boullardi	SUB
+aguenin	aguenin	SUB
+bur	bur	VBE
+delor	delor	VBE
+ia	ion violette (bot.), variÃ©tÃ© de pierre prÃ©cieuse	SUB
+despars	despars	QLF
+xi	11	NUM

@@ -1,0 +1,465 @@
+form	lemma	POS morph
+219	@card@	INT
+anno	annus annÃ©e, saison	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+millesimo	millesimus milliÃ¨me	NUM
+cccc_	cccc_	NUM
+tricesimo	tricesimus trentiÃ¨me, qui rapporte trente fois plus	NUM
+sexto	sexto six fois|sextus sixiÃ¨me	NUM
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+iouis	-	NAM
+decima	decimus dixiÃ¨me	NUM
+quarta	quartus quatriÃ¨me, le quart Â¶ die quarte (= die quarto) : dans quatre jours	NUM
+mensis	mensa table, mense|mensis mois|mensum mesure (de terre)	SUB
+iunii	iunius1 de juin	QLF
+.	.	SENT
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+conuocacionem	conuocatio appel, convocation	SUB
+propter	propter Ã  cÃ´tÃ© de, le long de, Ã  cause de, pour	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+specialiter	specialiter spÃ©cialement, notamment	ADV
+factam	facio faire, crÃ©er, agir|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+.	.	SENT
+facta	facio faire, crÃ©er, agir|facto faire souvent, exercer|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+prius	prius auparavant, jadis	ADV
+particione	partitio division	SUB
+prebendarum	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+parisiensis	-	NAM
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+uenerabiles	uenerabilis vÃ©nÃ©rable, respectueux	QLF
+et	et et	CON
+circunspectos	circunspectos	VBE
+uiros	uir homme, mari|uirus suc, humeur, bave, poison, puanteur	SUB
+dominos	dominus maÃ®tre, chef, seigneur, sire	SUB
+meos	meus mon, mien	QLF
+magistros	magister1 qui guide, principal	QLF
+iohannem	-	NAM
+tuderti	tuderti	NAM
+decanum	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+.	.	SENT
+petrum	-	NAM
+d'orgemont	d'orgemont	VBE
+.	.	SENT
+iacobum	-	NAM
+barre	bara civiÃ¨re|barra barriÃ¨re, bÃ¢ton, barre|barrus Ã©lÃ©phant	SUB
+.	.	SENT
+et	et et	CON
+hugonem	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+dicy	dicy	QLF
+canonicos	canonicus2 thÃ©oricien, clerc, chanoine	SUB
+eiusdem	idem1 (le) mÃªme, ledit, ce	QLF
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+eiusdem	idem1 (le) mÃªme, ledit, ce	QLF
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+specialiter	specialiter spÃ©cialement, notamment	ADV
+commissos	commissus1 individu placÃ© sous la protection d'un seigneur	SUB
+et	et et	CON
+deputatos	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+/	/	VBE
+eleccio	electio choix, Ã©lection Â¶ les Ã©lus Â¶ hÃ©rÃ©sie Â¶ loi statutaire, commune Â¶ dignitÃ© d'Ã©vÃªque Ã©lu	SUB
+dictarum	dictus dit, susdit	QLF
+prebendarum	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+que	que (enclit.) et	CON
+debebat	debeo devoir	VBE
+fieri	fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+uigillia	uigillia	QLF
+purificacionis	purificatio purification, justification	SUB
+beate	beatus bienheureux, riche, saint	QLF
+marie	-	NAM
+uirginis	uirgo vierge	SUB
+ultimo	ultimus ultime Â¶ ultima, orum, (n. pl.) les derniers moments de la vie	QLF
+preterita	pretereo dÃ©passer, omettre, laisser de cÃ´tÃ© Â¶ s'Ã©couler	VBE
+prout	prout selon que, dans la mesure oÃ¹, comme	CON
+consuetum	consuetus habituel, accoutumÃ©	QLF
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+facta	facio faire, crÃ©er, agir|facto faire souvent, exercer|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+fuit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+hodie	hodie aujourd'hui	ADV
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+tam	tam tant, autant, Ã  ce point	ADV
+presentibus	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+quam	quam que, combien, Ã  quel point	CON
+absentibus	absens absent	QLF
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+locis	locus lieu, place, passage (d'un Ã©crit), localitÃ©, monastÃ¨re	SUB
+inferius	inferius2 offert en sacrifice|inferus1 infÃ©rieur, qui est en dessous, d'en bas	QLF
+descriptis	describo copier, dÃ©crire, fixer, recenser	VBE
+.	.	SENT
+quequidem	quequidem	QLF
+particio	partitio division	SUB
+durabit	duro endurcir, endurer, durcir, durer, s'Ã©tendre	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+triennum	triennum	QLF
+/	/	VBE
+et	et et	CON
+tres	tres trois	NUM
+colectas	colectas	VBE
+sed	sed mais	CON
+nichilominus	nihilominus en rien moins, pas moins, Ã©galement, en outre	ADV
+fient	fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+noue	nouus nouveau, jeune, rÃ©novÃ©, autre, Ã©trange Â¶ a nouo : Ã  nouveau	QLF
+particiones	partitio division	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+uigillia	uigillia	QLF
+eiusdem	idem1 (le) mÃªme, ledit, ce	QLF
+purificacionis	purificatio purification, justification	SUB
+anno	annus annÃ©e, saison	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+m_	m_	QLF
+cccc_	cccc_	NUM
+xxx_	xxx_	NUM
+octauo	octauo en huitiÃ¨me lieu|octauus huitiÃ¨me	NUM
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+tempore	tempus temps, occasion, circonstances Â¶ tempe	SUB
+futuro	futurus futur	QLF
+tenebunturque	tenebunturque	VBE
+prepositi	prepositus prÃ©vÃ´t, prieur, commandant	SUB
+et	et et	CON
+prebendarii	prebendarius1 prÃ©bendÃ©, relatif aux prÃ©bendes	QLF
+locorum	locus lieu, place, passage (d'un Ã©crit), localitÃ©, monastÃ¨re	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+quibus	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+assignate	assigno attribuer, assigner	VBE
+prebende	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+debita	debeo devoir|debito lÃ©guer	VBE
+officiis	officium service, fonction, obligeance, devoir, obÃ©issance, secours, activitÃ©, ouvrage, office	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+secundum	secundum1 pendant, selon, suivant, en ce qui concerne, quant Ã , proportionnellement Ã , comme, de la mÃªme maniÃ¨re que, pour	PRE
+distribucionum	distributio division, distribution	SUB
+reddituum	redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+ipsorum	ipse2 lui-mÃªme, elle-mÃªme	PRO
+locorum	locus lieu, place, passage (d'un Ã©crit), localitÃ©, monastÃ¨re	SUB
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+obuenient	obuenio venir au-devant de, se prÃ©senter Ã , Ã©choir Ã , arriver Ã  l'encontre de, survenir	VBE
+durante	duro endurcir, endurer, durcir, durer, s'Ã©tendre	VBE
+huiusmodi	huiusmodi de cette maniÃ¨re, de cette sorte	ADV
+particione	partitio division	SUB
+/	/	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+moderacionem	moderatio mesure, modÃ©ration, gouvernement, administration, amÃ©nagement	SUB
+tamen	tamen cependant, toutefois	CON
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+habita	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre|habito rÃ©sider, occuper, s'attarder	VBE
+consideracione	consideratio considÃ©ration, observation	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+ipsos	ipse2 lui-mÃªme, elle-mÃªme	PRO
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+et	et et	CON
+disposicionem	dispositio disposition, administration	SUB
+temporis	tempus temps, occasion, circonstances Â¶ tempe	SUB
+.	.	SENT
+et	et et	CON
+primo	primo d'abord	ADV
+iohannes	-	NAM
+tuderti	tuderti	NAM
+decanus	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+prebenda	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+decanatus	decanatus doyennÃ©, charge de doyen	SUB
+.	.	SENT
+petrus	-	NAM
+franchomme	franchomme	SUB
+cantor	canto chanter, faire retentir	VBE
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+cantoria	cantoria chantrerie, office de chantre	SUB
+nicolaus	nicolaus variÃ©tÃ© de datte	SUB
+fraillon	fraillon	SUB
+archidiaconus	archidiaconus archidiacre	SUB
+parisiensis	-	NAM
+iohannes	-	NAM
+chuffart	chuffart	NAM
+cancellarius	cancellarius huissier, scribe, greffier, chancelier, notaire	SUB
+orliacum	-	NAM
+erunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+.xii	.xii	VBE
+.	.	SENT
+prebende	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+cum	cum1 (+ abl.) avec	PRE
+guillelmus	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+uillers	uillers	QLF
+dimidia	dimidius demi	QLF
+/	/	VBE
+et	et et	CON
+capient	capio1 prendre, saisir, contenir, Ãªtre capable Â¶ Ãªtre permis, Ãªtre possible	VBE
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+philipus	-	NAM
+aymenon	aymenon	NAM
+corberosa	corberosa	QLF
+ibidem	ibidem lÃ  mÃªme, au mÃªme moment	ADV
+prebendas	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+suas	suus son, sa, sien, sienne	QLF
+iohannes	-	NAM
+uiuiani	-	NAM
+senior	senior1 plus ancien, de premier rang, seigneur|senus sixiÃ¨me	QLF
+ytheuilla	ytheuilla	NAM
+iacobus	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+cubreyo	cubreyo	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+dimidia	dimidius demi	QLF
+iacobus	-	NAM
+branlart	branlart	NAM
+petrus	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+chacy	chacy	VBE
+philipus	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+rulli	rullus rustre, mendiant	QLF
+nicolaus	nicolaus variÃ©tÃ© de datte	SUB
+confranc	confranc	VBE
+iohannes	-	NAM
+hubert	hubert	NAM
+apud	apud auprÃ¨s de, chez	PRE
+iohannes	-	NAM
+tuderti	tuderti	NAM
+decanus	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+dimidia	dimidius demi	QLF
+sancti	sanctus1 saint, sacrÃ©	QLF
+aniani	-	NAM
+petrus	-	NAM
+col	col	NAM
+robertus	-	NAM
+auclou	auclou	NAM
+symon	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lucembourg	lucembourg	NAM
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iacobus	-	NAM
+barre	bara civiÃ¨re|barra barriÃ¨re, bÃ¢ton, barre|barrus Ã©lÃ©phant	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+moriacum	-	NAM
+erunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+sex	sex six	NUM
+prebende	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+cum	cum2 quand, puisque (+ ind.), comme (+ subj.)	CON
+electus	eligo enlever, choisir, Ã©lire, dÃ©cider	VBE
+prepositus	prepositus prÃ©vÃ´t, prieur, commandant	SUB
+uel	uel ou, et, ou plutÃ´t, mÃªme, et qui plus est, par exemple, vraiment, au moins Â¶ uel... uel.. : ou... ou..., soit... soit... Â¶ + subj. : si seulement	CON
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+dimidia	dimidius demi	QLF
+et	et et	CON
+capient	capio1 prendre, saisir, contenir, Ãªtre capable Â¶ Ãªtre permis, Ãªtre possible	VBE
+ibidem	ibidem lÃ  mÃªme, au mÃªme moment	ADV
+prebendas	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+suas	suus son, sa, sien, sienne	QLF
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+henricus	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+saconay	saconay	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+prebenda	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+ludouici	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+meleduno	meleduno	NAM
+archiepiscopi	archiepiscopus archevÃªque	SUB
+senonensis	-	NAM
+p	-	NAM
+.	.	SENT
+col	col	NAM
+absens	absens absent	QLF
+.	.	SENT
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+absencia	absentia absence	SUB
+aliorum	alius autre	QLF
+donec	donec (indic.) tant que, jusqu'Ã  ce que, (subj.) en attendant que, jusqu'au moment oÃ¹	CON
+etc	etc	VBE
+.	.	SENT
+litigiosa	litigiosus querelleur, litigieux, oÃ¹ l'on plaide	QLF
+inter	inter entre, parmi, dans, pendant	PRE
+m	1000	NUM
+.	.	SENT
+a	ha ah !	INT
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+boraciis	boraciis	SUB
+et	et et	CON
+m	1000	NUM
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+françoys	françoys	SUB
+.	.	SENT
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+prebenda	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+defuncti	defuncti les dÃ©funts	SUB
+m	1000	NUM
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+day	day	NAM
+litigiosa	litigiosus querelleur, litigieux, oÃ¹ l'on plaide	QLF
+inter	inter entre, parmi, dans, pendant	PRE
+m	1000	NUM
+.	.	SENT
+re	res chose, cause, affaire, Ã©vÃ©nement, bien, fortune, intÃ©rÃªt, litige, faits Â¶ (indÃ©cl.) res (lettre hÃ©br.)	SUB
+.	.	SENT
+aubelin	aubelin	NAM
+et	et et	CON
+m	1000	NUM
+.	.	SENT
+g	g	NAM
+.	.	SENT
+poulart	poulart	NAM
+apud	apud auprÃ¨s de, chez	PRE
+iacobus	-	NAM
+sacquespee	sacquespee	QLF
+chuffart	chuffart	NAM
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+chaffart	chaffart	NAM
+rosayum	rosayum	QLF
+erunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+tres	tres trois	NUM
+prebende	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+et	et et	CON
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iohannes	-	NAM
+auantage	auantage	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+prepositus	prepositus prÃ©vÃ´t, prieur, commandant	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+absentibus	absens absent	QLF
+capient	capio1 prendre, saisir, contenir, Ãªtre capable Â¶ Ãªtre permis, Ãªtre possible	VBE
+ibidem	ibidem lÃ  mÃªme, au mÃªme moment	ADV
+prebendas	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+suas	suus son, sa, sien, sienne	QLF
+iacobus	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+templenne	templenne	QLF
+uernotum	uernotum	NAM
+petrus	-	NAM
+cardonnel	cardonnel	NAM
+guillelmus	-	NAM
+le	le	VBE
+breton	breton	SUB
+guillelmus	-	NAM
+euart	euart	NAM
+apud	apud auprÃ¨s de, chez	PRE
+radulphus	-	NAM
+haultny	haultny	SUB
+iohannes	-	NAM
+seguinat	seguinat	VBE
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+dimidia	dimidius demi	QLF
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+p	-	NAM
+.	.	SENT
+cardonnel	cardonnel	NAM
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+robertus	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+fontanis	fontaneus de source, de fontaine, primordial	QLF
+.	.	SENT
+electus	eligo enlever, choisir, Ã©lire, dÃ©cider	VBE
+prepositus	prepositus prÃ©vÃ´t, prieur, commandant	SUB
+andresiacum	andresiacum	NAM
+erunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+uiii_	uiii_	VBE
+prebende	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+cum	cum1 (+ abl.) avec	PRE
+dimidia	dimidius demi	QLF
+et	et et	CON
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+prebenda	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+defuncti	defuncti les dÃ©funts	SUB
+m	1000	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+iohannis	-	NAM
+et	et et	CON
+postmodum	postmodo bientÃ´t aprÃ¨s, par la suite	ADV
+mag	mag	NAM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+paris	pario2 enfanter, produire, crÃ©er, acquÃ©rir, faire naÃ®tre|pasco faire paÃ®tre, paÃ®tre, nourrir|paueo craindre, redouter|pauo1 paver	VBE
+spedonam	spedonam	NAM
+capient	capio1 prendre, saisir, contenir, Ãªtre capable Â¶ Ãªtre permis, Ãªtre possible	VBE
+ibidem	ibidem lÃ  mÃªme, au mÃªme moment	ADV
+litigiosa	litigiosus querelleur, litigieux, oÃ¹ l'on plaide	QLF
+inter	inter entre, parmi, dans, pendant	PRE
+m	1000	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+mauger	mauger	NAM
+et	et et	CON
+m	1000	NUM
+.	.	SENT
+martinum	-	NAM
+pinardi	-	NAM
+prebendas	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+suas	suus son, sa, sien, sienne	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+prebenda	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+defuncti	defuncti les dÃ©funts	SUB
+m	1000	NUM
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+col	col	NAM
+.	.	SENT
+litigiosa	litigiosus querelleur, litigieux, oÃ¹ l'on plaide	QLF
+inter	inter entre, parmi, dans, pendant	PRE
+m	1000	NUM
+.	.	SENT
+rogerus	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+gaillon	gaillon	SUB
+et	et et	CON
+m	1000	NUM
+.	.	SENT
+ferricum	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+beauuoir	beauuoir	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+prebenda	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+defuncti	defuncti les dÃ©funts	SUB
+m	1000	NUM
+.	.	SENT
+g	g	NAM
+.	.	SENT
+intrant	intro3 entrer dans, pÃ©nÃ©trer, vivre au milieu de, attaquer, Ãªtre Ã  son dÃ©but, livrer, dÃ©fricher, inscrire, insinuer, enregistrer	VBE
+litigiosa	litigiosus querelleur, litigieux, oÃ¹ l'on plaide	QLF
+inter	inter entre, parmi, dans, pendant	PRE
+m	1000	NUM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+greboual	greboual	SUB
+et	et et	CON
+m	1000	NUM
+.	.	SENT
+hugonem	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+noes	noes	SUB
+.	.	SENT
+apud	apud auprÃ¨s de, chez	PRE
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+decanus	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+electus	eligo enlever, choisir, Ã©lire, dÃ©cider	VBE
+et	et et	CON
+nominatus	nominatus1 renommÃ©	QLF
+loco	locus lieu, place, passage (d'un Ã©crit), localitÃ©, monastÃ¨re	SUB
+xxx	30	NUM
+ui	uis force, action, influence, efficacitÃ©	SUB
+.	.	SENT

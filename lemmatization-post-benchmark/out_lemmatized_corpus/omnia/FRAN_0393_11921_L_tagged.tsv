@@ -1,0 +1,301 @@
+form	lemma	POS morph
+audita	audio Ã©couter, entendre, comprendre, obÃ©ir	VBE
+relacione	relatio rapport, mise en dÃ©libÃ©ration, relation, narration, charge assignÃ©e Ã  quelqu'un	SUB
+m	1000	NUM
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+henrici	-	NAM
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+uidit	uideo voir, comprendre, veiller Ã  Â¶ (pass.) Ãªtre vu, sembler	VBE
+bullas	bulla boule, bulle	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+legati	legatum legs|legatus lÃ©gat, ambassadeur	SUB
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+collacione	collatio assemblage, rÃ©union, confrontation, contribution, don, comparaison, rapprochement, collation	SUB
+$	$	QLF
+d	500	NUM
+$	$	VBE
+p	-	NAM
+prebende	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+stephani	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+gressibus	gressus pied, marche, degrÃ©	SUB
+facta	facio faire, crÃ©er, agir|facto faire souvent, exercer|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+lannomaro	lannomaro	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+aranis	aranis	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+prebenda	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+quam	quam que, combien, Ã  quel point	CON
+obtinebat	obtineo obtenir, tenir solidement, garder, maintenir (ou Ã©tablir) une opinion, rÃ©ussir, durer	VBE
+p	-	NAM
+.	.	SENT
+lesniet	lesniet	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+contractum	contraho rassembler, engager une affaire, Ãªtre estropiÃ©, se marier	VBE
+matrimonii	matrimonium mariage, dot, hÃ©ritage maternel	SUB
+etc	etc	VBE
+.	.	SENT
+responsum	respondeo rÃ©pondre Ã , cadrer avec, Ãªtre Ã©gal Ã	VBE
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+eidem	idem2 le-mÃªme, ledit	PRO
+lannomaro	lannomaro	VBE
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+alias	alius autre	QLF
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+prouiderunt	prouideo prÃ©voir, pourvoir, prÃ©parer, veiller sur	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+prebenda	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+rogero	-	NAM
+regis	rex roi, tyran, maÃ®tre absolu Â¶ (pl.) le couple royal, la famille royale, les fils du roi|riga ligne, raie, sillon|riuus ruisseau, riviÃ¨re, conduite d'eau, canal	SUB
+clerico	clericus2 membre du clergÃ©	SUB
+m	1000	NUM
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+uayli	uayli	SUB
+canonici	canonicus2 thÃ©oricien, clerc, chanoine	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+sibi	se se, soi	PRO
+$	$	VBE
+ut	ut comment, comme, combien Â¶ (+ indic.) : de mÃªme que, quand, vu que Â¶ (+ subj.) : que, Ã  savoir que, pour que, de sorte que, tellement que, si bien que, Ã  supposer que Â¶ (+ part. futur) : avec l'intention de, comme pour	CON
+$	$	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+suo	suus son, sa, sien, sienne	QLF
+turno	tornus tour, treuil, tourniquet, rÃ¨glement de comptes, sÃ©ance judiciaire	SUB
+contulit	confero apporter, confÃ©rer	VBE
+eidem	idem2 le-mÃªme, ledit	PRO
+rogerio	-	NAM
+et	et et	CON
+ob	ob devant, en vue de, Ã  cause de, en Ã©change de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+faciat	facio faire, crÃ©er, agir	VBE
+conueniri	conuenio se rassembler, convenir, citer en justice, persÃ©cuter Â¶ conuenit : il convient que, il est logique que, il y a accord sur le fait que	VBE
+$	$	VBE
+apellari	apellari	VBE
+$	$	VBE
+et	et et	CON
+euocari	euoco appeler, convoquer, provoquer	VBE
+huiusmodi	huiusmodi de cette maniÃ¨re, de cette sorte	ADV
+partem	pars part, partie, partage, parti Â¶ (pl.) rÃ´le (d'un acteur), parti	SUB
+suam	suus son, sa, sien, sienne	QLF
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+sibi	se se, soi	PRO
+facierent	facierent	VBE
+quicquidem	quicquidem	PRO
+deleberet	deleberet	VBE
+petent	peto se diriger vers, demander	VBE
+ipsum	ipse2 lui-mÃªme, elle-mÃªme	PRO
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+requesta	requesta demande en justice	SUB
+lannomari	lannomari	VBE
+recipi	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+$	$	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+$	$	QLF
+uigore	uigor vigueur, Ã©nergie	SUB
+nonnullarum	nonnullus quelque	QLF
+licterarum	licterarum	QLF
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+cardinalis	cardinalis1 relatif Ã  l'un des quatre points cardinaux, relatif aux gonds, principal, titulaire, de cardinal, lÃ©gal, authentique	QLF
+nuper	nuper maintenant, rÃ©cemment	ADV
+legati	legatum legs|legatus lÃ©gat, ambassadeur	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+partibus	pars part, partie, partage, parti Â¶ (pl.) rÃ´le (d'un acteur), parti|partus accouchement	SUB
+francie	-	NAM
+eidem	idem2 le-mÃªme, ledit	PRO
+lannomaro	lannomaro	VBE
+concessarum	concedo s'en aller Â¶ accorder, concÃ©der	VBE
+et	et et	CON
+processuum	processus progression, progrÃ¨s, procÃ¨s	SUB
+inde	inde de lÃ , Ã  partir de lÃ	ADV
+secutorum	secutor successeur, poursuivant	SUB
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+ueneris	uenus VÃ©nus, amour, charme, mai Â¶ vente	SUB
+ultimate	ultimo2 toucher Ã  sa fin	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+capitulo	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+exhibitorum	exhibitor celui qui montre, qui produit, porteur (d'une lettre)	SUB
+recipi	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+canonicatum	canonicatus canonicat	SUB
+et	et et	CON
+prebendam	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+stephani	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+gressibus	gressus pied, marche, degrÃ©	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+quos	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+solebat	soleo avoir coutume	VBE
+obtinere	obtineo obtenir, tenir solidement, garder, maintenir (ou Ã©tablir) une opinion, rÃ©ussir, durer	VBE
+petrus	-	NAM
+le	le	VBE
+muet	muet	SUB
+nuper	nuper maintenant, rÃ©cemment	ADV
+uacante	uacans vide, oisif, cÃ©libataire	QLF
+ut	ut comment, comme, combien Â¶ (+ indic.) : de mÃªme que, quand, vu que Â¶ (+ subj.) : que, Ã  savoir que, pour que, de sorte que, tellement que, si bien que, Ã  supposer que Â¶ (+ part. futur) : avec l'intention de, comme pour	CON
+fertur	fero porter, supporter, obtenir, raconter, admettre	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+contractum	contraho rassembler, engager une affaire, Ãªtre estropiÃ©, se marier	VBE
+matrimonii	matrimonium mariage, dot, hÃ©ritage maternel	SUB
+ipsius	ipse2 lui-mÃªme, elle-mÃªme	PRO
+p	-	NAM
+.	.	SENT
+lenniet	lenniet	QLF
+responsum	respondeo rÃ©pondre Ã , cadrer avec, Ãªtre Ã©gal Ã	VBE
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+eidem	idem2 le-mÃªme, ledit	PRO
+lannomaro	lannomaro	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+deliberacionem	deliberatio dÃ©libÃ©ration, consultation, dÃ©cret Â¶ dÃ©livrance, garantie, donation	SUB
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+alias	alius autre	QLF
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iohannes	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+uayli	uayli	SUB
+canonicus	canonicus2 thÃ©oricien, clerc, chanoine	SUB
+parisiensis	-	NAM
+tunc	tum alors Â¶ cum... tum : quand... alors, d'une part. d'autre part	ADV
+existens	exsisto sortir, naÃ®tre, s'Ã©lever, Ãªtre, exister	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+suo	suus son, sa, sien, sienne	QLF
+turno	tornus tour, treuil, tourniquet, rÃ¨glement de comptes, sÃ©ance judiciaire	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+beneficia	beneficium bienfait, service, fief	SUB
+conferenda	confero apporter, confÃ©rer	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+quam	quam que, combien, Ã  quel point	CON
+primum	primum en premier lieu, pour la premiÃ¨re fois	ADV
+uacacio	uacatio exemption, vide, abstention, action de s'adonner Ã , repos	SUB
+dictorum	dictus dit, susdit	QLF
+canonicatus	canonicatus canonicat	SUB
+et	et et	CON
+prebende	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+ipsius	ipse2 lui-mÃªme, elle-mÃªme	PRO
+et	et et	CON
+dicti	dictus dit, susdit	QLF
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+peruenit	peruenio arriver jusqu'Ã  un but, parvenir	VBE
+noticiam	notitia notoriÃ©tÃ©, connaissance, liste, charte-notice, rÃ©glement	SUB
+ipse	ipse2 lui-mÃªme, elle-mÃªme	PRO
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+uayli	uayli	SUB
+ipsos	ipse2 lui-mÃªme, elle-mÃªme	PRO
+canonicatum	canonicatus canonicat	SUB
+et	et et	CON
+prebendam	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+sic	sic ainsi, voici, de mÃªme, Ã  ce point	ADV
+uacantes	uaco s'appliquer Ã , vaquer Ã , Ãªtre vacant	VBE
+contulit	confero apporter, confÃ©rer	VBE
+rogero	-	NAM
+regis	rex roi, tyran, maÃ®tre absolu Â¶ (pl.) le couple royal, la famille royale, les fils du roi|riga ligne, raie, sillon|riuus ruisseau, riviÃ¨re, conduite d'eau, canal	SUB
+eius	is2 il, elle, le, la, les	PRO
+clerico	clericus2 membre du clergÃ©	SUB
+et	et et	CON
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+eisdem	idem1 (le) mÃªme, ledit, ce	QLF
+sibi	se se, soi	PRO
+prouidit	prouideo prÃ©voir, pourvoir, prÃ©parer, veiller sur	VBE
+et	et et	CON
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+eosdem	idem2 le-mÃªme, ledit	PRO
+fuit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+receptus	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+et	et et	CON
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+possessionem	possessio possession, propriÃ©tÃ©	SUB
+positus	pono placer, Ã©lever, quitter	VBE
+et	et et	CON
+ob	ob devant, en vue de, Ã  cause de, en Ã©change de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+actentis	actentis	VBE
+huiusmodi	huiusmodi de cette maniÃ¨re, de cette sorte	ADV
+collacione	collatio assemblage, rÃ©union, confrontation, contribution, don, comparaison, rapprochement, collation	SUB
+et	et et	CON
+possessione	possessio possession, propriÃ©tÃ©	SUB
+ac	atque et	CON
+eciam	etiam aussi, mÃªme, encore, oui	ADV
+opposicione	oppositio opposition, contraste	SUB
+$	$	VBE
+to	to	VBE
+$	$	VBE
+quam	quam que, combien, Ã  quel point	CON
+fecit	facio faire, crÃ©er, agir	VBE
+idem	idem2 le-mÃªme, ledit	PRO
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+uaili	uaili	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+collacionem	collatio assemblage, rÃ©union, confrontation, contribution, don, comparaison, rapprochement, collation	SUB
+et	et et	CON
+possessionem	possessio possession, propriÃ©tÃ©	SUB
+huiusmodi	huiusmodi de cette maniÃ¨re, de cette sorte	ADV
+ne	ne que ne pas, pour que ne pas Â¶ (enclit.) est-ce que ?	CON
+ipse	ipse2 lui-mÃªme, elle-mÃªme	PRO
+lannomarus	lannomarus	NAM
+aut	aut ou bien	CON
+alius	alius autre	QLF
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+reciperentur	recipero recouvrer, reconquÃ©rir, reprendre, soulager, restaurer, se rÃ©tablir, prospÃ©rer|recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+.	.	SENT
+$	$	VBE
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+non	non ne... pas, ne... point, non	ADV
+potest	possum pouvoir Â¶ non p. facere quin, non p. quin : je ne peux pas empÃªcher que	VBE
+$	$	VBE
+et	et et	CON
+propter	propter Ã  cÃ´tÃ© de, le long de, Ã  cause de, pour	PRE
+alias	alius autre	QLF
+causas	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+mouentem	mouens en mouvement, mobile, mobilier	QLF
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+non	non ne... pas, ne... point, non	ADV
+potest	possum pouvoir Â¶ non p. facere quin, non p. quin : je ne peux pas empÃªcher que	VBE
+ipsum	ipse2 lui-mÃªme, elle-mÃªme	PRO
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+recipere	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+presenti	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+sed	sed mais	CON
+faciat	facio faire, crÃ©er, agir	VBE
+conueniri	conuenio se rassembler, convenir, citer en justice, persÃ©cuter Â¶ conuenit : il convient que, il est logique que, il y a accord sur le fait que	VBE
+suam	suus son, sa, sien, sienne	QLF
+partem	pars part, partie, partage, parti Â¶ (pl.) rÃ´le (d'un acteur), parti	SUB
+aduersam	aduersus3 opposÃ©, contraire, fÃ¢cheux	QLF
+et	et et	CON
+capitulun	capitulun	SUB
+sibi	se se, soi	PRO
+faciet	facio faire, crÃ©er, agir	VBE
+id	is2 il, elle, le, la, les	PRO
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+fuerunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+iuris	ius droit, justice Â¶ jus, sauce	SUB
+et	et et	CON
+ratio	ratio calcul, compte, intÃ©rÃªts, affaires, registre, rÃ´le, liste, mÃ©thode, plan, thÃ©orie, raison, raisonnement, conduite, moyen, maniÃ¨re, justification, revendication, plaidoyer, justice faite au plaignant, cause (pl.), propriÃ©tÃ©, part, contrat, clause, condition, redevance	SUB
+99	@card@	VBE

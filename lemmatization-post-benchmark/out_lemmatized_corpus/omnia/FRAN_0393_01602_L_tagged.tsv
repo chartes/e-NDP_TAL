@@ -1,0 +1,267 @@
+form	lemma	POS morph
+340	@card@	INT
+.	.	SENT
+raoulin	raoulin	NAM
+le	le	VBE
+bel	-	NAM
+et	et et	CON
+iaquette	iaquette	NAM
+sa	sa	VBE
+femme	femme	QLF
+auctorizee	auctorizee	VBE
+desson	desson	VBE
+dit	dit	VBE
+mary	mary	SUB
+/	/	VBE
+confessent	confesso (se) confesser	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+leur	leur	NAM
+bon	bon	VBE
+gré	gré	VBE
+et	et et	CON
+certaine	certaine	SUB
+science	science	QLF
+/	/	VBE
+bien	bien	SUB
+pourueuz	pourueuz	NAM
+et	et et	CON
+aduiséz	aduiséz	NAM
+quant	quant	VBE
+aux	aux	VBE
+choses	choses	SUB
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+s'ensuiuent	s'ensuiuent	VBE
+/	/	VBE
+auoir	auoir	NAM
+prins	prins	SUB
+et	et et	CON
+retenu	retenu	VBE
+prennent	prennent	VBE
+et	et et	CON
+retiennent	retiennent	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+la	la	QLF
+feste	festus de fÃªte, solennel	QLF
+des	do donner, concÃ©der, lÃ©guer, exprimer	VBE
+toussains	toussains	SUB
+dernier	dernier	VBE
+passee	passee	SUB
+cccc	400	NUM
+et	et et	CON
+neuf	neuf	VBE
+iusques	iusques	SUB
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+ladicte	ladicte	QLF
+feste	festus de fÃªte, solennel	QLF
+cccc	400	NUM
+et	et et	CON
+dix	509	NUM
+prouchain	prouchain	NAM
+uenans	uenor chasser, faire la chasse Ã	VBE
+/	/	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+messeigneurs	messeigneurs	SUB
+les	les	VBE
+doyen	doyen	SUB
+et	et et	CON
+chapitre	chapitre	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+l'eglise	l'eglise	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+paris	par1 Ã©gal, pareil, appariÃ©	QLF
+/	/	VBE
+deux	deux	VBE
+estaulx	estaulx	SUB
+ioingnans	ioingnans	VBE
+et	et et	CON
+prouchains	prouchains	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+la	la	QLF
+grant	grant	SUB
+porte	porta porte, issue, dÃ©filÃ©, service d'accueil	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+la	la	QLF
+dicte	dictus dit, susdit	QLF
+eglise	eglise	SUB
+du	505	NUM
+costé	costé	VBE
+dextre	dexter1 Ã  droite, droit, adroit, favorable	QLF
+/	/	VBE
+$	$	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+$	$	QLF
+es	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+quelx	quelx	QLF
+on	on	VBE
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+acoustumé	acoustumé	QLF
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+uendre	uendre	SUB
+chandelles	chandelles	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+cire	ciris aigrette	SUB
+/	/	VBE
+pour	pour	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+faire	faire	SUB
+leur	leur	NAM
+prouffit	prouffit	VBE
+ledit	ledo blesser, offenser, faire du tort	VBE
+temps	temps	VBE
+durant	duro endurcir, endurer, durcir, durer, s'Ã©tendre	VBE
+/	/	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+uendant	uendo vendre	VBE
+chandelles	chandelles	NAM
+ceste	cestus1 ceinture, courroie|cista corbeille, ciste, coffre, urne	SUB
+prinse	prinse	SUB
+faicte	faicte	SUB
+pour	pour	VBE
+et	et et	CON
+parmi	parmi	SUB
+le	le	VBE
+pris	pris	VBE
+et	et et	CON
+la	la	VBE
+somme	sagma bÃ¢t, mesure	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+xx	20	NUM
+frans	frans	VBE
+d'or	d'or	VBE
+que	que (enclit.) et	CON
+lesdiz	lesdiz	NAM
+preneurs	preneurs	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+sont	sont	VBE
+et	et et	CON
+seront	seront	VBE
+tenus	tenus1 (aprÃ¨s gÃ©n. et abl.) jusqu'Ã , seulement	PRE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+paier	paier	VBE
+auxdiz	auxdiz	NAM
+doyen	doyen	SUB
+et	et et	CON
+chapitre	chapitre	SUB
+au	hau oh !	INT
+prouffit	prouffit	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+la	la	QLF
+chambre	chambre	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ladicte	ladicte	QLF
+eglise	eglise	SUB
+/	/	VBE
+ou	ou	NAM
+au	hau oh !	INT
+porteur	porteur	VBE
+etc	etc	VBE
+.	.	SENT
+c'est	c'est	VBE
+assauoir	assauoir	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+chascun	chascun	SUB
+moys	moys	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+egale	egale	NAM
+porcion	porcion	SUB
+/	/	VBE
+et	et et	CON
+ou	ou	NAM
+cas	cas	VBE
+que	que (enclit.) et	CON
+lesdiz	lesdiz	NAM
+preneurs	preneurs	VBE
+seroient	seroient	VBE
+deffaillans	deffaillans	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+paier	paier	VBE
+un	un	SUB
+chascun	chascun	SUB
+moys	moys	SUB
+passé	passé	VBE
+/	/	VBE
+ou	ou	NAM
+au	hau oh !	INT
+plus	plus1 plus, davantage	ADV
+loing	loing	NAM
+trois	-	NAM
+sepmaines	sepmaines	VBE
+aprés	aprés	NAM
+/	/	VBE
+iceulx	iceulx	VBE
+doyen	doyen	SUB
+et	et et	CON
+chapitre	chapitre	SUB
+pourront	pourront	VBE
+faire	faire	SUB
+leur	leur	NAM
+prouffit	prouffit	VBE
+desdiz	desdiz	VBE
+estaulx	estaulx	SUB
+en	en2 voiciÂ ! voilÃ Â !	INT
+les	les	VBE
+baillant	baillant	VBE
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+quelconque	quelconque	QLF
+autre	autre	NAM
+personne	personne	QLF
+et	et et	CON
+pour	pour	VBE
+quelque	quelque	QLF
+pris	pris	VBE
+qu'ilz	qu'ilz	NAM
+uouldront	uouldront	VBE
+/	/	VBE
+sans	sans	NAM
+ce	ce	VBE
+que	que (enclit.) et	CON
+iceulx	iceulx	VBE
+preneurs	preneurs	VBE
+y	y	VBE
+puissent	puissent	VBE
+contredire	contredire	VBE
+ne	ne que ne pas, pour que ne pas Â¶ (enclit.) est-ce que ?	CON
+reclamer	reclamo crier contre, protester	VBE
+aucun	aucun	SUB
+droit	droit	SUB
+/	/	VBE
+auquel	auquel	NAM
+defiancterent	defiancterent	VBE
+ou	ou	NAM
+cas	cas	VBE
+dessusdit	dessusdit	VBE
+ilz	ilz	NAM
+renoncent	renoncent	VBE
+obligent	obligo attacher, bander, lier (par un contrat ou par une excommunication), engager, obliger, hypothÃ©quer, rendre coupable (ou passible) de	VBE
+etc	etc	VBE
+.	.	SENT
+renonçans	renonçans	VBE
+etc	etc	VBE
+.	.	SENT
+promectans	promectans	VBE
+etc	etc	VBE
+fait	fait	SUB
+le	le	VBE
+xxuie	xxuie	SUB
+iour	iour	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+feurier	feurier	VBE
+l'an	l'an	SUB
+nal	nal	SUB
+cccc	400	NUM
+et	et et	CON
+neuf	neuf	QLF
+presens	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+iehan	iehan	NAM
+blanchart	blanchart	NAM
+colin	colin	NAM
+laurens	laurens	VBE
+et	et et	CON
+iehan	iehan	NAM
+bourgeois	bourgeois	SUB
+iehan	iehan	NAM
+paien	paien	SUB
+et	et et	CON
+pluseurs	pluseurs	QLF
+autres	autres	VBE
+.	.	SENT

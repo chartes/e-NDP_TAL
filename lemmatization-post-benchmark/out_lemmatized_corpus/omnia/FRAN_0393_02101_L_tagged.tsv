@@ -1,0 +1,391 @@
+form	lemma	POS morph
+io	io ah ! oh ! las !	INT
+.	.	SENT
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+g	g	NAM
+.	.	SENT
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+archidiacono	archidiaconus archidiacre	SUB
+g	g	NAM
+.	.	SENT
+brie	bria gobelet	SUB
+r	-	NAM
+.	.	SENT
+succentore	succentor chanteur qui accompagne, sous-chantre, conseiller, instigateur	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+cancellario	cancellarius huissier, scribe, greffier, chancelier, notaire	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+causa	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+officii	officium service, fonction, obligeance, devoir, obÃ©issance, secours, activitÃ©, ouvrage, office	SUB
+contra	contra2 (+ acc) en face de, vers, contre, en Ã©change de, contrairement Ã , de la part de	PRE
+magistrum	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iacobum	-	NAM
+brancardi	brancardi	NAM
+/	/	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+mercurii	mercurius garrot d'un animal	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+io	ion violette (bot.), variÃ©tÃ© de pierre prÃ©cieuse	SUB
+.	.	SENT
+hue	hue	VBE
+exhibendum	exhibeo montrer, causer, rendre, entretenir, (pron.) se conformer Ã	VBE
+cedulam	schedula page, codex, notice, charte	SUB
+etc	etc	VBE
+.	.	SENT
+et	et et	CON
+ulterius	ulterius plus longtemps, davantage, enfin	ADV
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+causa	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+officii	officium service, fonction, obligeance, devoir, obÃ©issance, secours, activitÃ©, ouvrage, office	SUB
+procedendi	procedo avancer, aboutir, rÃ©ussir, se distinguer	VBE
+cum	cum1 (+ abl.) avec	PRE
+$	$	QLF
+an	an est-ce que ? si (interrog.) Â¶ utrum... an : est-ce que.. ou bien, si... ou bien	CON
+$	$	VBE
+promotori	promotor celui qui accroÃ®t	SUB
+g	g	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+kaer	kaer	VBE
+et	et et	CON
+ro	ro	VBE
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+uoygnon	uoygnon	NAM
+intimacio	intimatio dÃ©monstration, exposition, accusation, signification, notification	SUB
+gracie	gratia2 faveur, gratitude, grÃ¢ce	SUB
+apostolice	apostolicus apostolique, pontifical	QLF
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+i	1	NUM
+.	.	SENT
+rolandi	-	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+d'ay	d'ay	VBE
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+u	5	NUM
+.	.	SENT
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+hodie	hodie aujourd'hui	ADV
+iohannes	-	NAM
+le	le	VBE
+cromer	cromer	SUB
+rector	rector pilote, gouverneur, souverain, maÃ®tre	SUB
+parrochialis	parochialis diocÃ©sain, paroissial Â¶ pl. : taxes paroissiales	QLF
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+erengaruilla	erengaruilla	SUB
+constanciensis	-	NAM
+diocesis	diocesis diocÃ¨se, paroisse, province ecclÃ©siastique, Ã©glise paroissiale, autoritÃ© diocÃ©saine	SUB
+intimauit	intimo mettre ou apporter dans, inscrire, insinuer, enregistrer, conduire dans, inculquer, enseigner, annoncer, communiquer, raconter, dÃ©crire, intimer, signifier, saisir d'une cause	VBE
+graciam	gratia2 faveur, gratitude, grÃ¢ce	SUB
+apostolicam	apostolicus apostolique, pontifical	QLF
+eidem	idem2 le-mÃªme, ledit	PRO
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+dominum	dominus maÃ®tre, chef, seigneur, sire	SUB
+nostrum	noster notre, le nÃ´tre	QLF
+papam	papa pÃ¨re, Ã©vÃªque, pape	SUB
+factam	facio faire, crÃ©er, agir|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+n	n	VBE
+.	.	SENT
+fraillioni	fraillioni	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+beneficio	beneficium bienfait, service, fief	SUB
+ecclesiastico	ecclesiasticus1 de l'Ã©glise, chrÃ©tien, ecclÃ©siastique, canonique	QLF
+cum	cum1 (+ abl.) avec	PRE
+cura	cura exercice, soin, gestion, cure	SUB
+uel	uel ou, et, ou plutÃ´t, mÃªme, et qui plus est, par exemple, vraiment, au moins Â¶ uel... uel.. : ou... ou..., soit... soit... Â¶ + subj. : si seulement	CON
+sine	sine sans	PRE
+cura	cura exercice, soin, gestion, cure	SUB
+etc	etc	VBE
+si	si si	CON
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+cathedrali	cathedralis2 Ã©glise cathÃ©drale Â¶ chanoine d'une cathÃ©drale	SUB
+aut	aut ou bien	CON
+canonicatus	canonicatus canonicat	SUB
+et	et et	CON
+prebenda	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+alterius	alter autre (de deux), autrui	QLF
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+quam	quam que, combien, Ã  quel point	CON
+ipsius	ipse2 lui-mÃªme, elle-mÃªme	PRO
+cathedralis	cathedralis1 cathÃ©dral	QLF
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+existat	exsisto sortir, naÃ®tre, s'Ã©lever, Ãªtre, exister	VBE
+cuius	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+fructus	fructus droit d'usage, fruit, usufruit	SUB
+etc	etc	VBE
+.	.	SENT
+r	-	NAM
+.	.	SENT
+burgensis	burgensis bourgeois	QLF
+si	si si	CON
+cum	cum1 (+ abl.) avec	PRE
+cura	cura exercice, soin, gestion, cure	SUB
+xlta	xlta	NUM
+/	/	VBE
+et	et et	CON
+si	si si	CON
+sine	sine sans	PRE
+cura	cura exercice, soin, gestion, cure	SUB
+xxx	30	NUM
+l	50	NUM
+.	.	SENT
+t	-	NAM
+.	.	SENT
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+collacionem	collatio assemblage, rÃ©union, confrontation, contribution, don, comparaison, rapprochement, collation	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+dominicus	dominicus1 du maÃ®tre, du Seigneur, de la cathÃ©drale  Â¶ dominica dies : dimanche	QLF
+parui	paruus petit, de peu de valeur	QLF
+sub	sub sous, en prÃ©sence de, au moment de, par, grÃ¢ce Ã	PRE
+data	do donner, concÃ©der, lÃ©guer, exprimer	VBE
+uii_	uii_	VBE
+kalendas	calende calendes, rÃ©unions mensuelles	SUB
+iunii	iunius1 de juin	QLF
+pontificatus	pontificatus pontificat	SUB
+etc	etc	VBE
+.	.	SENT
+anno	annus annÃ©e, saison	SUB
+primo	primo d'abord	ADV
+necnon	necnon et aussi, et	CON
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+fusoris	fusor fondeur, celui qui verse, Ã©chanson	SUB
+processum	procedo avancer, aboutir, rÃ©ussir, se distinguer	VBE
+auctoritate	auctoritas autoritÃ©, exemple, conseil	SUB
+dictarum	dictus dit, susdit	QLF
+licterarum	licterarum	QLF
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+dominum	dominus maÃ®tre, chef, seigneur, sire	SUB
+abbatem	abbas pÃ¨re, abbÃ©, dignitaire (d'un chapitre)	SUB
+monasterii	monasterium Ã©glise, monastÃ¨re	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+gemeticis	gemeticis	NAM
+ordinis	ordo ordre, disposition, ordo (liturg.)	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+benedicti	benedictus bÃ©ni	QLF
+rothomagensis	-	NAM
+diocesis	diocesis diocÃ¨se, paroisse, province ecclÃ©siastique, Ã©glise paroissiale, autoritÃ© diocÃ©saine	SUB
+executis	exsecutus explicite	QLF
+unacum	unacum	VBE
+auctoritate	auctoritas autoritÃ©, exemple, conseil	SUB
+apostolica	apostolicus apostolique, pontifical	QLF
+deputatum	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+debita	debitum dette, pÃ©chÃ©, tÃ¢che, amende, redevance, prÃ©bende, gage, nÃ©cessitÃ©	SUB
+g	g	NAM
+.	.	SENT
+macheti	macheti	SUB
+forma	forma forme, type, beautÃ©, moule	SUB
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+confectum	conficio rÃ©aliser, achever	VBE
+etc	etc	VBE
+.	.	SENT
+/	/	VBE
+sub	sub sous, en prÃ©sence de, au moment de, par, grÃ¢ce Ã	PRE
+data	do donner, concÃ©der, lÃ©guer, exprimer	VBE
+anni	annus annÃ©e, saison	SUB
+ccccmi	ccccmi	NUM
+xiimi	xiimi	VBE
+et	et et	CON
+diei	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+h	h	VBE
+.	.	SENT
+berengarii	-	NAM
+xue	xue	NUM
+mensis	mensa table, mense|mensis mois|mensum mesure (de terre)	SUB
+octobris	october mois d'octobre	SUB
+.	.	SENT
+g	g	NAM
+.	.	SENT
+faideli	faideli	QLF
+intimacio	intimatio dÃ©monstration, exposition, accusation, signification, notification	SUB
+acceptacionis	acceptatio agrÃ©ment	SUB
+p	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+guies	guies	QLF
+item	item de mÃªme, pareillement, d'autre part, en outre	ADV
+eadem	idem1 (le) mÃªme, ledit, ce	QLF
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+intimauit	intimo mettre ou apporter dans, inscrire, insinuer, enregistrer, conduire dans, inculquer, enseigner, annoncer, communiquer, raconter, dÃ©crire, intimer, signifier, saisir d'une cause	VBE
+acceptacionem	acceptatio agrÃ©ment	SUB
+et	et et	CON
+prouisionem	prouisio prÃ©vision, prÃ©cautions, collation	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+cappelania	cappelania	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+altare	altar autel, revenus d'un autel	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+iohannis	-	NAM
+euangeliste	euangelista Ã©vangÃ©liste	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+parisiense	-	NAM
+fundata	fundatus bien assis, mÃªlÃ© d'or	QLF
+uacante	uaco s'appliquer Ã , vaquer Ã , Ãªtre vacant	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+obitum	obitus arrivÃ©e, visite, coucher (des astres), fin, trÃ©pas, destruction, accomplissement, exÃ©cution, obit	SUB
+deffuncti	deffuncti	VBE
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+iohannis	-	NAM
+sy	sy	VBE
+alegreti	alegreti	VBE
+luce	lux lumiÃ¨re, vue, grand jour, vie	SUB
+alias	alius autre	QLF
+preciner	preciner	VBE
+ultimi	ultimum2 le plus haut degrÃ©	SUB
+possessoris	possessor possesseur, propriÃ©taire	SUB
+eiusdem	idem1 (le) mÃªme, ledit, ce	QLF
+etc	etc	VBE
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+durandi	duro endurcir, endurer, durcir, durer, s'Ã©tendre	VBE
+intimacio	intimatio dÃ©monstration, exposition, accusation, signification, notification	SUB
+gracie	gratia2 faveur, gratitude, grÃ¢ce	SUB
+apostolice	apostolicus apostolique, pontifical	QLF
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+u	5	NUM
+sp	-	NAM
+.	.	SENT
+item	item de mÃªme, pareillement, d'autre part, en outre	ADV
+eadem	idem1 (le) mÃªme, ledit, ce	QLF
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iohannes	-	NAM
+maioris	magnus grand, magnanime, emphatique|maius1 du mois de mai	QLF
+procurator	procurator administrateur, intendant, mandataire, procurateur	SUB
+iohannis	-	NAM
+du	505	NUM
+chastel	chastel	NAM
+clerici	clericus2 membre du clergÃ©	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+tarenne	tarenne	NAM
+intimauit	intimo mettre ou apporter dans, inscrire, insinuer, enregistrer, conduire dans, inculquer, enseigner, annoncer, communiquer, raconter, dÃ©crire, intimer, signifier, saisir d'une cause	VBE
+graciam	gratia2 faveur, gratitude, grÃ¢ce	SUB
+eidem	idem2 le-mÃªme, ledit	PRO
+iohanni	-	NAM
+du	505	NUM
+chastel	chastel	NAM
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+dominum	dominus maÃ®tre, chef, seigneur, sire	SUB
+nostrum	noster notre, le nÃ´tre	QLF
+papam	papa pÃ¨re, Ã©vÃªque, pape	SUB
+factam	facio faire, crÃ©er, agir|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+beneficio	beneficium bienfait, service, fief	SUB
+ecclesiastico	ecclesiasticus1 de l'Ã©glise, chrÃ©tien, ecclÃ©siastique, canonique	QLF
+sine	sine sans	PRE
+cura	cura exercice, soin, gestion, cure	SUB
+etc	etc	VBE
+si	si si	CON
+canonicatus	canonicatus canonicat	SUB
+et	et et	CON
+prebenda	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+uel	uel ou, et, ou plutÃ´t, mÃªme, et qui plus est, par exemple, vraiment, au moins Â¶ uel... uel.. : ou... ou..., soit... soit... Â¶ + subj. : si seulement	CON
+officium	officium service, fonction, obligeance, devoir, obÃ©issance, secours, activitÃ©, ouvrage, office	SUB
+alterius	alter autre (de deux), autrui	QLF
+quam	quam que, combien, Ã  quel point	CON
+cathedralis	cathedralis1 cathÃ©dral	QLF
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+fuerit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+cuius	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+fructus	fructus droit d'usage, fruit, usufruit	SUB
+etc	etc	VBE
+.	.	SENT
+xxxta	triginta trente	NUM
+l	50	NUM
+.b	.b	VBE
+.	.	SENT
+t	-	NAM
+.	.	SENT
+paruorum	paruus petit, de peu de valeur	QLF
+etc	etc	VBE
+.	.	SENT
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+collacionem	collatio assemblage, rÃ©union, confrontation, contribution, don, comparaison, rapprochement, collation	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+et	et et	CON
+nostram	noster notre, le nÃ´tre	QLF
+etc	etc	VBE
+.	.	SENT
+sub	sub sous, en prÃ©sence de, au moment de, par, grÃ¢ce Ã	PRE
+data	do donner, concÃ©der, lÃ©guer, exprimer	VBE
+bononie	-	NAM
+ui_	ui_	VBE
+kalendas	calende calendes, rÃ©unions mensuelles	SUB
+iunii	iunius1 de juin	QLF
+pontificatus	pontificatus pontificat	SUB
+etc	etc	VBE
+.	.	SENT
+anno	annus annÃ©e, saison	SUB
+primo	primo d'abord	ADV
+/	/	VBE
+.	.	SENT
+necnon	necnon et aussi, et	CON
+processum	procedo avancer, aboutir, rÃ©ussir, se distinguer	VBE
+auctoritate	auctoritas autoritÃ©, exemple, conseil	SUB
+dictarum	dictus dit, susdit	QLF
+licterarum	licterarum	QLF
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+magistrum	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+andream	-	NAM
+cotim	cotim	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+utroque	uterque l'un et l'autre	PRO
+iure	ius droit, justice Â¶ jus, sauce	SUB
+licenciatum	licentio permettre, congÃ©dier	VBE
+archidiaconum	archidiaconus archidiacre	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+andegauensis	-	NAM
+iudicem	iudex juge, arbitre, officier public	SUB
+seu	siue ou si, soit	CON
+executorem	exsecutor celui qui exÃ©cute, huissier, percepteur, vengeur, exÃ©cuteur testamentaire	SUB
+unacum	unacum	VBE
+dicte	dictus dit, susdit	QLF
+gracie	gratia2 faveur, gratitude, grÃ¢ce	SUB
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+auctoritate	auctoritas autoritÃ©, exemple, conseil	SUB
+apostolica	apostolicus apostolique, pontifical	QLF
+deputatum	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+debita	debitum dette, pÃ©chÃ©, tÃ¢che, amende, redevance, prÃ©bende, gage, nÃ©cessitÃ©	SUB
+forma	forma forme, type, beautÃ©, moule	SUB
+confectum	conficio rÃ©aliser, achever	VBE
+sub	sub sous, en prÃ©sence de, au moment de, par, grÃ¢ce Ã	PRE
+data	do donner, concÃ©der, lÃ©guer, exprimer	VBE
+anni	annus annÃ©e, saison	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+millesimum	millesimus milliÃ¨me	NUM
+ccccmi	ccccmi	NUM
+xiimi	xiimi	VBE
+et	et et	CON
+diei	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+octauo	octauo en huitiÃ¨me lieu|octauus huitiÃ¨me	NUM
+mensis	mensa table, mense|mensis mois|mensum mesure (de terre)	SUB
+aprilis	aprilis d'avril	QLF
+xiii	13	NUM
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+lune	luna lune, mois, gorge, lunule	SUB
+post	post2 aprÃ¨s, derriÃ¨re	PRE
+festum	festa1 faÃ®te, fÃ»t de faÃ®tage Â¶ fÃªte	SUB
+ascencionis	ascencionis	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+iiiixx	iiiixx	NUM
+161	@card@	VBE
+.	.	SENT

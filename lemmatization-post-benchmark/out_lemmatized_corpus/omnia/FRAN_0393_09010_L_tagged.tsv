@@ -1,0 +1,259 @@
+form	lemma	POS morph
+608	@card@	INT
+.	.	SENT
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+generale	generalis gÃ©nÃ©ral, universel	QLF
+festi	festus de fÃªte, solennel	QLF
+sanctorum	sanctum sacrement, parcelle du pain consacrÃ©, chose trÃ¨s sainte (ou consacrÃ©e), offrande eucharistique, choeur|sanctus2 saint, fidÃ¨le, martyr, apÃ´tre	SUB
+symonis	-	NAM
+et	et et	CON
+iude	-	NAM
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+anno	annus annÃ©e, saison	SUB
+presenti	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+millesimo	millesimus milliÃ¨me	NUM
+cccc_	cccc_	NUM
+nona_	nona_	VBE
+uii_	uii_	VBE
+incipit	incipio commencer, faire ses dÃ©buts	VBE
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+ueneris	uenus VÃ©nus, amour, charme, mai Â¶ vente	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+uigilia	uigilia insomnie, veille Â¶ vigile (office monastique)|uigilium veille	SUB
+ipsius	ipse2 lui-mÃªme, elle-mÃªme	PRO
+festi	festus de fÃªte, solennel	QLF
+xxuii	27	NUM
+octobris	octobrius d'octobre	QLF
+et	et et	CON
+durat	duro endurcir, endurer, durcir, durer, s'Ã©tendre	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+quatuor	quattuor quatre	NUM
+dies	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+quibus	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+lucratur	lucro gagner, Ã©chapper Ã , convertir, exploiter	VBE
+quilibet	quilibet2 n'importe lequel, celui qu'on voudra, chacun	PRO
+canonicus	canonicus2 thÃ©oricien, clerc, chanoine	SUB
+parisiensis	-	NAM
+presens	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+qualibet	quilibet2 n'importe lequel, celui qu'on voudra, chacun	PRO
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+duos	duo deux	NUM
+solidos	solidus2 sou Â¶ (pl.) solde	SUB
+parisiensis	-	NAM
+quos	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+soluit	soluo dÃ©lier, dÃ©livrer, acquitter, payer, rompre, relÃ¢cher, anÃ©antir, se dÃ©sister, renoncer Ã	VBE
+officiarius	officiarius officier, agent, official, membre d'une maison ecclÃ©siastique, serviteur, agent domanial, appariteur judiciaire	SUB
+horarum	hora temps, saison, heure Â¶ (pl.) heures canoniales, priÃ¨res des heures canoniales Â¶ ad h : Ã  l'heure, sur l'heure, soudain, tout Ã  l'heure, pour un instant	SUB
+et	et et	CON
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+ordinatum	ordino ordonner, administrer, rÃ©gler, lÃ©guer	VBE
+istud	iste2 celui-ci, celle-lÃ , cela, le, la	PRO
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+audiendum	audio Ã©couter, entendre, comprendre, obÃ©ir	VBE
+compotum	computus calcul, compte, chronologie, nombre	SUB
+officiarum	officiarum	QLF
+horarum	hora temps, saison, heure Â¶ (pl.) heures canoniales, priÃ¨res des heures canoniales Â¶ ad h : Ã  l'heure, sur l'heure, soudain, tout Ã  l'heure, pour un instant	SUB
+et	et et	CON
+matutinarum	matutinus1 matinal, de l'office du matin	QLF
+et	et et	CON
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+ipsos	ipse2 lui-mÃªme, elle-mÃªme	PRO
+continuandum	continuo2 faire suivre, assurer une continuitÃ©, joindre, continuer, durer	VBE
+uel	uel ou, et, ou plutÃ´t, mÃªme, et qui plus est, par exemple, vraiment, au moins Â¶ uel... uel.. : ou... ou..., soit... soit... Â¶ + subj. : si seulement	CON
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+aliis	alius autre	QLF
+prouidendum	prouideo prÃ©voir, pourvoir, prÃ©parer, veiller sur	VBE
+et	et et	CON
+fuerunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+et	et et	CON
+lucrati	lucro gagner, Ã©chapper Ã , convertir, exploiter	VBE
+fuerunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+decanno	decanno	VBE
+.	.	SENT
+compains	compains	VBE
+.	.	SENT
+fournier	fournier	VBE
+.	.	SENT
+archidiacono	archidiaconus archidiacre	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+.	.	SENT
+hacqueuille	hacqueuille	SUB
+ex	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+donuille	donuille	SUB
+.	.	SENT
+succentor	succentor chanteur qui accompagne, sous-chantre, conseiller, instigateur	SUB
+.lailly	.lailly	VBE
+.	.	SENT
+laubespine	laubespine	NAM
+penitenciario	penitenciario	QLF
+.	.	SENT
+saulay	saulay	NAM
+dumoulin	dumoulin	SUB
+.	.	SENT
+louuiers	louuiers	NAM
+.	.	SENT
+refuge	refugus fuyard, fugitif, qui Ã©chappe, apostat Â¶ refugi fluctus, (m. pl.) le reflux	QLF
+courtin	courtin	SUB
+picart	picart	NAM
+.fabry	.fabry	SUB
+.	.	SENT
+paris	pario2 enfanter, produire, crÃ©er, acquÃ©rir, faire naÃ®tre|pasco faire paÃ®tre, paÃ®tre, nourrir|paueo craindre, redouter|pauo1 paver	VBE
+.	.	SENT
+cerisay	cerisay	SUB
+.	.	SENT
+.	.	SENT
+michel	-	NAM
+mesnart	mesnart	SUB
+.	.	SENT
+samxon	samxon	NAM
+.	.	SENT
+parpas	parpas	VBE
+gouffier	gouffier	VBE
+.	.	SENT
+lenfant	lenfant	VBE
+.	.	SENT
+gaignon	gaignon	SUB
+louet	louet	VBE
+.	.	SENT
+aymery	aymery	NAM
+.	.	SENT
+chasteaupers	chasteaupers	QLF
+.	.	SENT
+basin	basis base, pied	SUB
+.	.	SENT
+iuuenal	iuuenal	SUB
+condurier	condurier	VBE
+.	.	SENT
+le	le	QLF
+moyne	moyne	NAM
+commituntur	commituntur	VBE
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+succentor	succentor chanteur qui accompagne, sous-chantre, conseiller, instigateur	SUB
+michel	-	NAM
+et	et et	CON
+parpas	parpas	QLF
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+audiendum	audio Ã©couter, entendre, comprendre, obÃ©ir	VBE
+compota	compota	VBE
+officiarii	officiarium livre contenant les offices|officiarius officier, agent, official, membre d'une maison ecclÃ©siastique, serviteur, agent domanial, appariteur judiciaire	SUB
+matutinarum	matutinus1 matinal, de l'office du matin	QLF
+hodie	hodie aujourd'hui	ADV
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+parte	pars part, partie, partage, parti Â¶ (pl.) rÃ´le (d'un acteur), parti|parta qui a enfantÃ©	SUB
+ipsius	ipse2 lui-mÃªme, elle-mÃªme	PRO
+officiarii	officiarium livre contenant les offices|officiarius officier, agent, official, membre d'une maison ecclÃ©siastique, serviteur, agent domanial, appariteur judiciaire	SUB
+presentata	presento prÃ©senter	VBE
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+anno	annus annÃ©e, saison	SUB
+presenti	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+deputati	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+fuerunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+samxon	samxon	NAM
+chasteaupers	chasteaupers	QLF
+et	et et	CON
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+refuge	refugus fuyard, fugitif, qui Ã©chappe, apostat Â¶ refugi fluctus, (m. pl.) le reflux	QLF
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+audiendum	audio Ã©couter, entendre, comprendre, obÃ©ir	VBE
+compota	compota	VBE
+officii	officium service, fonction, obligeance, devoir, obÃ©issance, secours, activitÃ©, ouvrage, office	SUB
+camere	camera piÃ¨ce voÃ»tÃ©e, chambre	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+anno	annus annÃ©e, saison	SUB
+presenti	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+ordinatum	ordino ordonner, administrer, rÃ©gler, lÃ©guer	VBE
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+proximum	proximum le voisinage, les environs|proximus proxime (employÃ© Ã  la chancellerie)	SUB
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+eligantur	eligo enlever, choisir, Ã©lire, dÃ©cider	VBE
+aliqui	aliquis quelqu'un, quelque chose	PRO
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+domine	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+aduisundum	aduisundum	VBE
+modum	modus mesure, importance, maniÃ¨re, mode, teneur, motif	SUB
+fiendi	fiendi	VBE
+particiones	partitio division	SUB
+necnon	necnon et aussi, et	CON
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+prouidendo	prouideo prÃ©voir, pourvoir, prÃ©parer, veiller sur	VBE
+aliis	alius autre	QLF
+negociis	negotium affaire, occupation, travail, chose, marchandise, marchÃ©, activitÃ© politique, litige	SUB
+et	et et	CON
+processibus	processus progression, progrÃ¨s, procÃ¨s	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+eciam	etiam aussi, mÃªme, encore, oui	ADV
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+modo	modus mesure, importance, maniÃ¨re, mode, teneur, motif	SUB
+faciendi	facio faire, crÃ©er, agir	VBE
+panem	panis pain	SUB
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+ut	ut comment, comme, combien Â¶ (+ indic.) : de mÃªme que, quand, vu que Â¶ (+ subj.) : que, Ã  savoir que, pour que, de sorte que, tellement que, si bien que, Ã  supposer que Â¶ (+ part. futur) : avec l'intention de, comme pour	CON
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+cetero	ceterus le reste de	QLF
+fiat	fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+cum	cum1 (+ abl.) avec	PRE
+minoribus	paruus petit, de peu de valeur	QLF
+expensis	expensa dÃ©pense, provision, prÃ©bende|expensum dÃ©pense, dÃ©bit	SUB
+si	si si	CON
+retroactis	retroactus passÃ©, achevÃ©	QLF
+temporibus	tempus temps, occasion, circonstances Â¶ tempe	SUB
+item	item de mÃªme, pareillement, d'autre part, en outre	ADV
+deliberabitur	delibero rÃ©flÃ©chir, dÃ©cider Â¶ libÃ©rer, rendre, payer, prÃªter (un serment)	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+primum	primus premier, le plus important, Ã©minent	NUM
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+breuetis	breuetis	NAM
+et	et et	CON
+licteris	licteris	QLF
+traditionum	traditio livraison, donation, reddition, haute trahison, attentat, traduction, explication, tradition, enseignement	SUB
+terrarum	terra terre, sol, territoire, pays, monde	SUB
+et	et et	CON
+hereditagiorum	hereditagium tenure hÃ©rÃ©ditaire	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+registrandis	registro enregistrer	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+tempore	tempus temps, occasion, circonstances Â¶ tempe	SUB
+deffuncti	deffuncti	VBE
+notarii	notarius2 maÃ®tre d'Ã©criture, stÃ©nographe, scribe, secrÃ©taire, notaire	SUB
+gaudon	gaudon	SUB
+que	que (enclit.) et	CON
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+thesauro	thesaurus trÃ©sor, argent comptant	SUB
+item	item de mÃªme, pareillement, d'autre part, en outre	ADV
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+facto	factum action, punition, redevance|factus exploitation, construction, quantitÃ© d'huile fournie par un tour de pressoir	SUB
+terre	terra terre, sol, territoire, pays, monde	SUB
+et	et et	CON
+domum	domus maison, dynastie, manse	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+la	la	QLF
+barre	bara civiÃ¨re|barra barriÃ¨re, bÃ¢ton, barre|barrus Ã©lÃ©phant	SUB
+et	et et	CON
+theurigny	theurigny	QLF
+ac	atque et	CON
+eciam	etiam aussi, mÃªme, encore, oui	ADV
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+oblacione	oblatio offrande, sacrifice, hostie	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+gamay	gamay	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+dominiis	dominius vassal direct	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+soisy	soisy	NAM
+et	et et	CON
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+baigneux	baigneux	QLF

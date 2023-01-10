@@ -9,3 +9,8 @@ nosketch/data/
 nosketch/vertical/
 
 .ipynb_checkpoints/
+
+data_filtered/
+ground-truth-htr/
+ground-truth-layout_list.txt
+treetagger/

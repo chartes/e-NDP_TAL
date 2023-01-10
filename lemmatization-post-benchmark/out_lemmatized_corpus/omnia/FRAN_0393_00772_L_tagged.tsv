@@ -1,0 +1,470 @@
+form	lemma	POS morph
+230	@card@	INT
+anno	annus annÃ©e, saison	SUB
+domino	dominus maÃ®tre, chef, seigneur, sire	SUB
+millesimo	millesimus milliÃ¨me	NUM
+quadringensimo	quadringensimo	QLF
+secundo	secundus qui suit, deuxiÃ¨me, diffÃ©rent de, subalterne, propice	NUM
+.	.	SENT
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+ueneris	uenus VÃ©nus, amour, charme, mai Â¶ vente	SUB
+ante	ante2 avant	PRE
+festum	festa1 faÃ®te, fÃ»t de faÃ®tage Â¶ fÃªte	SUB
+beati	beatus bienheureux, riche, saint	QLF
+barnabe	-	NAM
+apostoli	apostoli lettres de renvoi|apostolus apÃ´tre, pape Â¶ lettre d'appel ou de crÃ©ance	SUB
+.	.	SENT
+capitulantibus	capitulo Ã©numÃ©rer, stipuler, rÃ©unir le chapitre, chapitrer	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+.	.	SENT
+p	-	NAM
+.	.	SENT
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+infirmo	infirmus2 faiblesse morale	SUB
+g	g	NAM
+.	.	SENT
+cantore	cantor chanteur, chantre	SUB
+fiat	fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+citacio	citatio proclamation, commandement militaire, citation	SUB
+generalis	generalis gÃ©nÃ©ral, universel	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iohanne	-	NAM
+hue	hue	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+causam	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+prebendae	prebendae	SUB
+ste	sanctus1 saint, sacrÃ©	QLF
+.	.	SENT
+archidiacono	archidiaconus archidiacre	SUB
+brye	brye	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ciuillyaco	ciuillyaco	NAM
+et	et et	CON
+layaco	layaco	NAM
+usque	usque sans cesse, jusque, depuis	ADV
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+annum	annus annÃ©e, saison	SUB
+.	.	SENT
+g	g	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+kaer	kaer	VBE
+placet	placeo plaire|placo apaiser	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+egidius	-	NAM
+iuuenis	iuuenis1 jeune	QLF
+tradat	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+rollandi	rotulo inscrire sur un rouleau	VBE
+certas	certo2 lutter, dÃ©battre, assurer, convaincre	VBE
+terras	terra terre, sol, territoire, pays, monde	SUB
+uacantes	uaco s'appliquer Ã , vaquer Ã , Ãªtre vacant	VBE
+situatas	situo placer, nommer	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+territorio	territorium territoire, pays, terroir, paysage	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+uernoto	uernoto	NAM
+.	.	SENT
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+onera	onus charge, poids, charretÃ©e, redevance	SUB
+e	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+campis	campe chenille Â¶ cheval marin, sinuositÃ©|campus plaine, place, champ, camp	SUB
+antiqua	antiquus antique, ancien	QLF
+.	.	SENT
+a	ha ah !	INT
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+murolio	murolio	SUB
+fiat	fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+quictanciam	quictanciam	SUB
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+egidio	-	NAM
+iuuenis	iuuenis1 jeune	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+quinquaginta	quinquaginta cinquante	NUM
+francorum	francus1 libre, affranchi	QLF
+sy	sy	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+bourich	bourich	QLF
+racione	ratio calcul, compte, intÃ©rÃªts, affaires, registre, rÃ´le, liste, mÃ©thode, plan, thÃ©orie, raison, raisonnement, conduite, moyen, maniÃ¨re, justification, revendication, plaidoyer, justice faite au plaignant, cause (pl.), propriÃ©tÃ©, part, contrat, clause, condition, redevance	SUB
+prebende	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+foranee	foraneus non-rÃ©sident, extÃ©rieur Ã  la citÃ©	QLF
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+petri	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+reillaco	reillaco	NAM
+tho	tho	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+petro	petro agneau Â¶ paysan lourdaud	SUB
+g	g	NAM
+.	.	SENT
+fedelli	fedelli	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+causa	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+stephani	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+gressibus	gressus pied, marche, degrÃ©	SUB
+cognoscant	cognosco prendre connaissance de, apprendre, connaÃ®tre, reconnaÃ®tre, instruire une affaire	VBE
+commissarii	commissarius commissaire royal, exÃ©cuteur testamentaire	SUB
+alius	alius autre	QLF
+m	1000	NUM
+.	.	SENT
+reginaldi	-	NAM
+deputati	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+uidelicet	uidelicet il va de soi, bien sÃ»r, sans doute, apparemment  Â¶ c'est-Ã -dire	ADV
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+g	g	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+kaer	kaer	VBE
+et	et et	CON
+e	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+.	.	SENT
+iuuenis	iuuenis1 jeune	QLF
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+montenantolio	montenantolio	SUB
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+maignac	maignac	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+passaco	passaco	NAM
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iohannes	-	NAM
+regis	rex roi, tyran, maÃ®tre absolu Â¶ (pl.) le couple royal, la famille royale, les fils du roi|riga ligne, raie, sillon|riuus ruisseau, riviÃ¨re, conduite d'eau, canal	SUB
+confessus	confiteor avouer, rÃ©vÃ©ler, proclamer sa foi, se confesser, louer	VBE
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+capitulo	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+ipse	ipse2 lui-mÃªme, elle-mÃªme	PRO
+tenetur	teneo (se) tenir, atteindre, s'arrÃªter, occuper, contenir, garder, dÃ©tenir, arrÃªter, empÃªcher, comprendre, savoir, croire, affirmer Â¶ (pass.) Ãªtre pris, Ãªtre convaincu d'un crime, Ãªtre tenu de	VBE
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+colli	collis colline, coteau, montagne|collum cou, tige, col	SUB
+garantizare	warantizo garantir	VBE
+decem	decem dix	NUM
+libras	libra livre romaine, mesure pour les liquides, balance, niveau, Ã©qulibre, dose	SUB
+parisiensis	-	NAM
+cum	cum1 (+ abl.) avec	PRE
+dimidia	dimidius demi	QLF
+quas	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+alias	alius autre	QLF
+uendi	uendo vendre	VBE
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ordeimonte	ordeimonte	SUB
+derat	derat	VBE
+deffuncto	deffuncto	VBE
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+andree	-	NAM
+grangerii	grangerii	SUB
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+chanteprime	chanteprime	SUB
+l	50	NUM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mongeria	mongeria	SUB
+philberto	philberto	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+salione	salione	SUB
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lorris	lorris	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+pompodorio	pompodorio	QLF
+anno	annus annÃ©e, saison	SUB
+predicto	predictus susdit	QLF
+.	.	SENT
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+lune	luna lune, mois, gorge, lunule	SUB
+post	post2 aprÃ¨s, derriÃ¨re	PRE
+festum	festa1 faÃ®te, fÃ»t de faÃ®tage Â¶ fÃªte	SUB
+beati	beatus bienheureux, riche, saint	QLF
+barnabe	-	NAM
+apostoli	apostoli lettres de renvoi|apostolus apÃ´tre, pape Â¶ lettre d'appel ou de crÃ©ance	SUB
+.xiia	.xiia	VBE
+.	.	SENT
+mensis	mensa table, mense|mensis mois|mensum mesure (de terre)	SUB
+iunii	iunius1 de juin	QLF
+.	.	SENT
+capitulantibus	capitulo Ã©numÃ©rer, stipuler, rÃ©unir le chapitre, chapitrer	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+.	.	SENT
+p	-	NAM
+.	.	SENT
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+infirmo	infirmus2 faiblesse morale	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+castaneto	castanetum chÃ¢taigneraie	SUB
+ordinatum	ordino ordonner, administrer, rÃ©gler, lÃ©guer	VBE
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+fiat	fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+requesta	requesta demande en justice	SUB
+curie	curia curie, assemblÃ©e, cour, conseil, rÃ©union, sÃ©ance du tribunal, domaine (	SUB
+parlamenti	parlamentum parlement, parloir	SUB
+/	/	VBE
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+consensum	consensus accord, complot	SUB
+dominorum	dominus maÃ®tre, chef, seigneur, sire	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+capitulo	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+et	et et	CON
+habitacium	habitacium	QLF
+g	g	NAM
+.	.	SENT
+cantore	cantor chanteur, chantre	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+castaneto	castanetum chÃ¢taigneraie	SUB
+sine	sine sans	PRE
+preiudicio	preiudicium prÃ©jugÃ©, prÃ©judice, reproche	SUB
+processus	processus progression, progrÃ¨s, procÃ¨s	SUB
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+curia	curia curie, assemblÃ©e, cour, conseil, rÃ©union, sÃ©ance du tribunal, domaine (	SUB
+ordinet	ordino ordonner, administrer, rÃ©gler, lÃ©guer	VBE
+ste	sanctus1 saint, sacrÃ©	QLF
+.	.	SENT
+archidiacono	archidiaconus archidiacre	SUB
+brie	bria gobelet	SUB
+unum	unus un, unique	NUM
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+recipiet	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+taxamentum	tensamentum redevance en nature pour la protection seigneuriale	SUB
+debitum	debeo devoir	VBE
+capitulo	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+ut	ut comment, comme, combien Â¶ (+ indic.) : de mÃªme que, quand, vu que Â¶ (+ subj.) : que, Ã  savoir que, pour que, de sorte que, tellement que, si bien que, Ã  supposer que Â¶ (+ part. futur) : avec l'intention de, comme pour	CON
+dicti	dictus dit, susdit	QLF
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+pompodorio	pompodorio	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+castaneto	castanetum chÃ¢taigneraie	SUB
+se	se se, soi	PRO
+debere	debeo devoir	VBE
+confitentur	confiteor avouer, rÃ©vÃ©ler, proclamer sa foi, se confesser, louer	VBE
+unacum	unacum	VBE
+arreragiis	arrieragium arrÃ©rage	SUB
+.	.	SENT
+l	50	NUM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mongeria	mongeria	SUB
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lorriaco	-	NAM
+receptus	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+iohannes	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+furno	furnus four, Ã©tuve	SUB
+clericus	clericus2 membre du clergÃ©	SUB
+suessionis	-	NAM
+diocesis	diocesis diocÃ¨se, paroisse, province ecclÃ©siastique, Ã©glise paroissiale, autoritÃ© diocÃ©saine	SUB
+t	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+petro	petro agneau Â¶ paysan lourdaud	SUB
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+artibus	ars talent, art, mÃ©tier, machine|artus2 articulation	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+magistrum	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+grammatice	grammaticus1 de grammaire	QLF
+puerorum	puer enfant, fils, esclave, serviteur, vassal	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+rollandi	rotulo inscrire sur un rouleau	VBE
+chori	chorus choeur Â¶ territoire|corus mesure de capacitÃ©	SUB
+.	.	SENT
+e	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+.	.	SENT
+iuuenis	iuuenis1 jeune	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+iiiior	quattuor quatre	NUM
+l	50	NUM
+.	.	SENT
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+supra	supra2 plus haut, en plus, d'une dignitÃ© supÃ©rieure	ADV
+scio	scio savoir	VBE
+nostri	noster notre, le nÃ´tre	QLF
+regis	rex roi, tyran, maÃ®tre absolu Â¶ (pl.) le couple royal, la famille royale, les fils du roi|riga ligne, raie, sillon|riuus ruisseau, riviÃ¨re, conduite d'eau, canal	SUB
+deputati	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+p	-	NAM
+.	.	SENT
+colli	collis colline, coteau, montagne|collum cou, tige, col	SUB
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+e	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+.	.	SENT
+iuuenis	iuuenis1 jeune	QLF
+et	et et	CON
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+rollandi	rotulo inscrire sur un rouleau	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+loquendum	loquor parler, dire, louer	VBE
+cum	cum2 quand, puisque (+ ind.), comme (+ subj.)	CON
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+durandi	duro endurcir, endurer, durcir, durer, s'Ã©tendre	VBE
+cordelliter	cordelliter	ADV
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+dicto	dico2 dire, ordonner, chanter|dicto dicter, versifier, conseiller, dire souvent	VBE
+seroury	seroury	SUB
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+passaco	passaco	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+hue	hue	VBE
+recuperetur	recipero recouvrer, reconquÃ©rir, reprendre, soulager, restaurer, se rÃ©tablir, prospÃ©rer	VBE
+processus	processus progression, progrÃ¨s, procÃ¨s	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+/	/	VBE
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+guillelmo	-	NAM
+le	le	VBE
+picart	picart	NAM
+g	g	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+kae	kae	SUB
+procuratore	procurator administrateur, intendant, mandataire, procurateur	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+et	et et	CON
+deputati	deputo tailler, estimer, affecter Ã , enjoindre, convenir	VBE
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+commissarii	commissarius commissaire royal, exÃ©cuteur testamentaire	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+io	ion violette (bot.), variÃ©tÃ© de pierre prÃ©cieuse	SUB
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+montenantolio	montenantolio	SUB
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ordeimonte	ordeimonte	SUB
+uisitandum	uisito voir souvent, visiter	VBE
+dictum	dico2 dire, ordonner, chanter	VBE
+processum	procedo avancer, aboutir, rÃ©ussir, se distinguer	VBE
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+archidiaconus	archidiaconus archidiacre	SUB
+brye	brye	SUB
+et	et et	CON
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+chanteprime	chanteprime	SUB
+g	g	NAM
+.	.	SENT
+fedell	fedell	NAM
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+murolio	murolio	SUB
+hodie	hodie aujourd'hui	ADV
+fuit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+facta	facio faire, crÃ©er, agir|facto faire souvent, exercer|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+relacio	relatio rapport, mise en dÃ©libÃ©ration, relation, narration, charge assignÃ©e Ã  quelqu'un	SUB
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+dominum	dominus maÃ®tre, chef, seigneur, sire	SUB
+archidiaconum	archidiaconus archidiacre	SUB
+brye	brye	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+processu	processus progression, progrÃ¨s, procÃ¨s	SUB
+e	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+campis	campe chenille Â¶ cheval marin, sinuositÃ©|campus plaine, place, champ, camp	SUB
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+immunitate	immunitas exemption, libertÃ©, immunitÃ©	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+et	et et	CON
+custodia	custodia garde, protection, prison, troupeau, dignitÃ© de custode, custodie (franciscaine)	SUB
+seu	siue ou si, soit	CON
+gueto	gueto	VBE
+.	.	SENT
+sy	sy	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+bourich	bourich	QLF
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+maignac	maignac	NAM
+hodie	hodie aujourd'hui	ADV
+fuit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+exhibita	exhibeo montrer, causer, rendre, entretenir, (pron.) se conformer Ã	VBE
+lictera	lictera	SUB
+sergenterie	sergenterie	SUB
+richardi	-	NAM
+laillier	laillier	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+nullyaco	nullyaco	NAM
+franci	francus1 libre, affranchi	QLF
+seruientis	seruiens serviteur, sergent, facteur, commissionnaire	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+/	/	VBE
+et	et et	CON
+copia	copia abondance, ressources, pouvoir, copie Â¶ (pl.) troupes	SUB
+retenta	retendo dÃ©tendre, relÃ¢cher|retento essayer de nouveau, revenir sur, reprendre, maintenir, retenir|retineo garder, intÃ©resser, contenir, empÃªcher Â¶ non retinere quin : ne pas se retenir de	VBE
+.	.	SENT
+t	-	NAM
+.	.	SENT
+hocie	hocie	NAM
+m	1000	NUM
+.	.	SENT
+reginaldi	-	NAM
+philiberto	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+salione	salione	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+chanteprime	chanteprime	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+hue	hue	VBE
+e	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+.	.	SENT
+iuuenis	iuuenis1 jeune	QLF
+st	st	VBE
+estienne	estienne	QLF
+des	do donner, concÃ©der, lÃ©guer, exprimer	VBE
+gres	-	NAM
+p	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ogero	-	NAM

@@ -1,0 +1,382 @@
+form	lemma	POS morph
+509	@card@	INT
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+uiia	uiia	VBE
+mensis	mensa table, mense|mensis mois|mensum mesure (de terre)	SUB
+octobris	october mois d'octobre	SUB
+anno	annus annÃ©e, saison	SUB
+ccccmo	ccccmo	NUM
+quinto	quintus cinquiÃ¨me	NUM
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iohannes	-	NAM
+maioris	magnus grand, magnanime, emphatique|maius1 du mois de mai	QLF
+presbiter	presbyter prÃªtre	SUB
+cappellanus	capellanus1 de la chapelle	QLF
+cappellanie	cappellanie	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+altare	altar autel, revenus d'un autel	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+spiritus	spiritus souffle, inspiration, esprit, Saint-Esprit, Ãªtre surnaturel	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+mederici	-	NAM
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+dicens	dico2 dire, ordonner, chanter	VBE
+et	et et	CON
+asserens	assero1 amener, attacher|assero2 planter	VBE
+se	se se, soi	PRO
+nuper	nuper maintenant, rÃ©cemment	ADV
+constituisse	constituo Ã©tablir, organiser, se trouver	VBE
+procuratores	procurator administrateur, intendant, mandataire, procurateur	SUB
+dominos	dominus maÃ®tre, chef, seigneur, sire	SUB
+eustachium	-	NAM
+uacherii	uaccarius2 vacher	SUB
+odardum	-	NAM
+sigoti	sigoti	NAM
+iacobum	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+uale	ualeo Ãªtre fort, valoir, pouvoir	VBE
+unacum	unacum	VBE
+pluribus	plus2 une plus grande quantitÃ©	SUB
+aliis	alius autre	QLF
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+resignandum	resigno ouvrir, dÃ©voiler, Ã´ter toute garantie Ã , annuler, rompre, dÃ©gager de, assigner, porter en compte	VBE
+dictam	dictus dit, susdit	QLF
+suam	suus son, sa, sien, sienne	QLF
+cappellaniam	cappellaniam	SUB
+causa	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+permutacionis	permutatio changement, permutation	SUB
+faciende	facienda exploitation agricole	SUB
+cum	cum1 (+ abl.) avec	PRE
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+nicolao	nicolaus variÃ©tÃ© de datte	SUB
+theriori	theriori	QLF
+alias	alius autre	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+nouocastro	nouocastro	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+cappellaniam	cappellaniam	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+beate	beatus bienheureux, riche, saint	QLF
+marie	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+argentolio	argentolio	SUB
+et	et et	CON
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+omne	omnis tout, chaque	QLF
+ius	ius droit, justice Â¶ jus, sauce	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+pretendebat	pretendo tendre devant, mettre en avant	VBE
+habere	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+cura	cura exercice, soin, gestion, cure	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+la	la	QLF
+flamengerie	flamengerie	SUB
+laudunensis	-	NAM
+diocesis	diocesis diocÃ¨se, paroisse, province ecclÃ©siastique, Ã©glise paroissiale, autoritÃ© diocÃ©saine	SUB
+.	.	SENT
+et	et et	CON
+propter	propter Ã  cÃ´tÃ© de, le long de, Ã  cause de, pour	PRE
+ex	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+certis	certus dÃ©cidÃ©, bien dÃ©fini, certain	QLF
+iustis	iustus juste	QLF
+et	et et	CON
+racionabilibus	rationabilis raisonnable, conforme Ã  la raison, mesurable, spirituel, mystique	QLF
+causis	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie|causos fiÃ¨vre, chaleur sÃ¨che	SUB
+ipsum	ipse2 lui-mÃªme, elle-mÃªme	PRO
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+mouentibus	mouens en mouvement, mobile, mobilier	QLF
+dictos	dictus dit, susdit	QLF
+procuratores	procurator administrateur, intendant, mandataire, procurateur	SUB
+constitutos	constituo Ã©tablir, organiser, se trouver	VBE
+ac	atque et	CON
+procuracionem	procuratio administration, tutelle, expiation, fourniture	SUB
+sibi	se se, soi	PRO
+attributam	attribuo attribuer, donner	VBE
+reuocauit	reuoco rappeler, faire replier (une armÃ©e), rapporter, rÃ©tracter, revenir (sur), Ã©carter, dÃ©tourner de	VBE
+et	et et	CON
+reuocat	reuoco rappeler, faire replier (une armÃ©e), rapporter, rÃ©tracter, revenir (sur), Ã©carter, dÃ©tourner de	VBE
+constituentes	constituo Ã©tablir, organiser, se trouver	VBE
+procuratores	procurator administrateur, intendant, mandataire, procurateur	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+intimandam	intimo mettre ou apporter dans, inscrire, insinuer, enregistrer, conduire dans, inculquer, enseigner, annoncer, communiquer, raconter, dÃ©crire, intimer, signifier, saisir d'une cause	VBE
+dictam	dictus dit, susdit	QLF
+reuocacionem	reuocatio rappel, reprise d'un mot (rhÃ©t.)	SUB
+dominos	dominus maÃ®tre, chef, seigneur, sire	SUB
+symonem	-	NAM
+hubelin	hubelin	SUB
+hebertum	-	NAM
+berangarii	berangarii	NAM
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+dola	dolus douleur Â¶ ruse, tort causÃ©	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+parisiensis	-	NAM
+beneficiatos	beneficiatus bÃ©nÃ©ficiaire	SUB
+presentibus	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+g	g	NAM
+.	.	SENT
+picardi	-	NAM
+et	et et	CON
+iohannem	-	NAM
+pagani	paganus de la campagne, civil, bourgeois, paÃ¯en, paysan	QLF
+clericis	clericus2 membre du clergÃ©	SUB
+bituricensis	-	NAM
+diocesis	diocesis diocÃ¨se, paroisse, province ecclÃ©siastique, Ã©glise paroissiale, autoritÃ© diocÃ©saine	SUB
+necnon	necnon et aussi, et	CON
+dominum	dominus maÃ®tre, chef, seigneur, sire	SUB
+iohannem	-	NAM
+mairesse	mairesse	SUB
+seniorem	senior1 plus ancien, de premier rang, seigneur|senus sixiÃ¨me	QLF
+iohannem	-	NAM
+cranne	cranne	SUB
+et	et et	CON
+ludouicum	-	NAM
+raueti	raueti	VBE
+.	.	SENT
+anno	annus annÃ©e, saison	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+millesimo	millesimus milliÃ¨me	NUM
+quadringentesimo	quadringentesimus quatre-centiÃ¨me	NUM
+quinto	quintus cinquiÃ¨me	NUM
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+mercurii	mercurius garrot d'un animal	SUB
+uiia	uiia	VBE
+mensis	mensa table, mense|mensis mois|mensum mesure (de terre)	SUB
+octobris	october mois d'octobre	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+g	g	NAM
+.	.	SENT
+cantore	cantor chanteur, chantre	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+cancellario	cancellarius huissier, scribe, greffier, chancelier, notaire	SUB
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lorris	lorris	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+treulon	treulon	SUB
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+hugo	-	NAM
+lentarii	lentarii	VBE
+procurator	procurator administrateur, intendant, mandataire, procurateur	SUB
+nomine	nomen nom, dÃ©nomination, titre, essence Â¶ nomine (+gÃ©n.) : au nom de, au titre de, Ã  cause Â¶ (pl.) reliques	SUB
+procuratorio	procuratorius de procurateur, d'avouÃ©	QLF
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+reginaldi	-	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+rolandi	-	NAM
+ruffi	-	NAM
+uigore	uigor vigueur, Ã©nergie	SUB
+gracie	gratia2 faveur, gratitude, grÃ¢ce	SUB
+apostolice	apostolicus apostolique, pontifical	QLF
+eidem	idem2 le-mÃªme, ledit	PRO
+domino	dominus maÃ®tre, chef, seigneur, sire	SUB
+reginaldo	-	NAM
+facte	facio faire, crÃ©er, agir|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+fuit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+g	g	NAM
+.	.	SENT
+cardonnelli	cardonnelli	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+passaco	passaco	NAM
+receptus	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+cappellaniam	cappellaniam	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+rigorberti	rigorberti	NAM
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+parisiense	-	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+norris	norris	QLF
+fundatam	fundo1 fonder, bÃ¢tir, asseoir solidement, donner les rudiments	VBE
+quam	quam que, combien, Ã  quel point	CON
+obtinere	obtineo obtenir, tenir solidement, garder, maintenir (ou Ã©tablir) une opinion, rÃ©ussir, durer	VBE
+solebat	soleo avoir coutume	VBE
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+p	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+montesecardi	montesecardi	NAM
+g	g	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+kaer	kaer	VBE
+alias	alius autre	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+pacyaco	pacyaco	NAM
+et	et et	CON
+iurauit	iuro jurer	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+forma	forma forme, type, beautÃ©, moule	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+uoygnon	uoygnon	NAM
+g	g	NAM
+.	.	SENT
+faidelli	faidelli	SUB
+lau	lau	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mongeria	mongeria	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+durandi	duro endurcir, endurer, durcir, durer, s'Ã©tendre	VBE
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+hue	hue	VBE
+et	et et	CON
+similiter	similiter pareillement	ADV
+michael	-	NAM
+brumelli	brumelli	NAM
+procurator	procurator administrateur, intendant, mandataire, procurateur	SUB
+petri	-	NAM
+charron	charron	SUB
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ordeimonte	ordeimonte	SUB
+phi	phi phi (lettre grecque)	SUB
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+salione	salione	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+meleduno	meleduno	NAM
+nominati	nominatus1 renommÃ©	QLF
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+dominos	dominus maÃ®tre, chef, seigneur, sire	SUB
+uigore	uigor vigueur, Ã©nergie	SUB
+facultatis	facultas facultÃ©, talent, abondance, essence, patrimoine, moyens (financiers)	SUB
+auctoritate	auctoritas autoritÃ©, exemple, conseil	SUB
+t	-	NAM
+.	.	SENT
+houcie	hulcia mantelet, housse	SUB
+apostolica	apostolicus apostolique, pontifical	QLF
+sibi	se se, soi	PRO
+concesse	concedo s'en aller Â¶ accorder, concÃ©der	VBE
+receptus	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+fuit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+dictam	dictus dit, susdit	QLF
+cappellaniam	cappellaniam	SUB
+sy	sy	VBE
+.	.	SENT
+algreti	algreti	NAM
+et	et et	CON
+iurauit	iuro jurer	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+forma	forma forme, type, beautÃ©, moule	SUB
+h	h	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sauoisi	sauoisi	SUB
+elargitus	elargior donner largement	VBE
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+iohannes	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+columbis	columbus pigeon, colombe	SUB
+francus	francus1 libre, affranchi	QLF
+seruiens	seruio servir, officier, fournir	VBE
+m	1000	NUM
+.	.	SENT
+dengeul	dengeul	VBE
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+caucionem	cautio prÃ©caution, caution, garantie, reconnaissance de dette, promesse	SUB
+suam	suus son, sa, sien, sienne	QLF
+iuratoriam	iuratorius juratoire	QLF
+necnon	necnon et aussi, et	CON
+stephanus	-	NAM
+chapentier	chapentier	VBE
+g	g	NAM
+.	.	SENT
+daunoy	daunoy	VBE
+.	.	SENT
+commorens	commorens	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+uico	uicus agglomÃ©ration, quartier, rue, bourg, domaine	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+dyonisii	-	NAM
+prope	prope2 prÃ¨s de	PRE
+portam	porta porte, issue, dÃ©filÃ©, service d'accueil	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+penam	pena peine, chÃ¢timent|penna penne, plume, aile, flÃ¨che, nageoire|pinna faÃ®te, pinacle, colline	SUB
+excommunicacionis	excommunicatio excommunication	SUB
+et	et et	CON
+quingentarium	quingentarius de cinq cents, de cinq siÃ¨cles	NUM
+librarum	libra livre romaine, mesure pour les liquides, balance, niveau, Ã©qulibre, dose	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+et	et et	CON
+fuit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+receptus	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+purgacionem	purgatio nettoyage, excuse, expiation	SUB
+canonicam	canonicus1 relatif Ã  un impÃ´t, relatif Ã  la rÃ¨gle, rÃ©gulier, canonique, canonial	QLF
+sibi	se se, soi	PRO
+iudicendam	iudicendam	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+quibus	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+casibus	casus chute, dÃ©clin, fin, arrivÃ©e fortuite, accident, hasard, cas, affaire Â¶ sub	SUB
+promisit	promitto lÃ¢cher en avant, promettre	VBE
+se	se se, soi	PRO
+purgare	purgo nettoyer, dÃ©barrasser, dÃ©fricher, justifier, expier	VBE
+et	et et	CON
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+prima	primus premier, le plus important, Ã©minent	NUM
+dieta	dieta repas, journÃ©e, marche, liturgie, jour (fixÃ©), rÃ©union, diÃ¨te, piÃ¨ce	SUB
+fuit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+sibi	se se, soi	PRO
+assignata	assigno attribuer, assigner	VBE
+dies	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ueneris	uenus VÃ©nus, amour, charme, mai Â¶ vente	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+xucim	xucim	NUM
+dies	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+sub	sub sous, en prÃ©sence de, au moment de, par, grÃ¢ce Ã	PRE
+penis	pena peine, chÃ¢timent|penis queue, pÃ©nis|penna penne, plume, aile, flÃ¨che, nageoire|penus provisions, garde-manger, sanctuaire|pinna faÃ®te, pinacle, colline	SUB
+predictis	predictus susdit	QLF
+quiquidem	quiquidem	QLF
+stephanus	-	NAM
+promisit	promitto lÃ¢cher en avant, promettre	VBE
+ipsum	ipse2 lui-mÃªme, elle-mÃªme	PRO
+adducere	adduco amener, attirer, mener Ã	VBE
+omnibus	omnis tout, chaque	QLF
+diebus	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+et	et et	CON
+terminis	termen borne|terminus borne, limite, sentence, terme, territoire, droits paroissiaux, date	SUB
+sibi	se se, soi	PRO
+assignatis	assigno attribuer, assigner	VBE
+et	et et	CON
+assignandis	assigno attribuer, assigner	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+penam	pena peine, chÃ¢timent|penna penne, plume, aile, flÃ¨che, nageoire|pinna faÃ®te, pinacle, colline	SUB
+predictam	predictus susdit	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+quibus	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+fecit	facio faire, crÃ©er, agir	VBE
+suum	suus son, sa, sien, sienne	QLF
+proprium	proprius1 propre Ã , durable, spÃ©cial, caractÃ©ristique	QLF
+debitum	debeo devoir	VBE

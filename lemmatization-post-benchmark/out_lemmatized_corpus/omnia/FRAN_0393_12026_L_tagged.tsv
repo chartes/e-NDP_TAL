@@ -1,0 +1,199 @@
+form	lemma	POS morph
+204	@card@	INT
+.	.	SENT
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+requesta	requesta demande en justice	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+rauant	rauant	NAM
+petentis	peto se diriger vers, demander|petor obtenir	VBE
+prout	prout selon que, dans la mesure oÃ¹, comme	CON
+alias	alius autre	QLF
+sibi	se se, soi	PRO
+tradi	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+altera	alter autre (de deux), autrui	QLF
+instrumenta	instrumentum mobilier, bagage, outillage, moyen, instrument, enseignement, document, leÃ§on	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mons	mons montagne, colline	SUB
+nomine	nomen nom, dÃ©nomination, titre, essence Â¶ nomine (+gÃ©n.) : au nom de, au titre de, Ã  cause Â¶ (pl.) reliques	SUB
+suo	suus son, sa, sien, sienne	QLF
+et	et et	CON
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+moderacione	moderatio mesure, modÃ©ration, gouvernement, administration, amÃ©nagement	SUB
+faciende	facienda exploitation agricole	SUB
+cuidem	cuidem	QLF
+molendinario	molendinarius1 de moulin	QLF
+respondeatur	respondeo rÃ©pondre Ã , cadrer avec, Ãªtre Ã©gal Ã	VBE
+sibi	se se, soi	PRO
+respectu	respectus regard en arriÃ¨re, Ã©gard, recours, refuge, ingÃ©rence, redevance	SUB
+dicte	dictus dit, susdit	QLF
+iusticie	iustitia justice	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+non	non ne... pas, ne... point, non	ADV
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+oppinionis	oppinionis	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+habeat	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre	VBE
+seu	siue ou si, soit	CON
+excereat	excereat	VBE
+nisi	nisi si ne â¦ pas, Ã  moins que	CON
+auctoritate	auctoritas autoritÃ©, exemple, conseil	SUB
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+/	/	VBE
+et	et et	CON
+respectu	respectus regard en arriÃ¨re, Ã©gard, recours, refuge, ingÃ©rence, redevance	SUB
+molendinario	molendinarius1 de moulin	QLF
+nichil	nihil rien, le nÃ©ant Â¶ pas du tout	SUB
+fiet	fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+hue	hue	VBE
+commictuntur	commictuntur	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+audiendum	audio Ã©couter, entendre, comprendre, obÃ©ir	VBE
+confessiones	confessio confession, profession de foi, tombeau d'un martyr, droit de recevoir les confessions (pl.)	SUB
+capellanos	capellanus2 chapelain	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+et	et et	CON
+religiosarum	religiosus1 consciencieux, honnÃªte, pieux, respectÃ©, relatif Ã  la vie religieuse, superstitieux	QLF
+domus	domus maison, dynastie, manse	SUB
+$	$	VBE
+dep	dep	VBE
+$	$	VBE
+dei	deus dieu, idole, seigneur	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+omnibus	omnis tout, chaque	QLF
+casibus	casus chute, dÃ©clin, fin, arrivÃ©e fortuite, accident, hasard, cas, affaire Â¶ sub	SUB
+reseruatis	reseruo garder en rÃ©serve, rÃ©server, garder	VBE
+et	et et	CON
+non	non ne... pas, ne... point, non	ADV
+reseruatis	reseruo garder en rÃ©serve, rÃ©server, garder	VBE
+audita	audio Ã©couter, entendre, comprendre, obÃ©ir	VBE
+relicione	relicione	SUB
+m	1000	NUM
+.	.	SENT
+u	5	NUM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+croces	crocio croasser|croco teindre en jaune safran	VBE
+placet	placeo plaire|placo apaiser	VBE
+/	/	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+habeat	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre	VBE
+tria	tres trois	NUM
+arpenta	aripennis arpent, borne	SUB
+pretorum	pretor prÃ©teur, gÃ©nÃ©ral, chef, gouverneur	SUB
+apud	apud auprÃ¨s de, chez	PRE
+cristollium	cristollium	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+xiiii	14	NUM
+.	.	SENT
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.p	.p	VBE
+.	.	SENT
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+uitam	uita vie	SUB
+ita	ita ainsi, tellement, oui	ADV
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+melius	melius assez bien, trÃ¨s bien, mieux	ADV
+distribuitur	distribuo partager	VBE
+etc	etc	VBE
+hodie	hodie aujourd'hui	ADV
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+requestam	requesta demande en justice	SUB
+dominorum	dominus maÃ®tre, chef, seigneur, sire	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+pluiere	pluiere	VBE
+p	-	NAM
+.	.	SENT
+morain	morain	NAM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+souuigne	souuigne	QLF
+et	et et	CON
+germani	germanus frÃ¨re, soeur (de pÃ¨re et de mÃ¨re), naturel, germain	QLF
+calardi	calardi	SUB
+presbyterorum	presbyter prÃªtre	SUB
+matricularium	matricularis de l'Ã©glise mÃ¨re	QLF
+clericorum	clericus2 membre du clergÃ©	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+consenserunt	consentio Ãªtre d'accord, comploter	VBE
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+possint	possum pouvoir Â¶ non p. facere quin, non p. quin : je ne peux pas empÃªcher que	VBE
+uendere	uendo vendre	VBE
+et	et et	CON
+deliberare	delibero rÃ©flÃ©chir, dÃ©cider Â¶ libÃ©rer, rendre, payer, prÃªter (un serment)	VBE
+domino	dominus maÃ®tre, chef, seigneur, sire	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+d'aunoy	d'aunoy	VBE
+dicto	dico2 dire, ordonner, chanter|dicto dicter, versifier, conseiller, dire souvent	VBE
+le	le	VBE
+galoys	galoys	SUB
+militi	miles soldat, chevalier, vassal	SUB
+iiiior	quattuor quatre	NUM
+lb	lb	VBE
+.	.	SENT
+p	-	NAM
+.	.	SENT
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+quas	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+ipsi	ipse2 lui-mÃªme, elle-mÃªme	PRO
+percipiunt	percipio percevoir, recueillir, comprendre	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+et	et et	CON
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+quodam	quidam certain	QLF
+furno	furnus four, Ã©tuve	SUB
+bannerio	banderium banniÃ¨re|bannarius surveillant du ban	SUB
+sito	situs1 fondÃ©, placÃ©	QLF
+apud	apud auprÃ¨s de, chez	PRE
+louuiers	louuiers	NAM
+orm	orm	VBE
+dicto	dico2 dire, ordonner, chanter|dicto dicter, versifier, conseiller, dire souvent	VBE
+danoy	danoy	VBE
+unacum	unacum	VBE
+arreragis	arreragis	QLF
+debitis	debeo devoir	VBE
+mediante	medio partager, Ãªtre au milieu|medior Ãªtre au milieu	VBE
+quinquaginta	quinquaginta cinquante	NUM
+libris	liber1 liber (Ã©corce) Â¶ livre|libra livre romaine, mesure pour les liquides, balance, niveau, Ã©qulibre, dose	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+ipsum	ipse2 lui-mÃªme, elle-mÃªme	PRO
+danoy	danoy	VBE
+eisdem	idem2 le-mÃªme, ledit	PRO
+matriculariis	matricularia veuve, sacristaine|matricularius marguillier, sacristain	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+una	unus un, unique	NUM
+uice	uicis changement par succession, retour (des choses), vicissitudes, rÃ©ciprocitÃ© Â¶ uice (+gÃ©n.) : en tenant lieu de, Ã  la place de|uicus agglomÃ©ration, quartier, rue, bourg, domaine	SUB
+propter	propter Ã  cÃ´tÃ© de, le long de, Ã  cause de, pour	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+reddentis	reddo rendre, raconter, faire entendre  Â¶ (rÃ©fl.) s'Ã©tablir Ã  demeure	VBE
+et	et et	CON
+soluendis	soluo dÃ©lier, dÃ©livrer, acquitter, payer, rompre, relÃ¢cher, anÃ©antir, se dÃ©sister, renoncer Ã	VBE
+prout	prout selon que, dans la mesure oÃ¹, comme	CON
+continetur	contineo maintenir, contenir, soutenir|continor rencontrer	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+una	unus un, unique	NUM
+minuta	minuo diminuer, saigner, dÃ©truire|minuto rÃ©duire en miettes	VBE
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+confecta	confecto tanner|conficio rÃ©aliser, achever	VBE
+hic	hic1 ici, sur ce point, alors	ADV
+$	$	VBE
+uisita	uisito voir souvent, visiter	VBE
+$	$	VBE
+exhibita	exhibeo montrer, causer, rendre, entretenir, (pron.) se conformer Ã	VBE

@@ -1,0 +1,300 @@
+form	lemma	POS morph
+16	@card@	INT
+promoti	promoueo faire avancer, Ã©tendre, agrandir, faire sortir	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+ordines	ordo ordre, disposition, ordo (liturg.)	SUB
+sabbati	sabbatum sabbat, samedi, semaine	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ieiuniis	ieiunium jeÃ»ne, sÃ©cheresse	SUB
+iiiior	quattuor quatre	NUM
+temporum	tempus temps, occasion, circonstances Â¶ tempe	SUB
+post	post2 aprÃ¨s, derriÃ¨re	PRE
+brandones	brando brandon, torche	SUB
+reuerendus	reuereo craindre, respecter, rÃ©vÃ©rer, avoir Ã©gard Ã , tenir compte de	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+christo	christus oint	QLF
+pater	pater pÃ¨re	SUB
+dominus	dominus maÃ®tre, chef, seigneur, sire	SUB
+g	g	NAM
+.	.	SENT
+dei	deus dieu, idole, seigneur	SUB
+gracia	gratia2 faveur, gratitude, grÃ¢ce	SUB
+episcopi	episcopus inspecteur, Ã©vÃªque, chef religieux	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+sua	suus son, sa, sien, sienne	QLF
+superioni	superioni	SUB
+capella	capella cape, manteau Ã  capuchon, chapelle, objets liturgiques, toit d'un bÃ¢timent, halle Â¶ chevrette|capellus coiffe, bonnet, casque Â¶ chevreau	SUB
+episcopali	episcopalis Ã©piscopal, dâÃ©vÃªque	QLF
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+sacros	sacer saint, sacrÃ©, vouÃ© Ã  un dieu, maudit	QLF
+ordines	ordo ordre, disposition, ordo (liturg.)	SUB
+celebrans	celebro frÃ©quenter en nombre, assister en foule, publier, louer, employer souvent, pratiquer, accomplir, celÃ©brer	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+presentacionem	presentatio prÃ©sentation, collation, cadeau	SUB
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+m	1000	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+morain	morain	NAM
+richerium	-	NAM
+lepoiure	lepoiure	QLF
+p	-	NAM
+.	.	SENT
+bauiardonis	bauiardonis	NAM
+galesium	galesium	SUB
+gourdin	gourdin	NAM
+capellanos	capellanus2 chapelain	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+iacobum	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ueteri	uetus vieux, ancien	QLF
+monasterii	monasterium Ã©glise, monastÃ¨re	SUB
+canonicum	canonicus2 thÃ©oricien, clerc, chanoine	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+ste	sanctus1 saint, sacrÃ©	QLF
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+gressibus	gressus pied, marche, degrÃ©	SUB
+accolitos	accolitos	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+subdiaconum	subdiaconus sous-diacre	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+pierre	pierre	VBE
+capellanum	capellanus2 chapelain	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+subdiaconum	subdiaconus sous-diacre	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+diaconum	diaconus diacre	SUB
+p	-	NAM
+.	.	SENT
+laduré	laduré	VBE
+clericum	clericus2 membre du clergÃ©	SUB
+eciam	etiam aussi, mÃªme, encore, oui	ADV
+capellanum	capellanus2 chapelain	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+accolitum	accolitum	VBE
+ordinatum	ordino ordonner, administrer, rÃ©gler, lÃ©guer	VBE
+fauente	faueo favoriser, applaudir, concÃ©der	VBE
+altissimo	altus1 haut, profond	QLF
+rite	rite selon les rites, selon les rÃ¨gles, comme il faut, selon l'usage	ADV
+et	et et	CON
+canonice	canonicus1 relatif Ã  un impÃ´t, relatif Ã  la rÃ¨gle, rÃ©gulier, canonique, canonial	QLF
+promouit	promoueo faire avancer, Ã©tendre, agrandir, faire sortir	VBE
+/	/	VBE
+et	et et	CON
+iohanni	-	NAM
+filio	filius fils, enfant, disciple	SUB
+iohannis	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+calays	calays	SUB
+puero	puer enfant, fils, esclave, serviteur, vassal	SUB
+chori	chorus choeur Â¶ territoire|corus mesure de capacitÃ©	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+dedit	do donner, concÃ©der, lÃ©guer, exprimer	VBE
+tonsuram	tonsura tonte, taille, tonsure	SUB
+seu	siue ou si, soit	CON
+coronam	corona couronne, cercle, couronnement, tonsure Â¶ la Couronne (constellation)	SUB
+.	.	SENT
+sequitur	sequor suivre, poursuivre, succÃ©der, s'ensuivre, obÃ©ir, Ã©choir	VBE
+quedam	quidam certain	QLF
+ordinacio	ordinatio organisation, ordonnance, disposition, ordonnancement, ordre Â¶ ordination, sacre, consÃ©cration (liturg.)	SUB
+facta	facio faire, crÃ©er, agir|facto faire souvent, exercer|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+dominum	dominus maÃ®tre, chef, seigneur, sire	SUB
+episcopum	episcopus inspecteur, Ã©vÃªque, chef religieux	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+et	et et	CON
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+ante	ante2 avant	PRE
+pascha	pascha pÃ¢ques, semaine sainte	SUB
+ccccli	451	NUM
+anno	annus annÃ©e, saison	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+m_	m_	QLF
+cccc	400	NUM
+.	.	SENT
+li	51	NUM
+.	.	SENT
+currente	curro courir, recourir Ã , Ãªtre pratiquÃ©, Ãªtre Ã  la chasse	VBE
+.	.	SENT
+c	100	NUM
+.	.	SENT
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+littera	littera lettre, sens littÃ©ral Â¶ Ã©crit, culture littÃ©raire, Ecriture	SUB
+dominicali	dominicalis1 seigneurial, dominical, cathÃ©dral	QLF
+accidit	accido1 tomber, arriver|accido2 couper, entamer	VBE
+festum	festa1 faÃ®te, fÃ»t de faÃ®tage Â¶ fÃªte	SUB
+pasche	pascha pÃ¢ques, semaine sainte	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+marci	marca frontiÃ¨re, marche, territoire Â¶ marc, poids de mÃ©taux prÃ©cieux Â¶ gage saisi Ã  titre de reprÃ©sailles|marcus marc du vin Â¶ grand marteau (de forgeron)	SUB
+euuanglisti	euuanglisti	VBE
+et	et et	CON
+fuerunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+festa	festa1 faÃ®te, fÃ»t de faÃ®tage Â¶ fÃªte	SUB
+que	que (enclit.) et	CON
+uenerunt	uenio venir, arriver	VBE
+inter	inter entre, parmi, dans, pendant	PRE
+xi_	xi_	QLF
+kalendas	calende calendes, rÃ©unions mensuelles	SUB
+maii	maius2 mois de mai	SUB
+et	et et	CON
+octauas	octauus huitiÃ¨me	NUM
+apostolorum	apostoli lettres de renvoi|apostolus apÃ´tre, pape Â¶ lettre d'appel ou de crÃ©ance	SUB
+petri	-	NAM
+et	et et	CON
+pauli	-	NAM
+celebrata	celebro frÃ©quenter en nombre, assister en foule, publier, louer, employer souvent, pratiquer, accomplir, celÃ©brer	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+modo	modus mesure, importance, maniÃ¨re, mode, teneur, motif	SUB
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+sequitur	sequor suivre, poursuivre, succÃ©der, s'ensuivre, obÃ©ir, Ã©choir	VBE
+.	.	SENT
+primo	primo d'abord	ADV
+dominica	dominicus1 du maÃ®tre, du Seigneur, de la cathÃ©drale  Â¶ dominica dies : dimanche	QLF
+iia	iia	NAM
+maii	maius2 mois de mai	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+octauis	octauus huitiÃ¨me	NUM
+pasche	pascha pÃ¢ques, semaine sainte	SUB
+fiet	fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+lune	luna lune, mois, gorge, lunule	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+dominica	dominicus1 du maÃ®tre, du Seigneur, de la cathÃ©drale  Â¶ dominica dies : dimanche	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+quasimodo	quasimodo	SUB
+martis	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+quiriaco	-	NAM
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+suo	suus son, sa, sien, sienne	QLF
+mercurii	mercurius garrot d'un animal	SUB
+sequentes	sequor suivre, poursuivre, succÃ©der, s'ensuivre, obÃ©ir, Ã©choir	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+inuencione	inuentio trouvaille, invention, droit d'Ã©pave, sentence	SUB
+sancte	sanctus1 saint, sacrÃ©	QLF
+crucis	crux croix, gibet, fibule, signe de la croix Â¶ chÃ¢timent, torture, martyre, mortification Â¶ transept	SUB
+iouis	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+iohanne	-	NAM
+ante	ante2 avant	PRE
+portam	porta porte, issue, dÃ©filÃ©, service d'accueil	SUB
+latinam	latinus latin	QLF
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+suo	suus son, sa, sien, sienne	QLF
+ueneris	uenus VÃ©nus, amour, charme, mai Â¶ vente	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+marco	marca frontiÃ¨re, marche, territoire Â¶ marc, poids de mÃ©taux prÃ©cieux Â¶ gage saisi Ã  titre de reprÃ©sailles|marcus marc du vin Â¶ grand marteau (de forgeron)	SUB
+cum	cum1 (+ abl.) avec	PRE
+processione	processio procession, pompe, procÃ¨s	SUB
+sabbato	sabbatum sabbat, samedi, semaine	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sanctis	sancta offrande eucharistique|sanctum sacrement, parcelle du pain consacrÃ©, chose trÃ¨s sainte (ou consacrÃ©e), offrande eucharistique, choeur|sanctus2 saint, fidÃ¨le, martyr, apÃ´tre	SUB
+iacobo	-	NAM
+et	et et	CON
+philipo	-	NAM
+apostolis	apostola apÃ´tre (femme)|apostoli lettres de renvoi|apostolus apÃ´tre, pape Â¶ lettre d'appel ou de crÃ©ance	SUB
+.	.	SENT
+dominica	dominicus1 du maÃ®tre, du Seigneur, de la cathÃ©drale  Â¶ dominica dies : dimanche	QLF
+uiia	uiia	VBE
+idus	idus ides	SUB
+maii	maius2 mois de mai	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+translacione	translatio transfert, translation, transposition, transcription, traduction, mÃ©taphore, mÃ©tathÃ¨se (rhÃ©t.)	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+nicolay	nicolay	SUB
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+suo	suus son, sa, sien, sienne	QLF
+lune	luna lune, mois, gorge, lunule	SUB
+sequente	sequens suivant, d'un rang infÃ©rieur Â¶ sequentes, ium, (m. pl.) la postÃ©ritÃ©	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+dominica	dominicus1 du maÃ®tre, du Seigneur, de la cathÃ©drale  Â¶ dominica dies : dimanche	QLF
+mgsi	mgsi	VBE
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+cum	cum1 (+ abl.) avec	PRE
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+gordiani	-	NAM
+et	et et	CON
+epimachi	epimachi	SUB
+martyrium	martyrium martyre, tombe, Ã©glise	SUB
+et	et et	CON
+mathurini	mathurini	NAM
+confessoris	confessor celui qui proclame sa foi, confesseur	SUB
+martis	-	NAM
+sequente	sequens suivant, d'un rang infÃ©rieur Â¶ sequentes, ium, (m. pl.) la postÃ©ritÃ©	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+inuencione	inuentio trouvaille, invention, droit d'Ã©pave, sentence	SUB
+corporum	corpus corps, chair, substance, personne  Â¶ compilation	SUB
+beati	beatus bienheureux, riche, saint	QLF
+dionisii	-	NAM
+sociorumque	sociorumque	QLF
+eius	is2 il, elle, le, la, les	PRO
+cum	cum1 (+ abl.) avec	PRE
+martyribus	martyr martyr, martyre, tÃ©moin	SUB
+mamerti	mamerti	NAM
+et	et et	CON
+maioli	malleolus dim. de malleus	SUB
+mercurii	mercurius garrot d'un animal	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sanctis	sancta offrande eucharistique|sanctum sacrement, parcelle du pain consacrÃ©, chose trÃ¨s sainte (ou consacrÃ©e), offrande eucharistique, choeur|sanctus2 saint, fidÃ¨le, martyr, apÃ´tre	SUB
+nereo	nereo	NAM
+et	et et	CON
+achilleo	achilleum Ã©ponge	SUB
+atque	atque et	CON
+pancracio	pancration pancrace	SUB
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+suo	suus son, sa, sien, sienne	QLF
+iouis	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+georgio	-	NAM
+ueneris	uenus VÃ©nus, amour, charme, mai Â¶ vente	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+petro	petro agneau Â¶ paysan lourdaud	SUB
+martire	martur martre, pelisse|martyr martyr, martyre, tÃ©moin|martyra une martyre	SUB
+sabbato	sabbatum sabbat, samedi, semaine	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+eutropio	-	NAM
+cum	cum1 (+ abl.) avec	PRE
+martyris	martyr martyr, martyre, tÃ©moin|martyra une martyre	SUB
+honorati	honoratus1 honorÃ©	QLF
+episcopi	episcopus inspecteur, Ã©vÃªque, chef religieux	SUB
+et	et et	CON
+confessoris	confessor celui qui proclame sa foi, confesseur	SUB
+xuii_	xuii_	NUM
+kalendas	calende calendes, rÃ©unions mensuelles	SUB
+iunii	iunius1 de juin	QLF
+dominica	dominicus1 du maÃ®tre, du Seigneur, de la cathÃ©drale  Â¶ dominica dies : dimanche	QLF
+iubilate	iubilo crier, faire retentir, chanter des cantiques de joie	VBE
+lune	luna lune, mois, gorge, lunule	SUB
+sequente	sequens suivant, d'un rang infÃ©rieur Â¶ sequentes, ium, (m. pl.) la postÃ©ritÃ©	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+apocalipsi	apocalypsis apocalypse	SUB
+etc	etc	VBE
+.	.	SENT

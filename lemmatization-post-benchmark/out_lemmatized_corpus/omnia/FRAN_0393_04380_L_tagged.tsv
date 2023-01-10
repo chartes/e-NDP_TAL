@@ -1,0 +1,588 @@
+form	lemma	POS morph
+24	@card@	INT
+collacio	colatium mÃ©tayage|collatio assemblage, rÃ©union, confrontation, contribution, don, comparaison, rapprochement, collation	SUB
+capellanie	capellania fonction de chapelain, chapelle royale, chapellenie	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+capellania	capellania fonction de chapelain, chapelle royale, chapellenie	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+altare	altar autel, revenus d'un autel	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+thome	-	NAM
+cantuariensis	-	NAM
+uacans	uaco s'appliquer Ã , vaquer Ã , Ãªtre vacant	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+resignacionem	resignatio action de desceller	SUB
+m	1000	NUM
+.	.	SENT
+iohannis	-	NAM
+angot	angot	NAM
+procuratoris	procurator administrateur, intendant, mandataire, procurateur	SUB
+et	et et	CON
+nomine	nomen nom, dÃ©nomination, titre, essence Â¶ nomine (+gÃ©n.) : au nom de, au titre de, Ã  cause Â¶ (pl.) reliques	SUB
+procuratorio	procuratorius de procurateur, d'avouÃ©	QLF
+m	1000	NUM
+.	.	SENT
+g	g	NAM
+.	.	SENT
+heuze	heuze	NAM
+ultimi	ultimus ultime Â¶ ultima, orum, (n. pl.) les derniers moments de la vie	QLF
+possessoris	possessor possesseur, propriÃ©taire	SUB
+$	$	QLF
+i	1	NUM
+$	$	VBE
+eiusdem	idem2 le-mÃªme, ledit	PRO
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+manibus	manes mÃ¢nes, enfers|manus2 main, force, troupe, pouvoir, coup au jeu	SUB
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+factam	facio faire, crÃ©er, agir|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+et	et et	CON
+admissam	admitto lancer (vers), accepter, admettre	VBE
+causa	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+tamen	tamen cependant, toutefois	CON
+permutacionis	permutatio changement, permutation	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ipsa	ipse1 (lui-)mÃªme, en personne	QLF
+cum	cum1 (+ abl.) avec	PRE
+suis	suus son, sa, sien, sienne	QLF
+iuribus	ius droit, justice Â¶ jus, sauce	SUB
+etc	etc	VBE
+.	.	SENT
+cum	cum1 (+ abl.) avec	PRE
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+thoma	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+fonte	fons source Â¶ (pl.) fonts baptismaux, calice, droit de baptÃªme	SUB
+clerico	clericus2 membre du clergÃ©	SUB
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+artibus	ars talent, art, mÃ©tier, machine|artus2 articulation	SUB
+capellano	capellanus2 chapelain	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+altere	alter autre (de deux), autrui	QLF
+sancti	sanctus1 saint, sacrÃ©	QLF
+ludouici	-	NAM
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+marcelli	martellus petit marteau	SUB
+prope	prope2 prÃ¨s de	PRE
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+fundatam	fundo1 fonder, bÃ¢tir, asseoir solidement, donner les rudiments	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+dictam	dictus dit, susdit	QLF
+capellaniam	capellania fonction de chapelain, chapelle royale, chapellenie	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+ludouici	-	NAM
+suaque	suaque	QLF
+iura	ius droit, justice Â¶ jus, sauce	SUB
+etc	etc	VBE
+.	.	SENT
+et	et et	CON
+non	non ne... pas, ne... point, non	ADV
+alias	alius autre	QLF
+faciende	facio faire, crÃ©er, agir	VBE
+.	.	SENT
+saluo	saluus sain et sauf, sauvÃ©, jouissant du droit d'asile	QLF
+iure	ius droit, justice Â¶ jus, sauce	SUB
+cuiuslibet	quilibet2 n'importe lequel, celui qu'on voudra, chacun	PRO
+prestito	prestitum emprunt	SUB
+prius	prius auparavant, jadis	ADV
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+dictum	dictum parole, sentence, proverbe, ordre	SUB
+procuratore	procurator administrateur, intendant, mandataire, procurateur	SUB
+nomine	nomen nom, dÃ©nomination, titre, essence Â¶ nomine (+gÃ©n.) : au nom de, au titre de, Ã  cause Â¶ (pl.) reliques	SUB
+quo	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+supra	supra2 plus haut, en plus, d'une dignitÃ© supÃ©rieure	ADV
+/	/	VBE
+et	et et	CON
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+dictum	dictum parole, sentence, proverbe, ordre	SUB
+m	1000	NUM
+.	.	SENT
+thomam	-	NAM
+iuramento	iuramentum serment, jurement	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+huiusmodi	huiusmodi de cette maniÃ¨re, de cette sorte	ADV
+resignacione	resignatio action de desceller	SUB
+non	non ne... pas, ne... point, non	ADV
+interuenient	interuenio survenir, intervenir, s'interposer, intercÃ©der	VBE
+fraus	fraus tromperie, crime, mÃ©prise, dÃ©triment	SUB
+dolus	dolus douleur Â¶ ruse, tort causÃ©	SUB
+etc	etc	VBE
+.	.	SENT
+collata	collatus combat, confÃ©rence, donation, impÃ´t, action de recueillir	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+dicto	dico2 dire, ordonner, chanter|dicto dicter, versifier, conseiller, dire souvent	VBE
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+thome	-	NAM
+presenti	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+iurauit	iuro jurer	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+forma	forma forme, type, beautÃ©, moule	SUB
+et	et et	CON
+fuit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+installatus	installo installer	VBE
+etc	etc	VBE
+.	.	SENT
+guillaume	guillaume	NAM
+gars	gars	VBE
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+adiourné	adiourné	VBE
+messeigneurs	messeigneurs	SUB
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+samedi	samedi	SUB
+contre	contre	SUB
+doyen	doyen	SUB
+et	et et	CON
+chapitre	chapitre	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+saint	saint	NAM
+germain	germain	NAM
+l'auxerroys	l'auxerroys	SUB
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+respondre	respondre	SUB
+hodie	hodie aujourd'hui	ADV
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+.	.	SENT
+io	io ah ! oh ! las !	INT
+iames	iames	NAM
+.	.	SENT
+fecit	facio faire, crÃ©er, agir	VBE
+suam	suus son, sa, sien, sienne	QLF
+relacionem	relatio rapport, mise en dÃ©libÃ©ration, relation, narration, charge assignÃ©e Ã  quelqu'un	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+domo	domus maison, dynastie, manse	SUB
+n	n	VBE
+.	.	SENT
+naalot	naalot	NAM
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+uico	uicus agglomÃ©ration, quartier, rue, bourg, domaine	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+la	la	QLF
+huchecte	huchecte	NAM
+sita	sino cesser, permettre, quitter	VBE
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+qua	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+capellanus	capellanus1 de la chapelle	QLF
+sancte	sanctus1 saint, sacrÃ©	QLF
+anne	amnis fleuve	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+percipit	percipio percevoir, recueillir, comprendre	VBE
+certum	certus dÃ©cidÃ©, bien dÃ©fini, certain	QLF
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+et	et et	CON
+retulit	refero rapporter, restituer, payer, proposer une motion, en appeler Ã , revenir dire, rendre compte, reproduire Â¶ refert : il importe, il est de l'intÃ©rÃªt de|retollo remporter	VBE
+ipsum	ipse2 lui-mÃªme, elle-mÃªme	PRO
+et	et et	CON
+reparaciones	reparatio rÃ©tablissement, renouvellement	SUB
+eiusdem	idem1 (le) mÃªme, ledit, ce	QLF
+uidisse	uideo voir, comprendre, veiller Ã  Â¶ (pass.) Ãªtre vu, sembler	VBE
+et	et et	CON
+uisuasse	uisuasse	VBE
+/	/	VBE
+et	et et	CON
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+ipsa	ipse1 (lui-)mÃªme, en personne	QLF
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+bono	bonus bon	QLF
+et	et et	CON
+sufficiente	sufficiens suffisant, content de, valable, suffisamment important	QLF
+statu	status Ã©tat, position, condition, immobilitÃ©, stabilitÃ©, droits, question, stalle, Ã©tal, poste, estage de chÃ¢teau, mesure de longueur	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+n	n	QLF
+.	.	SENT
+naalot	naalot	NAM
+et	et et	CON
+bene	bene bien	ADV
+reparata	reparo restaurer, rafraÃ®chir, acquÃ©rir Ã  la place de, renouveler	VBE
+et	et et	CON
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+ipsa	ipse1 (lui-)mÃªme, en personne	QLF
+bene	bene bien	ADV
+potest	possum pouvoir Â¶ non p. facere quin, non p. quin : je ne peux pas empÃªcher que	VBE
+/	/	VBE
+ualere	ualeo Ãªtre fort, valoir, pouvoir	VBE
+annui	annuus annuel	QLF
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sex	sex six	NUM
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+septem	septem sept	NUM
+libras	libra livre romaine, mesure pour les liquides, balance, niveau, Ã©qulibre, dose	SUB
+parisienses	-	NAM
+/	/	VBE
+et	et et	CON
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+ipse	ipse2 lui-mÃªme, elle-mÃªme	PRO
+naalot	naalot	NAM
+bene	bene bien	ADV
+potuit	possum pouvoir Â¶ non p. facere quin, non p. quin : je ne peux pas empÃªcher que	VBE
+ibidem	ibidem lÃ  mÃªme, au mÃªme moment	ADV
+fecisse	facio faire, crÃ©er, agir	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+reparacionibus	reparatio rÃ©tablissement, renouvellement	SUB
+usque	usque sans cesse, jusque, depuis	ADV
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+summam	summa point culminant, total, rÃ©sumÃ©, somme, prÃ©cis, compendium	SUB
+$	$	QLF
+c	100	NUM
+et	et et	CON
+x	10	NUM
+fr	fr	VBE
+$	$	VBE
+c	100	NUM
+.	.	SENT
+et	et et	CON
+x	10	NUM
+.	.	SENT
+fr	fr	VBE
+.	.	SENT
+uel	uel ou, et, ou plutÃ´t, mÃªme, et qui plus est, par exemple, vraiment, au moins Â¶ uel... uel.. : ou... ou..., soit... soit... Â¶ + subj. : si seulement	CON
+ultra	ultra1 au-delÃ , plus loin, en outre, plus longtemps, ensuite	ADV
+.	.	SENT
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+recolligendum	recolligo rassembler, ressaisir, rÃ©concilier  Â¶ (rÃ©fl.) : se retirer	VBE
+et	et et	CON
+recuperandum	recipero recouvrer, reconquÃ©rir, reprendre, soulager, restaurer, se rÃ©tablir, prospÃ©rer	VBE
+prebendas	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+foraneas	foraneus non-rÃ©sident, extÃ©rieur Ã  la citÃ©	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+anno	annus annÃ©e, saison	SUB
+futuro	futurus futur	QLF
+quas	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+nunc	nunc maintenant, alors, donc	ADV
+recoligit	recoligit	VBE
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+gaillon	gaillon	SUB
+nominatus	nominatus2 nom	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+karolus	-	NAM
+boullardi	boullardi	SUB
+presens	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+hoc	hic3 celui-ci, celle-ci	PRO
+recusauit	recuso refuser, rÃ©clamer, protester	VBE
+audita	audio Ã©couter, entendre, comprendre, obÃ©ir	VBE
+relacione	relatio rapport, mise en dÃ©libÃ©ration, relation, narration, charge assignÃ©e Ã  quelqu'un	SUB
+m	1000	NUM
+.	.	SENT
+io	io ah ! oh ! las !	INT
+francisci	-	NAM
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+collegii	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+forteti	forteti	SUB
+burse	bursa peau, cuir, sac, bourse, pension	SUB
+seu	siue ou si, soit	CON
+locumtenenti	locumtenenti	VBE
+bursarum	bursa peau, cuir, sac, bourse, pension	SUB
+dicti	dictus dit, susdit	QLF
+collegii	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+nunc	nunc maintenant, alors, donc	ADV
+uacantes	uaco s'appliquer Ã , vaquer Ã , Ãªtre vacant	VBE
+seu	siue ou si, soit	CON
+uacans	uacans vide, oisif, cÃ©libataire	QLF
+quia	quia parce que, de ce que, que	CON
+$	$	QLF
+no	no nager, naviguer	VBE
+$	$	VBE
+nulli	nullus aucun, nul, non existant, sans valeur	QLF
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+aut	aut ou bien	CON
+fuerunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+iamdiu	iamdiu depuis longtemps	ADV
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+bursarii	bursarius trÃ©sorier	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+dicto	dictus dit, susdit	QLF
+collegio	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+oriundi	oriundus originaire de	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+uilla	uilla domaine, ferme Â¶ village	SUB
+aureliaci	-	NAM
+sancti	sanctus1 saint, sacrÃ©	QLF
+flori	floreus fleuri	QLF
+diocesis	diocesis diocÃ¨se, paroisse, province ecclÃ©siastique, Ã©glise paroissiale, autoritÃ© diocÃ©saine	SUB
+tum	tum alors Â¶ cum... tum : quand... alors, d'une part. d'autre part	ADV
+propter	propter Ã  cÃ´tÃ© de, le long de, Ã  cause de, pour	PRE
+guerras	werra lutte, guerre	SUB
+quam	quam que, combien, Ã  quel point	CON
+propter	propter Ã  cÃ´tÃ© de, le long de, Ã  cause de, pour	PRE
+diminucionem	deminutio prÃ©lÃ¨vement, diminution	SUB
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+dicti	dictus dit, susdit	QLF
+collegii	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+aut	aut ou bien	CON
+alias	alius autre	QLF
+quo	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+uis	uis force, action, influence, efficacitÃ©	SUB
+modo	modo2 dans cette mesure, seulement, Ã  l'instant, tout de suite, rÃ©cemment, maintenant	ADV
+uacantes	uaco s'appliquer Ã , vaquer Ã , Ãªtre vacant	VBE
+seu	siue ou si, soit	CON
+uacans	uacans vide, oisif, cÃ©libataire	QLF
+collaciones	collatio assemblage, rÃ©union, confrontation, contribution, don, comparaison, rapprochement, collation	SUB
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+$	$	VBE
+pe	pe	VBE
+$	$	VBE
+petro	petro agneau Â¶ paysan lourdaud	SUB
+bernardi	-	NAM
+et	et et	CON
+iohanne	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+campis	campe chenille Â¶ cheval marin, sinuositÃ©|campus plaine, place, champ, camp	SUB
+clericis	clericus2 membre du clergÃ©	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+scolaribus	scholaris1 d'Ã©cole, scolaire	QLF
+studentis	studeo s'appliquer Ã , Ã©tudier, soigner	VBE
+oriundis	oriundus originaire de	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+uilla	uilla domaine, ferme Â¶ village	SUB
+aureliaci	-	NAM
+sancti	sanctus1 saint, sacrÃ©	QLF
+flori	floreus fleuri	QLF
+diocesis	diocesis diocÃ¨se, paroisse, province ecclÃ©siastique, Ã©glise paroissiale, autoritÃ© diocÃ©saine	SUB
+tamquam	tamquam comme, de mÃªme que, en qualitÃ© de, pour ainsi dire	CON
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+capacis	capax capable, sujet Ã , spacieux	QLF
+et	et et	CON
+ydoneis	idoneus appropriÃ© Â¶ disculpÃ©, innocent, capable d'ester, authentique	QLF
+secundum	secundum1 pendant, selon, suivant, en ce qui concerne, quant Ã , proportionnellement Ã , comme, de la mÃªme maniÃ¨re que, pour	PRE
+disposicionem	dispositio disposition, administration	SUB
+fundatoris	fundator fondateur, crÃ©ateur, frondeur	SUB
+dicti	dictus dit, susdit	QLF
+collegii	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+iurauerunt	iuro jurer	VBE
+seruare	seruo rÃ©server	VBE
+statuta	statutum dÃ©cision, ordre, dÃ©cret, loi, amende stipulÃ©e	SUB
+dicti	dictus dit, susdit	QLF
+collegii	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+et	et et	CON
+alia	alius autre	QLF
+consueta	consueo avoir l'habitude	VBE
+etc	etc	VBE
+.	.	SENT
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+supplicacionem	supplicatio supplication	SUB
+m	1000	NUM
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+francisti	francisti	VBE
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+collegii	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+forteti	forteti	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+sunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+contenti	contentus tendu, appliquÃ© fortement Â¶ content, inclus	QLF
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+ipse	ipse2 lui-mÃªme, elle-mÃªme	PRO
+tradat	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+clauem	clauis clef, verrou, barre, serrure	SUB
+librarie	librarius1 pesant une livre Â¶ relatif aux livres, de copiste, Ã©rudit	QLF
+dicti	dictus dit, susdit	QLF
+collegii	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+cuidem	cuidem	QLF
+iohanni	-	NAM
+cornuti	cornutus1 qui a des cornes Â¶ sophistiquÃ©, en forme de dilemme	QLF
+hospiti	hospitus hospitalier, voyageur, Ã©tranger	QLF
+dicti	dictus dit, susdit	QLF
+collegii	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+tradendam	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+bonam	bonus bon	QLF
+caucionem	cautio prÃ©caution, caution, garantie, reconnaissance de dette, promesse	SUB
+enc	enc	VBE
+.	.	SENT
+et	et et	CON
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+dispensauerunt	dispenso dispenser, affecter, gouverner, pardonner	VBE
+cum	cum1 (+ abl.) avec	PRE
+ipso	ipse2 lui-mÃªme, elle-mÃªme	PRO
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+$	$	VBE
+souchite	souchite	VBE
+$	$	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+et	et et	CON
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+suo	suus son, sa, sien, sienne	QLF
+iuramento	iuramentum serment, jurement	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+contrarium	contrarius qui est en face, contraire, nuisible, ennemi	QLF
+prestito	prestitum emprunt	SUB
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+statuta	statutum dÃ©cision, ordre, dÃ©cret, loi, amende stipulÃ©e	SUB
+dicti	dictus dit, susdit	QLF
+collegii	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+audita	audio Ã©couter, entendre, comprendre, obÃ©ir	VBE
+relacione	relatio rapport, mise en dÃ©libÃ©ration, relation, narration, charge assignÃ©e Ã  quelqu'un	SUB
+m	1000	NUM
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+$	$	VBE
+deb	deb	VBE
+$	$	VBE
+chuffart	chuffart	NAM
+confranc	confranc	VBE
+barre	bara civiÃ¨re|barra barriÃ¨re, bÃ¢ton, barre|barrus Ã©lÃ©phant	SUB
+du	505	NUM
+drac	drac	NAM
+loquantur	loquor parler, dire, louer	VBE
+cum	cum1 (+ abl.) avec	PRE
+le	le	QLF
+galoys	galoys	SUB
+comissi	comissi	VBE
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+le	le	QLF
+galoys	galoys	SUB
+d'aulnoys	d'aulnoys	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+terra	terra terre, sol, territoire, pays, monde	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+tourny	tourny	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+qua	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+offert	offero porter devant, prÃ©senter, offrir, procurer, montrer, exposer	VBE
+assignari	assigno attribuer, assigner	VBE
+facere	facio faire, crÃ©er, agir	VBE
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+alibi	alibi ailleurs	ADV
+prope	prope2 prÃ¨s de	PRE
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+d'aulnoys	d'aulnoys	SUB
+et	et et	CON
+refferent	refferent	VBE
+hodie	hodie aujourd'hui	ADV
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+passauerunt	passo se ramollir, enfreindre	VBE
+eorum	is2 il, elle, le, la, les	PRO
+tractatum	tractatus maniement, dÃ©veloppement, discussion, conseil, plan, sermon, homÃ©lie, traitÃ©	SUB
+inter	inter entre, parmi, dans, pendant	PRE
+ipsos	ipse2 lui-mÃªme, elle-mÃªme	PRO
+et	et et	CON
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+lenglés	lenglés	NAM
+factum	facio faire, crÃ©er, agir|fio se produire, se rencontrer, devenir, Ãªtre crÃ©Ã©	VBE
+$	$	VBE
+et	et et	CON
+$	$	VBE
+re	res chose, cause, affaire, Ã©vÃ©nement, bien, fortune, intÃ©rÃªt, litige, faits Â¶ (indÃ©cl.) res (lettre hÃ©br.)	SUB
+xl	40	NUM
+.	.	SENT
+solidos	solidus2 sou Â¶ (pl.) solde	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
+quos	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+ipse	ipse2 lui-mÃªme, elle-mÃªme	PRO
+redemit	redimo racheter, prendre Ã  ferme, Ãªtre adjudicataire, affranchir	VBE
+mediante	medio partager, Ãªtre au milieu|medior Ãªtre au milieu	VBE
+c	100	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.p	.p	VBE
+.	.	SENT
+quos	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+ipse	ipse2 lui-mÃªme, elle-mÃªme	PRO
+soluit	soluo dÃ©lier, dÃ©livrer, acquitter, payer, rompre, relÃ¢cher, anÃ©antir, se dÃ©sister, renoncer Ã	VBE
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+fabrica	fabrica forge, ferrure d'un cheval, travail, mÃ©tier, ruse, bÃ¢timent, fabrique d'Ã©glise, crÃ©ation du monde	SUB
+quos	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+ret	ret	VBE
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+presentes	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+et	et et	CON
+gaudi	gaudi	NAM
+fuerunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+eorum	is2 il, elle, le, la, les	PRO
+facto	factum action, punition, redevance|factus exploitation, construction, quantitÃ© d'huile fournie par un tour de pressoir	SUB
+solum	solum1 seulement	ADV
+/	/	VBE
+et	et et	CON
+respectu	respectus regard en arriÃ¨re, Ã©gard, recours, refuge, ingÃ©rence, redevance	SUB
+capellanorum	capellanus1 de la chapelle	QLF
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+similiter	similiter pareillement	ADV
+tractauerunt	tracto traÃ®ner, diffÃ©rer, traiter (de), maltraiter, toucher, manier, gÃ©rer, commenter, mÃ©diter, prÃªcher, manigancer	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+xl	40	NUM
+.	.	SENT
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+p	-	NAM
+.	.	SENT
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+et	et et	CON
+c	100	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.p	.p	VBE
+.	.	SENT
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+autorizauerunt	autorizauerunt	VBE
+ipsos	ipse2 lui-mÃªme, elle-mÃªme	PRO
+quo	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+et	et et	CON
+hoc	hic3 celui-ci, celle-ci	PRO
+coram	coram2 en prÃ©sence de, prÃ¨s de, en faveur de	PRE
+duobus	duo deux	NUM
+notariis	notarius1 relatif Ã  l'Ã©criture	QLF
+castelleti	castelletum chÃ¢telet	SUB
+quos	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+idem	idem2 le-mÃªme, ledit	PRO
+langlés	langlés	NAM
+ibidem	ibidem lÃ  mÃªme, au mÃªme moment	ADV
+adduxit	adduco amener, attirer, mener Ã	VBE
+lecta	lecto lire souvent|lego2 ramasser, enrouler, voler, parcourir (un lieu), choisir, lire	VBE
+prius	prius auparavant, jadis	ADV
+minuta	minuo diminuer, saigner, dÃ©truire|minuto rÃ©duire en miettes	VBE
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+hoc	hic3 celui-ci, celle-ci	PRO
+confecta	confecto tanner|conficio rÃ©aliser, achever	VBE
+.	.	SENT
+adiournement	adiournement	VBE
+boullardi	boullardi	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+prebendis	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+foraneis	foraneus non-rÃ©sident, extÃ©rieur Ã  la citÃ©	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+tractatu	tractatus maniement, dÃ©veloppement, discussion, conseil, plan, sermon, homÃ©lie, traitÃ©	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+lenglés	lenglés	NAM
+collacio	colatium mÃ©tayage|collatio assemblage, rÃ©union, confrontation, contribution, don, comparaison, rapprochement, collation	SUB
+bursarum	bursa peau, cuir, sac, bourse, pension	SUB
+collegii	collegium action d'Ãªtre collÃ¨gue, collÃ¨ge, communautÃ©	SUB
+forteti	forteti	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+formiste	formiste	VBE

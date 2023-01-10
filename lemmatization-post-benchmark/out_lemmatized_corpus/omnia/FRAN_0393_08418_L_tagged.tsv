@@ -1,0 +1,295 @@
+form	lemma	POS morph
+18	@card@	INT
+anno	annus annÃ©e, saison	SUB
+nonagesimo	nonagesimus quatre-vingt-dixiÃ¨me	NUM
+sabbati	sabbatum sabbat, samedi, semaine	SUB
+xuia	xuia	NUM
+nouembris	nouember novembre	SUB
+quarta	quartus quatriÃ¨me, le quart Â¶ die quarte (= die quarto) : dans quatre jours	NUM
+et	et et	CON
+ultima	ultimus ultime Â¶ ultima, orum, (n. pl.) les derniers moments de la vie	QLF
+dicti	dictus dit, susdit	QLF
+capituli	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+generalis	generalis gÃ©nÃ©ral, universel	QLF
+sancti	sanctus1 saint, sacrÃ©	QLF
+martini	-	NAM
+nonagesimo	nonagesimus quatre-vingt-dixiÃ¨me	NUM
+tercio	tertius troisiÃ¨me	NUM
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+.	.	SENT
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+.	.	SENT
+cantore	cantor chanteur, chantre	SUB
+.	.	SENT
+condurier	condurier	VBE
+.	.	SENT
+compains	compains	VBE
+.	.	SENT
+ruzé	ruzé	VBE
+archidiacono	archidiaconus archidiacre	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+.	.	SENT
+simonis	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+besançon	besançon	SUB
+gannay	gannay	VBE
+.	.	SENT
+succentore	succentor chanteur qui accompagne, sous-chantre, conseiller, instigateur	SUB
+archidiacono	archidiaconus archidiacre	SUB
+iosas	iosas	QLF
+.	.	SENT
+louet	louet	NAM
+dauuet	dauuet	VBE
+parpas	parpas	VBE
+cancellario	cancellarius huissier, scribe, greffier, chancelier, notaire	SUB
+bourcier	bourcier	VBE
+gaignon	gaignon	SUB
+.	.	SENT
+penitenciario	penitenciario	QLF
+hacqueuille	hacqueuille	SUB
+briçonnet	briçonnet	VBE
+.	.	SENT
+louuiers	louuiers	NAM
+melleun	melleun	NAM
+.	.	SENT
+lailly	lailly	NAM
+.	.	SENT
+legay	legay	VBE
+poncher	poncher	VBE
+.	.	SENT
+saulay	saulay	NAM
+.	.	SENT
+gobaille	gobaille	SUB
+.	.	SENT
+cerisay	cerisay	SUB
+picart	picart	NAM
+bellay	bellay	VBE
+.	.	SENT
+paris	pario2 enfanter, produire, crÃ©er, acquÃ©rir, faire naÃ®tre|pasco faire paÃ®tre, paÃ®tre, nourrir|paueo craindre, redouter|pauo1 paver	VBE
+emery	emery	SUB
+.	.	SENT
+samxon	samxon	NAM
+$	$	VBE
+.	.	SENT
+$	$	VBE
+reffuge	reffuge	VBE
+.	.	SENT
+fabry	fabry	SUB
+.	.	SENT
+l'enfant	l'enfant	VBE
+.	.	SENT
+menart	menart	NAM
+iuuenal	iuuenal	SUB
+.	.	SENT
+chasteaupers	chasteaupers	QLF
+.	.	SENT
+michel	-	NAM
+boucart	boucart	NAM
+.	.	SENT
+basin	basis base, pied	SUB
+.	.	SENT
+claustre	claustre	QLF
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+germanus	germanus frÃ¨re, soeur (de pÃ¨re et de mÃ¨re), naturel, germain	QLF
+guyn	guyn	NAM
+presbiter	presbyter prÃªtre	SUB
+procurator	procurator administrateur, intendant, mandataire, procurateur	SUB
+licteratorie	licteratorie	QLF
+fundatus	fundatus bien assis, mÃªlÃ© d'or	QLF
+magistri	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+stephani	-	NAM
+farcilly	farcilly	VBE
+capellani	capellanus1 de la chapelle	QLF
+capellanie	capellania fonction de chapelain, chapelle royale, chapellenie	SUB
+sanctorum	sanctum sacrement, parcelle du pain consacrÃ©, chose trÃ¨s sainte (ou consacrÃ©e), offrande eucharistique, choeur|sanctus2 saint, fidÃ¨le, martyr, apÃ´tre	SUB
+bartholomei	-	NAM
+et	et et	CON
+uincencii	-	NAM
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+fundate	fundate trÃ¨s fermement	ADV
+resignauit	resigno ouvrir, dÃ©voiler, Ã´ter toute garantie Ã , annuler, rompre, dÃ©gager de, assigner, porter en compte	VBE
+huiusmodi	huiusmodi de cette maniÃ¨re, de cette sorte	ADV
+capellaniam	capellania fonction de chapelain, chapelle royale, chapellenie	SUB
+resignacio	resignatio action de desceller	SUB
+capelle	capella cape, manteau Ã  capuchon, chapelle, objets liturgiques, toit d'un bÃ¢timent, halle Â¶ chevrette|capellus coiffe, bonnet, casque Â¶ chevreau	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+manibus	manes mÃ¢nes, enfers|manus2 main, force, troupe, pouvoir, coup au jeu	SUB
+dominorum	dominus maÃ®tre, chef, seigneur, sire	SUB
+causa	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+permutacionis	permutatio changement, permutation	SUB
+fiende	fiende	VBE
+cum	cum1 (+ abl.) avec	PRE
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+roberto	-	NAM
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+gremont	gremont	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+capellaniam	capellania fonction de chapelain, chapelle royale, chapellenie	SUB
+sancte	sanctus1 saint, sacrÃ©	QLF
+margarete	margarita perle Â¶ hostie	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+thome	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lupera	lupera	VBE
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+fundatam	fundo1 fonder, bÃ¢tir, asseoir solidement, donner les rudiments	VBE
+et	et et	CON
+non	non ne... pas, ne... point, non	ADV
+alias	alius autre	QLF
+et	et et	CON
+iurauit	iuro jurer	VBE
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+huiusmodi	huiusmodi de cette maniÃ¨re, de cette sorte	ADV
+resignacione	resignatio action de desceller	SUB
+et	et et	CON
+permutacione	permutatio changement, permutation	SUB
+non	non ne... pas, ne... point, non	ADV
+interuenit	interuenio survenir, intervenir, s'interposer, intercÃ©der	VBE
+fraus	fraus tromperie, crime, mÃ©prise, dÃ©triment	SUB
+etc	etc	VBE
+quo	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+facto	factum action, punition, redevance|factus exploitation, construction, quantitÃ© d'huile fournie par un tour de pressoir	SUB
+commissi	committo unir, entreprendre, rendre exÃ©cutoire, risquer, administrer (un sacrement), compromettre, produire, enjoindre, consigner, confier, perdre son droit sur une tenure par un dÃ©lit (ou une omission)	VBE
+fuerunt	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+chasteaupers	chasteaupers	QLF
+et	et et	CON
+legay	legay	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+uidendum	uideo voir, comprendre, veiller Ã  Â¶ (pass.) Ãªtre vu, sembler	VBE
+procuratorium	procuratorius de procurateur, d'avouÃ©	QLF
+dicti	dictus dit, susdit	QLF
+guyn	guyn	NAM
+exhibitum	exhibeo montrer, causer, rendre, entretenir, (pron.) se conformer Ã	VBE
+mandatum	mandatum rescrit, mandement, territoire Â¶ lavement des pieds|mandatus recommandation, ordre	SUB
+officiario	officiarium livre contenant les offices|officiarius officier, agent, official, membre d'une maison ecclÃ©siastique, serviteur, agent domanial, appariteur judiciaire	SUB
+tradat	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+petrus	-	NAM
+pinagot	pinagot	VBE
+officiarius	officiarius officier, agent, official, membre d'une maison ecclÃ©siastique, serviteur, agent domanial, appariteur judiciaire	SUB
+anniuersariorum	anniuersarius anniversaire	SUB
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+anniuersariorum	anniuersarius anniversaire	SUB
+merellis	merallus jeton, mÃ©reau	SUB
+dominorum	dominus maÃ®tre, chef, seigneur, sire	SUB
+picart	picart	NAM
+compains	compains	VBE
+et	et et	CON
+simonis	-	NAM
+prebendatorum	prebendo prÃ©bender	VBE
+apud	apud auprÃ¨s de, chez	PRE
+corbereuse	corbereuse	SUB
+peccunias	pecunia fortune, argent, bien mobilier, domaine, bÃ©tail	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+processibus	processus progression, progrÃ¨s, procÃ¨s	SUB
+motis	mota1 motte, tour fortifiÃ©e, digue|mota2 meute	SUB
+promouendum	promoueo faire avancer, Ã©tendre, agrandir, faire sortir	VBE
+tam	tam tant, autant, Ã  ce point	ADV
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+castelleto	castelletum chÃ¢telet	SUB
+quam	quam que, combien, Ã  quel point	CON
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+parlamento	parlamentum parlement, parloir	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+causam	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+dictorum	dictus dit, susdit	QLF
+prebendatorum	prebendo prÃ©bender	VBE
+lune	luna lune, mois, gorge, lunule	SUB
+xuiiia	xuiiia	NUM
+nouembris	nouember novembre	SUB
+ordinarie	ordinarius1 rÃ©gulier, de l'ordinaire (du lieu)	QLF
+capitulantibus	capitulo Ã©numÃ©rer, stipuler, rÃ©unir le chapitre, chapitrer	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+.	.	SENT
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+sz	sz	NAM
+compains	compains	VBE
+sz	sz	NAM
+.	.	SENT
+cantore	cantor chanteur, chantre	SUB
+sz	sz	NAM
+simonis	-	NAM
+ruzé	ruzé	VBE
+archidiacono	archidiaconus archidiacre	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+.	.	SENT
+louet	louet	NAM
+sz	sz	NAM
+gannay	gannay	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+besançon	besançon	SUB
+archiadiacono	archiadiacono	SUB
+iosas	iosas	QLF
+dauuet	dauuet	VBE
+bourcier	bourcier	VBE
+parpas	parpas	VBE
+.	.	SENT
+succentore	succentor chanteur qui accompagne, sous-chantre, conseiller, instigateur	SUB
+sz	sz	NAM
+cancellario	cancellarius huissier, scribe, greffier, chancelier, notaire	SUB
+hacqueuille	hacqueuille	SUB
+gaignon	gaignon	SUB
+briçonnet	briçonnet	VBE
+.	.	SENT
+penitenciario	penitenciario	QLF
+sz	sz	NAM
+.	.	SENT
+legay	legay	QLF
+louuiers	louuiers	NAM
+.	.	SENT
+lailly	lailly	NAM
+sz	sz	NAM
+poncher	poncher	VBE
+.	.	SENT
+picart	picart	NAM
+.	.	SENT
+saulay	saulay	NAM
+sz	sz	NAM
+.	.	SENT
+gobaille	gobaille	SUB
+sz	sz	NAM
+cerisay	cerisay	SUB
+bellay	bellay	VBE
+.	.	SENT
+paris	pario2 enfanter, produire, crÃ©er, acquÃ©rir, faire naÃ®tre|pasco faire paÃ®tre, paÃ®tre, nourrir|paueo craindre, redouter|pauo1 paver	VBE
+sz	sz	NAM
+emery	emery	SUB
+samxon	samxon	NAM
+reffuge	reffuge	VBE
+l'enfant	l'enfant	VBE
+.	.	SENT
+fabry	fabry	SUB
+sz	sz	NAM
+iuuenal	iuuenal	SUB
+.	.	SENT
+menart	menart	NAM
+sz	sz	NAM
+.	.	SENT
+chasteaupers	chasteaupers	QLF
+boucart	boucart	NAM
+.	.	SENT
+claustre	claustre	QLF
+sz	sz	NAM
+.	.	SENT
+condurier	condurier	VBE
+.	.	SENT
+michel	-	NAM
+sz	sz	NAM
+.	.	SENT
+basin	basis base, pied	SUB
+sz	sz	NAM

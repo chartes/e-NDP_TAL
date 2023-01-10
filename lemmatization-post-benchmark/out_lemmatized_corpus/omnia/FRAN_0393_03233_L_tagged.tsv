@@ -1,0 +1,409 @@
+form	lemma	POS morph
+34	@card@	INT
+item	item de mÃªme, pareillement, d'autre part, en outre	ADV
+hospicio	hospitium hospitalitÃ©, toit hospitalier, gÃ®te, droit de gÃ®te, hÃ´pital d'un monastÃ¨re, hÃ´tise	SUB
+dei	deus dieu, idole, seigneur	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+causam	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+prebendarum	prebenda allocation, prÃ©bende, distribution, cadeau	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lay	lay	NAM
+et	et et	CON
+item	item de mÃªme, pareillement, d'autre part, en outre	ADV
+camerario	camerarius2 de tonnelle, du trÃ©sor	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+officio	officium service, fonction, obligeance, devoir, obÃ©issance, secours, activitÃ©, ouvrage, office	SUB
+dicti	dictus dit, susdit	QLF
+panis	panis pain|panus fil	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+cheuilly	cheuilly	VBE
+duo	duo deux	NUM
+sextarios	sextarius sixiÃ¨me, setier, sestrÃ©e	SUB
+bladi	bladum blÃ©	SUB
+que	que (enclit.) et	CON
+poterunt	possum pouvoir Â¶ non p. facere quin, non p. quin : je ne peux pas empÃªcher que	VBE
+extimari	existimo juger, estimer|extimo relÃ©guer Ã  une extrÃ©mitÃ©	VBE
+capitularis	capitulare coiffure, capuchon, Ã©crit important, recueil d'instructions, capitulaire, rÃ´le des contributions, acte d'accusation|capitularis2 membre d'un chapitre, lettre, ordre, dÃ©cret	SUB
+x	10	NUM
+l	50	NUM
+.p	.p	VBE
+.	.	SENT
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+xluiii	48	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+p	-	NAM
+.	.	SENT
+et	et et	CON
+tria	tres trois	NUM
+sextaria	sextarius sixiÃ¨me, setier, sestrÃ©e	SUB
+ordei	hordeum orge	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+xxxii	32	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.p	.p	VBE
+.	.	SENT
+sic	sic ainsi, voici, de mÃªme, Ã  ce point	ADV
+iiii	4	NUM
+l	50	NUM
+.p	.p	VBE
+.	.	SENT
+summa	summus le plus haut, le plus extrÃªme	QLF
+totalis	totalis	ADV
+recipienda	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+prepositura	prepositura commandement, charge de prÃ©vÃ´t, archidiaconÃ©	SUB
+ascendit	ascendo monter, gravir	VBE
+xxix	29	NUM
+l	50	NUM
+.	.	SENT
+iiii	4	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+summa	summus le plus haut, le plus extrÃªme	QLF
+iiii	4	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+item	item de mÃªme, pareillement, d'autre part, en outre	ADV
+camerario	camerarius2 de tonnelle, du trÃ©sor	QLF
+clerico	clericus2 membre du clergÃ©	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+officio	officium service, fonction, obligeance, devoir, obÃ©issance, secours, activitÃ©, ouvrage, office	SUB
+dicti	dictus dit, susdit	QLF
+panis	panis pain|panus fil	SUB
+et	et et	CON
+sic	sic ainsi, voici, de mÃªme, Ã  ce point	ADV
+resta	resta botte Â¶ reste	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+iiii	4	NUM
+l	50	NUM
+.	.	SENT
+xui	16	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.p	.p	VBE
+.	.	SENT
+capitularis	capitularis1 divisÃ© en chapitres, marquant le dÃ©but d'un chapitre, membre d'un chapitre de religieux	QLF
+lxiiii	64	NUM
+l	50	NUM
+.p	.p	VBE
+.	.	SENT
+summa	summus le plus haut, le plus extrÃªme	QLF
+.	.	SENT
+lxiiii	64	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+petrus	-	NAM
+d'orgemont	d'orgemont	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+causam	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+summa	summus le plus haut, le plus extrÃªme	QLF
+totalis	totalis	ADV
+recipienda	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+prepositure	prepositura commandement, charge de prÃ©vÃ´t, archidiaconÃ©	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mory	mory	SUB
+la	la	VBE
+grant	grant	SUB
+parroisse	parroisse	SUB
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+prepositura	prepositura commandement, charge de prÃ©vÃ´t, archidiaconÃ©	SUB
+ascendit	ascendo monter, gravir	VBE
+iiiixx	iiiixx	NUM
+xuiii	18	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+et	et et	CON
+uerno	uernus printanier, oÃ¹ rÃ¨gne le printemps	QLF
+que	que (enclit.) et	CON
+extimatur	existimo juger, estimer|extimo relÃ©guer Ã  une extrÃ©mitÃ©	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+xxiiii	24	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+tenebitur	teneo (se) tenir, atteindre, s'arrÃªter, occuper, contenir, garder, dÃ©tenir, arrÃªter, empÃªcher, comprendre, savoir, croire, affirmer Â¶ (pass.) Ãªtre pris, Ãªtre convaincu d'un crime, Ãªtre tenu de	VBE
+eam	is2 il, elle, le, la, les	PRO
+tradere	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+dicto	dictus dit, susdit	QLF
+camerario	camerarius2 de tonnelle, du trÃ©sor	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+et	et et	CON
+sic	sic ainsi, voici, de mÃªme, Ã  ce point	ADV
+recepta	recepto retirer, recevoir, donner asile|recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+uiii	8	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+officio	officium service, fonction, obligeance, devoir, obÃ©issance, secours, activitÃ©, ouvrage, office	SUB
+panis	panis pain|panus fil	SUB
+/	/	VBE
+et	et et	CON
+sic	sic ainsi, voici, de mÃªme, Ã  ce point	ADV
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+xxiiii	24	NUM
+l	50	NUM
+.p	.p	VBE
+.	.	SENT
+summa	summus le plus haut, le plus extrÃªme	QLF
+xxiiii	24	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+summa	summus le plus haut, le plus extrÃªme	QLF
+recipienda	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+prepositura	prepositura commandement, charge de prÃ©vÃ´t, archidiaconÃ©	SUB
+ascendit	ascendo monter, gravir	VBE
+xxiiii	24	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+pasquerius	pasquerius	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+uallibus	uallis vallÃ©e, creux|uallus pieu, palissade, rempart Â¶ petit van, tuile de gouttiÃ¨re	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+causam	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+prepositure	prepositura commandement, charge de prÃ©vÃ´t, archidiaconÃ©	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+baigneux	baigneux	QLF
+et	et et	CON
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+chatenay	chatenay	SUB
+que	que (enclit.) et	CON
+extimatur	existimo juger, estimer|extimo relÃ©guer Ã  une extrÃ©mitÃ©	VBE
+deductis	deduco conduire, Ã©tendre, mettre Ã  la mer, dÃ©tourner de, entraÃ®ner Â¶ d. sacramentum : prÃªter serment	VBE
+reparacionibus	reparatio rÃ©tablissement, renouvellement	SUB
+et	et et	CON
+aliis	alius autre	QLF
+oneribus	onus charge, poids, charretÃ©e, redevance	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+xxiiii	24	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+tenebitur	teneo (se) tenir, atteindre, s'arrÃªter, occuper, contenir, garder, dÃ©tenir, arrÃªter, empÃªcher, comprendre, savoir, croire, affirmer Â¶ (pass.) Ãªtre pris, Ãªtre convaincu d'un crime, Ãªtre tenu de	VBE
+eam	is2 il, elle, le, la, les	PRO
+tradere	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+dicto	dictus dit, susdit	QLF
+camerario	camerarius2 de tonnelle, du trÃ©sor	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+officio	officium service, fonction, obligeance, devoir, obÃ©issance, secours, activitÃ©, ouvrage, office	SUB
+dicti	dictus dit, susdit	QLF
+panis	panis pain|panus fil	SUB
+.	.	SENT
+/	/	VBE
+et	et et	CON
+sic	sic ainsi, voici, de mÃªme, Ã  ce point	ADV
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+xxiiii	24	NUM
+l	50	NUM
+.	.	SENT
+summa	summus le plus haut, le plus extrÃªme	QLF
+xxiiii	24	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+summa	summus le plus haut, le plus extrÃªme	QLF
+totalis	totalis	ADV
+recipienda	recipio recevoir, reprendre, accepter, admettre, approuver, prendre sur soi, exaucer Â¶ se r : rentrer, se ressaisir	VBE
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+dicta	dictum parole, sentence, proverbe, ordre	SUB
+prepositura	prepositura commandement, charge de prÃ©vÃ´t, archidiaconÃ©	SUB
+ascendit	ascendo monter, gravir	VBE
+xxiiii	24	NUM
+l	50	NUM
+.p	.p	VBE
+.	.	SENT
+passata	passo se ramollir, enfreindre	VBE
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+capitulum	capitulum petite tÃªte, tÃªte, capuchon, coiffure, chapiteau, chapitre, chevet	SUB
+anno	annus annÃ©e, saison	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+m_	m_	QLF
+cccc_	cccc_	NUM
+xxx_	xxx_	NUM
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+mercurii	mercurius garrot d'un animal	SUB
+xxiiii	24	NUM
+ianuarii	ianuarius2 janvier Â¶ portier	SUB
+ut	ut comment, comme, combien Â¶ (+ indic.) : de mÃªme que, quand, vu que Â¶ (+ subj.) : que, Ã  savoir que, pour que, de sorte que, tellement que, si bien que, Ã  supposer que Â¶ (+ part. futur) : avec l'intention de, comme pour	CON
+ibi	ibi lÃ , y, alors	ADV
+supra	supra2 plus haut, en plus, d'une dignitÃ© supÃ©rieure	ADV
+.	.	SENT
+n	n	VBE
+.	.	SENT
+sellarii	sellaris2 cheval de selle|sellarium selle|sellarius sellier	SUB
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+anthonius	anthonius	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lauco	lauco	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+causam	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+prepositure	prepositura commandement, charge de prÃ©vÃ´t, archidiaconÃ©	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+cristollio	cristollio	VBE
+.	.	SENT
+succy	succy	VBE
+.	.	SENT
+et	et et	CON
+uiry	uiry	SUB
+que	que (enclit.) et	CON
+extimatur	existimo juger, estimer|extimo relÃ©guer Ã  une extrÃ©mitÃ©	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+xxxiiii	34	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+tenebitur	teneo (se) tenir, atteindre, s'arrÃªter, occuper, contenir, garder, dÃ©tenir, arrÃªter, empÃªcher, comprendre, savoir, croire, affirmer Â¶ (pass.) Ãªtre pris, Ãªtre convaincu d'un crime, Ãªtre tenu de	VBE
+tradere	trado livrer, remettre, trahir, transmettre, enseigner, expliquer	VBE
+dicto	dictus dit, susdit	QLF
+camerario	camerarius2 de tonnelle, du trÃ©sor	QLF
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+sepedicto	sepedictus susdit	QLF
+officio	officium service, fonction, obligeance, devoir, obÃ©issance, secours, activitÃ©, ouvrage, office	SUB
+panis	panis pain|panus fil	SUB
+et	et et	CON
+sic	sic ainsi, voici, de mÃªme, Ã  ce point	ADV
+xxxiiii	34	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+summa	summus le plus haut, le plus extrÃªme	QLF
+xxxiiii	34	NUM
+l	50	NUM
+.p	.p	VBE
+.	.	SENT
+magister	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+petrus	-	NAM
+cardonnel	cardonnel	NAM
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+causam	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+prepositure	prepositura commandement, charge de prÃ©vÃ´t, archidiaconÃ©	SUB
+d'espone	d'espone	VBE
+et	et et	CON
+rosay	rosay	QLF
+que	que (enclit.) et	CON
+extimatur	existimo juger, estimer|extimo relÃ©guer Ã  une extrÃ©mitÃ©	VBE
+$	$	VBE
+x	10	NUM
+$	$	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+xxxiiii	34	NUM
+l	50	NUM
+.	.	SENT
+p	-	NAM
+.	.	SENT
+habebit	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre	VBE
+supportare	supporto supporter, tolÃ©rer, aider, exonÃ©rer	VBE
+onera	onus charge, poids, charretÃ©e, redevance	SUB
+sequentes	sequor suivre, poursuivre, succÃ©der, s'ensuivre, obÃ©ir, Ã©choir	VBE
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+r	-	NAM
+.	.	SENT
+anclou	anclou	NAM
+presbytero	presbyter prÃªtre	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+suo	suus son, sa, sien, sienne	QLF
+seruicio	seruitium service, charge, obligation Â¶ esclavage, servitude	SUB
+dicte	dictus dit, susdit	QLF
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+xluiii	48	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+petro	petro agneau Â¶ paysan lourdaud	SUB
+d'ogier	d'ogier	VBE
+xluiii	48	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+passac	passac	NAM
+xluiii	48	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+d'ay	d'ay	VBE
+presbytero	presbyter prÃªtre	SUB
+xluiii	48	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+girardo	-	NAM
+machet	machet	SUB
+xluiii	48	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+henrico	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+saconay	saconay	SUB
+xluiii	48	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+m	1000	NUM
+.	.	SENT
+petro	petro agneau Â¶ paysan lourdaud	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+cantella	cantella	SUB
+xluiii	48	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+item	item de mÃªme, pareillement, d'autre part, en outre	ADV
+hospicio	hospitium hospitalitÃ©, toit hospitalier, gÃ®te, droit de gÃ®te, hÃ´pital d'un monastÃ¨re, hÃ´tise	SUB
+dei	deus dieu, idole, seigneur	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+dimidio	dimidium moitiÃ©	SUB
+modio	modius boisseau, muid, cavitÃ© du mÃ¢t	SUB
+bladi	bladum blÃ©	SUB
+super	super sur, au-dessus (de), prÃ¨s de, au sujet de, envers, contre, en plus de, plus que, Ã  cause de, pendant, sur, sous peine de, au risque de	PRE
+molendinum	molendinum moulin	SUB
+d'espone	d'espone	VBE
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+paruam	paruus petit, de peu de valeur	QLF
+mensuram	mensura mesurage, mesure, proportion	SUB
+xluiii	48	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+summa	summus le plus haut, le plus extrÃªme	QLF
+xxiiii	24	NUM
+f	f	VBE
+.	.	SENT
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+ualent	ualeo Ãªtre fort, valoir, pouvoir	VBE
+xix	19	NUM
+l	50	NUM
+.	.	SENT
+iii	3	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.p	.p	VBE
+.	.	SENT
+uiii	8	NUM
+ui	uis force, action, influence, efficacitÃ©	SUB

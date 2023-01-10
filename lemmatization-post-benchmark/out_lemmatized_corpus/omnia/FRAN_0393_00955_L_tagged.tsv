@@ -1,0 +1,593 @@
+form	lemma	POS morph
+anno	annus annÃ©e, saison	SUB
+domini	dominus maÃ®tre, chef, seigneur, sire	SUB
+millesimo	millesimus milliÃ¨me	NUM
+quadringentesimo	quadringentesimus quatre-centiÃ¨me	NUM
+quarto	quartus quatriÃ¨me, le quart Â¶ die quarte (= die quarto) : dans quatre jours	NUM
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+mercurii	mercurius garrot d'un animal	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+festo	festa1 faÃ®te, fÃ»t de faÃ®tage Â¶ fÃªte	SUB
+beati	beatus bienheureux, riche, saint	QLF
+remigii	remigium rangÃ©e de rames, navigation	SUB
+prima	primus premier, le plus important, Ã©minent	NUM
+octobris	october mois d'octobre	SUB
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+cancellario	cancellarius huissier, scribe, greffier, chancelier, notaire	SUB
+ste	sanctus1 saint, sacrÃ©	QLF
+brie	bria gobelet	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+pompodorio	pompodorio	QLF
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+rollandi	rotulo inscrire sur un rouleau	VBE
+g	g	NAM
+.	.	SENT
+cardonelli	cardonelli	NAM
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+iustinis	-	NAM
+n	n	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ordeimonte	ordeimonte	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+magistro	magister2 maÃ®tre, bourgmestre, officier seigneurial	SUB
+puerorum	puer enfant, fils, esclave, serviteur, vassal	SUB
+chori	chorus choeur Â¶ territoire|corus mesure de capacitÃ©	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+possit	possum pouvoir Â¶ non p. facere quin, non p. quin : je ne peux pas empÃªcher que	VBE
+lucrari	lucro gagner, Ã©chapper Ã , convertir, exploiter	VBE
+anniuersaria	anniuersarius anniversaire	SUB
+sua	suus son, sa, sien, sienne	QLF
+quando	quando quand, Ã  quelle Ã©poque, puisque	CON
+recedit	recedo se retirer, renoncer Ã	VBE
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+choro	chorus choeur Â¶ territoire|corus mesure de capacitÃ©	SUB
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+cum	cum2 quand, puisque (+ ind.), comme (+ subj.)	CON
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+hue	hue	VBE
+pueris	puer enfant, fils, esclave, serviteur, vassal|puera enfant, fillette	SUB
+post	post2 aprÃ¨s, derriÃ¨re	PRE
+sextam	sextus sixiÃ¨me	NUM
+leccionem	lectio lecture, leÃ§on, cueillette	SUB
+et	et et	CON
+possit	possum pouvoir Â¶ non p. facere quin, non p. quin : je ne peux pas empÃªcher que	VBE
+lucrari	lucro gagner, Ã©chapper Ã , convertir, exploiter	VBE
+anniuersaria	anniuersarius anniversaire	SUB
+et	et et	CON
+unacum	unacum	VBE
+hoc	hic3 celui-ci, celle-ci	PRO
+completoria	completorius destinÃ© aux complies	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+passaco	passaco	NAM
+phi	phi phi (lettre grecque)	SUB
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+salione	salione	SUB
+hora	hora temps, saison, heure Â¶ (pl.) heures canoniales, priÃ¨res des heures canoniales Â¶ ad h : Ã  l'heure, sur l'heure, soudain, tout Ã  l'heure, pour un instant	SUB
+predicta	predictus susdit	QLF
+lucrari	lucro gagner, Ã©chapper Ã , convertir, exploiter	VBE
+possit	possum pouvoir Â¶ non p. facere quin, non p. quin : je ne peux pas empÃªcher que	VBE
+stando	sto se tenir debout, attendre, ne rien faire, demeurer, assister, Ãªtre immuable (ou valable) Â¶ stetit : il est convenu (dÃ©cidÃ©, arrÃªtÃ©)	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+domo	domus maison, dynastie, manse	SUB
+cum	cum1 (+ abl.) avec	PRE
+pueris	puer enfant, fils, esclave, serviteur, vassal|puera enfant, fillette	SUB
+predictis	predictus susdit	QLF
+placet	placeo plaire|placo apaiser	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+habeat	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre	VBE
+merellos	merallus jeton, mÃ©reau	SUB
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+dictis	dictus dit, susdit	QLF
+horis	hora temps, saison, heure Â¶ (pl.) heures canoniales, priÃ¨res des heures canoniales Â¶ ad h : Ã  l'heure, sur l'heure, soudain, tout Ã  l'heure, pour un instant	SUB
+.	.	SENT
+lau	lau	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mongeria	mongeria	SUB
+g	g	NAM
+.	.	SENT
+fedelli	fedelli	SUB
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lorriaco	-	NAM
+instituatur	instituo installer, instituer, statuer, promulguer, enseigner	VBE
+stephanus	-	NAM
+iohannis	-	NAM
+officiarius	officiarius officier, agent, official, membre d'une maison ecclÃ©siastique, serviteur, agent domanial, appariteur judiciaire	SUB
+clericorum	clericus2 membre du clergÃ©	SUB
+matutinalium	matutinalis du matin, de l'office du matin	QLF
+e	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+campis	campe chenille Â¶ cheval marin, sinuositÃ©|campus plaine, place, champ, camp	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+durandi	duro endurcir, endurer, durcir, durer, s'Ã©tendre	VBE
+p	-	NAM
+.	.	SENT
+plauol	plauol	NAM
+sy	sy	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+bourich	bourich	QLF
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+uoygnon	uoygnon	NAM
+t	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+petro	petro agneau Â¶ paysan lourdaud	SUB
+anno	annus annÃ©e, saison	SUB
+predicto	predictus susdit	QLF
+die	dies jour, dÃ©lai, climat, jour de fÃªte, anniversaire, journÃ©e de travail, journal (de terre)	SUB
+ueneris	uenus VÃ©nus, amour, charme, mai Â¶ vente	SUB
+post	post2 aprÃ¨s, derriÃ¨re	PRE
+dictum	dictum parole, sentence, proverbe, ordre	SUB
+festum	festa1 faÃ®te, fÃ»t de faÃ®tage Â¶ fÃªte	SUB
+beati	beatus bienheureux, riche, saint	QLF
+remigii	remigium rangÃ©e de rames, navigation	SUB
+tercia	tertius troisiÃ¨me	NUM
+mensis	mensa table, mense|mensis mois|mensum mesure (de terre)	SUB
+octobris	october mois d'octobre	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+decano	decanus dizenier ou doyen, personne placÃ©e Ã  la tÃªte de dix autres, supÃ©rieur	SUB
+ste	sanctus1 saint, sacrÃ©	QLF
+brie	bria gobelet	SUB
+archidiacono	archidiaconus archidiacre	SUB
+hodie	hodie aujourd'hui	ADV
+soror	soror soeur, moniale, soeur laie	SUB
+iohanna	-	NAM
+la	la	VBE
+cheualiere	cheualiere	SUB
+uouit	uoueo faire un voeu, vouer	VBE
+tria	tres trois	NUM
+uota	uotum voeu, souhait, dÃ©sir	SUB
+scilicet	scilicet assurÃ©ment, c'est-Ã -dire	ADV
+obedienciam	obedientia obÃ©issance, soumission, obÃ©dience, observance, service, dÃ©pendance, autoritÃ©, juridiction	SUB
+castitatam	castitatam	VBE
+et	et et	CON
+non	non ne... pas, ne... point, non	ADV
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+lorriaco	-	NAM
+habere	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre	VBE
+proprium	proprius1 propre Ã , durable, spÃ©cial, caractÃ©ristique	QLF
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+hue	hue	QLF
+g	g	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+albiaco	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+iehan	iehan	NAM
+regnault	regnault	VBE
+demandeur	demandeur	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+cas	cas	VBE
+d'amendement	d'amendement	VBE
+contre	contre	SUB
+iehan	iehan	NAM
+guillot	guillot	SUB
+au	hau oh !	INT
+uendredi	uendredi	SUB
+aprés	aprés	NAM
+la	la	VBE
+saint	saint	VBE
+martin	martin	SUB
+uoygnon	uoygnon	NAM
+prouchain	prouchain	NAM
+uenant	uenant	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+estat	estat	SUB
+c'est	c'est	VBE
+assauoir	assauoir	SUB
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+rapporter	rapporter	VBE
+l'enqueste	l'enqueste	VBE
+comme	cumba mesure de capacitÃ©|cymba barque, carÃ¨ne, civiÃ¨re, combe, vallÃ©e|gumma gomme, rÃ©sine	SUB
+deuant	deuant	VBE
+presens	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+iehan	iehan	NAM
+regnault	regnault	VBE
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+rollandi	rotulo inscrire sur un rouleau	VBE
+iehan	iehan	NAM
+feurier	feurier	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+son	son	VBE
+nom	nom	NAM
+et	et et	CON
+comme	cumba mesure de capacitÃ©|cymba barque, carÃ¨ne, civiÃ¨re, combe, vallÃ©e|gumma gomme, rÃ©sine	SUB
+procureur	procureur	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+maistre	maistre	SUB
+nicholas	nicholas	SUB
+thomassin	thomassin	NAM
+e	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+campis	campe chenille Â¶ cheval marin, sinuositÃ©|campus plaine, place, champ, camp	SUB
+g	g	NAM
+.	.	SENT
+cardonnelli	cardonnelli	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+iehan	iehan	NAM
+michon	michon	NAM
+demandeur	demandeur	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+cas	cas	VBE
+d'amendement	d'amendement	VBE
+contre	contre	SUB
+le	le	VBE
+preuost	preuost	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+rosay	rosay	QLF
+en	en2 voiciÂ ! voilÃ Â !	INT
+brie	bria gobelet	SUB
+le	le	VBE
+dit	dit	VBE
+r	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+iustinis	-	NAM
+iehan	iehan	NAM
+michon	michon	NAM
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+condempné	condempné	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+x	10	NUM
+.	.	SENT
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+enuers	enuers	VBE
+ledit	ledo blesser, offenser, faire du tort	VBE
+preuost	preuost	VBE
+auecques	auecques	VBE
+l'escripture	l'escripture	VBE
+le	le	VBE
+seel	seel	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sy	sy	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+bourich	bourich	QLF
+la	la	VBE
+condempnacion	condempnacion	SUB
+io	hio s'entrouvrir, prÃ©senter des hiatus, Ãªtre bÃ©at, Ã©mettre, vomir, dÃ©clamer, convoiter	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+pompodorio	pompodorio	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+iaqin	iaqin	NAM
+pailliart	pailliart	NAM
+demandeur	demandeur	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+cas	cas	VBE
+d'amendement	d'amendement	VBE
+contre	contre	SUB
+thibaut	thibaut	SUB
+cochet	cochet	NAM
+deffendeur	deffendeur	VBE
+g	g	NAM
+.	.	SENT
+fedelli	fedelli	SUB
+lau	lau	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mongeria	mongeria	SUB
+sentence	sentence	QLF
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+esté	esté	QLF
+prononcé	prononcé	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+la	la	VBE
+maniere	maniura auge, musette	SUB
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+s'ensuit	s'ensuit	VBE
+/	/	VBE
+ueu	ueu	SUB
+le	le	VBE
+procés	procés	NAM
+fait	fait	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+deuant	deuant	VBE
+nostre	noster notre, le nÃ´tre	QLF
+t	-	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+sancto	sanctus1 saint, sacrÃ©	QLF
+petro	petro agneau Â¶ paysan lourdaud	SUB
+deffendeur	deffendeur	VBE
+d'autre	d'autre	VBE
+part	part	NAM
+et	et et	CON
+la	la	QLF
+sentence	sentence	QLF
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+nostre	noster notre, le nÃ´tre	QLF
+dit	dit	VBE
+preuost	preuost	VBE
+ou	ou	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+son	son	QLF
+lieutenant	lieutenant	VBE
+sur	-	NAM
+ce	ce	VBE
+donnee	donnee	SUB
+preuost	preuost	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+rosay	rosay	QLF
+en	en2 voiciÂ ! voilÃ Â !	INT
+brie	bria gobelet	SUB
+entre	entre	SUB
+iaquin	iaquin	NAM
+paillart	paillart	NAM
+demandeur	demandeur	VBE
+d'une	d'une	SUB
+part	part	NAM
+/	/	VBE
+et	et et	CON
+thibaut	thibaut	SUB
+cochet	cochet	NAM
+pour	pour	VBE
+et	et et	CON
+au	hau oh !	INT
+pouffit	pouffit	VBE
+dudit	dudit	VBE
+thibaut	thibaut	SUB
+et	et et	CON
+contre	contre	SUB
+ledit	ledo blesser, offenser, faire du tort	VBE
+iaquin	iaquin	NAM
+/	/	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+la	la	QLF
+quelle	quelle	QLF
+sentence	sentence	QLF
+il	il	VBE
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+demandé	demandé	VBE
+nostre	noster notre, le nÃ´tre	QLF
+amendement	amendement	SUB
+considerez	considerez	NAM
+les	les	VBE
+merites	merito2 gagner (un salaire), Ãªtre soldat	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+la	la	QLF
+cause	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie|causos fiÃ¨vre, chaleur sÃ¨che	SUB
+et	et et	CON
+eu	eu bien ! bravo !	INT
+surtout	surtout	SUB
+ce	ce	VBE
+conseil	conseil	NAM
+et	et et	CON
+meure	meure	NAM
+deliberacion	deliberacion	SUB
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+sages	sages	SUB
+/	/	VBE
+nous	nous	QLF
+disons	disons	QLF
+et	et et	CON
+prononçons	prononçons	VBE
+nostre	noster notre, le nÃ´tre	QLF
+dit	dit	VBE
+preuost	preuost	VBE
+ou	ou	NAM
+son	son	VBE
+dit	dit	VBE
+lieuxtenans	lieuxtenans	VBE
+bien	bien	SUB
+auoir	auoir	NAM
+iugé	iugé	VBE
+et	et et	CON
+ledit	ledo blesser, offenser, faire du tort	VBE
+iaquin	iaquin	NAM
+mal	mal	SUB
+auoir	auoir	NAM
+requis	requis	VBE
+nostre	noster notre, le nÃ´tre	QLF
+amendement	amendement	VBE
+et	et et	CON
+condempnons	condempnons	VBE
+icellui	icellui	VBE
+iaquin	iaquin	NAM
+es	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+despens	despens	VBE
+dudit	dudit	VBE
+thibaut	thibaut	SUB
+faiz	faiz	NAM
+en	en2 voiciÂ ! voilÃ Â !	INT
+la	la	VBE
+prousuite	prousuite	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+ceste	cestus1 ceinture, courroie|cista corbeille, ciste, coffre, urne	SUB
+cause	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie|causos fiÃ¨vre, chaleur sÃ¨che	SUB
+d'amendement	d'amendement	VBE
+la	la	VBE
+tauxacion	tauxacion	SUB
+d'iceulx	d'iceulx	QLF
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+deuers	deuers	VBE
+nous	nous	QLF
+reseruee	reseruee	VBE
+et	et et	CON
+renuoions	renuoions	VBE
+lesdictes	lesdictes	VBE
+parties	partio1 partager	VBE
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+deuant	deuant	VBE
+nostre	noster notre, le nÃ´tre	QLF
+dit	dit	VBE
+preuost	preuost	VBE
+/	/	VBE
+pour	pour	VBE
+mectre	mectre	SUB
+sa	sa	VBE
+dicte	dictus dit, susdit	QLF
+sentence	sentence	QLF
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+execucion	execucion	SUB
+deue	diuus1 divin	QLF
+selon	selon	SUB
+la	la	VBE
+fourme	fourme	VBE
+et	et et	CON
+teneur	teneur	SUB
+d'icelles	d'icelles	VBE
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+nostre	noster notre, le nÃ´tre	QLF
+sentence	sentence	QLF
+diffinitiue	definitiuus limitÃ©, dÃ©fini, dÃ©cisif	QLF
+et	et et	CON
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+droit	droit	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+la	la	QLF
+quelle	quelle	QLF
+sentence	sentence	QLF
+le	le	VBE
+dit	dit	VBE
+iaquin	iaquin	NAM
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+appellé	appellé	QLF
+en	en2 voiciÂ ! voilÃ Â !	INT
+parlement	parlement	VBE
+fait	fait	SUB
+le	le	VBE
+uendredi	uendredi	SUB
+le	le	VBE
+tiers	tiers	NAM
+iour	iour	VBE
+d'octobre	d'octobre	SUB
+l'an	l'an	SUB
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+grace	grace	SUB
+mil	mil	NAM
+cccc	400	NUM
+et	et et	CON
+quatre	quatre	SUB
+/	/	VBE
+que	que (enclit.) et	CON
+fait	fait	VBE
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+ueoir	ueoir	SUB
+nous	nous	QLF
+disons	disons	QLF
+bien	bien	SUB
+auoir	auoir	NAM
+esté	esté	VBE
+iugié	iugié	VBE
+mal	mal	SUB
+demandé	demandé	VBE
+l'amendement	l'amendement	VBE
+et	et et	CON
+condempenons	condempenons	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+despens	despens	VBE
+etc	etc	VBE
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+denysot	denysot	QLF
+le	le	VBE
+boucher	boucher	VBE
+damandeur	damandeur	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+cas	cas	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+mandement	mandement	VBE
+contre	contre	SUB
+iehan	iehan	NAM
+coron	coron	SUB
+clerc	clerc	VBE
+au	hau oh !	INT
+uendredi	uendredi	SUB
+aprés	aprés	NAM
+la	la	VBE
+saint	saint	VBE
+martin	martin	SUB
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+oir	oir	SUB
+droit	droit	SUB
+comme	cumba mesure de capacitÃ©|cymba barque, carÃ¨ne, civiÃ¨re, combe, vallÃ©e|gumma gomme, rÃ©sine	SUB
+deuant	deuant	VBE
+presens	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+les	les	VBE
+parties	partio1 partager	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+iehan	iehan	NAM
+rogeneau	rogeneau	NAM
+demandeur	demandeur	VBE
+en	en2 voiciÂ ! voilÃ Â !	INT
+cas	cas	VBE
+d'amendement	d'amendement	VBE
+contre	contre	SUB
+guillaume	guillaume	SUB
+le	le	VBE
+picart	picart	NAM
+procureur	procureur	VBE
+le	le	VBE
+preuost	preuost	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+rosay	rosay	QLF
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+uendredi	uendredi	SUB
+après	après	NAM
+la	la	VBE
+saint	saint	VBE
+martin	martin	SUB
+a	a (+ abl.) Ã  partir de, loin de, du cÃ´tÃ© de, par suite de, par	PRE
+procedes	procedo avancer, aboutir, rÃ©ussir, se distinguer	VBE
+dudit	dudit	VBE
+picart	picart	NAM
+sur	-	NAM
+la	la	VBE
+demande	demanda ordre, demande, action de droit	SUB
+dudit	dudit	VBE
+demandeur	demandeur	VBE
+et	et et	CON
+sex	sex six	NUM
+exploiz	exploiz	NAM
+mis	mis	VBE
+au	hau oh !	INT
+iourd'ui	iourd'ui	NAM
+deuers	deuers	VBE
+la	la	VBE
+court	court	NAM
+413	@card@	CON
+g	g	NAM
+.	.	SENT
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+albiaco	-	NAM
+.	.	SENT
+et	et et	CON
+eciam	etiam aussi, mÃªme, encore, oui	ADV
+cum	cum2 quand, puisque (+ ind.), comme (+ subj.)	CON
+expediat	expedio dÃ©gager, arranger, exposer, Ãªtre opportun, expÃ©dier	VBE
+ipsum	ipse2 lui-mÃªme, elle-mÃªme	PRO
+remanere	remaneo rester, subsister, Ãªtre omis, revenir Ã	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+domo	domus maison, dynastie, manse	SUB
+hora	hora temps, saison, heure Â¶ (pl.) heures canoniales, priÃ¨res des heures canoniales Â¶ ad h : Ã  l'heure, sur l'heure, soudain, tout Ã  l'heure, pour un instant	SUB
+none	nonus neuviÃ¨me	NUM
+ut	ut comment, comme, combien Â¶ (+ indic.) : de mÃªme que, quand, vu que Â¶ (+ subj.) : que, Ã  savoir que, pour que, de sorte que, tellement que, si bien que, Ã  supposer que Â¶ (+ part. futur) : avec l'intention de, comme pour	CON
+addiscat	addisco apprendre en plus, ajouter	VBE
+pueros	puer enfant, fils, esclave, serviteur, vassal	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+eciam	etiam aussi, mÃªme, encore, oui	ADV

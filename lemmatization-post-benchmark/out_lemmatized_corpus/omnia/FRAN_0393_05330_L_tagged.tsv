@@ -1,0 +1,142 @@
+form	lemma	POS morph
+120	@card@	INT
+.	.	SENT
+capellania	capellania fonction de chapelain, chapelle royale, chapellenie	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+altare	altar autel, revenus d'un autel	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+laurencii	-	NAM
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+uacans	uacans vide, oisif, cÃ©libataire	QLF
+per	per Ã  travers, par, tout le long de, durant, pendant, au cours de, par le moyen de, par suite de	PRE
+resignacionem	resignatio action de desceller	SUB
+m	1000	NUM
+.	.	SENT
+iohannis	-	NAM
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+reques	reques	VBE
+procuratoris	procurator administrateur, intendant, mandataire, procurateur	SUB
+m	1000	NUM
+.	.	SENT
+io	io ah ! oh ! las !	INT
+.	.	SENT
+cannonnet	cannonnet	QLF
+dicte	dictus dit, susdit	QLF
+capellanie	capellania fonction de chapelain, chapelle royale, chapellenie	SUB
+possessoris	possessor possesseur, propriÃ©taire	SUB
+et	et et	CON
+capellani	capellanus1 de la chapelle	QLF
+ultimi	ultimus ultime Â¶ ultima, orum, (n. pl.) les derniers moments de la vie	QLF
+ex	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+causa	causa2 cause, excuse, prÃ©texte, occasion, procÃ¨s, affaire, conflit, cas, parti, acte, chose, maladie	SUB
+permutacionis	permutatio changement, permutation	SUB
+et	et et	CON
+non	non ne... pas, ne... point, non	ADV
+alias	alius autre	QLF
+faciende	facienda exploitation agricole	SUB
+cum	cum1 (+ abl.) avec	PRE
+domino	dominus maÃ®tre, chef, seigneur, sire	SUB
+ricardo	-	NAM
+le	le	VBE
+poyure	poyure	VBE
+presbytero	presbyter prÃªtre	SUB
+ad	ad vers, pour, prÃ¨s de, chez, Ã , jusqu'Ã , relativement Ã , d'aprÃ¨s, par suite de	PRE
+collacio	colatium mÃ©tayage|collatio assemblage, rÃ©union, confrontation, contribution, don, comparaison, rapprochement, collation	SUB
+capellanie	capellania fonction de chapelain, chapelle royale, chapellenie	SUB
+capellaniam	capellania fonction de chapelain, chapelle royale, chapellenie	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+ludouici	-	NAM
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+ecclesia	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+sancti	sanctus1 saint, sacrÃ©	QLF
+marcelli	martellus petit marteau	SUB
+prope	prope2 prÃ¨s de	PRE
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+saluo	saluus sain et sauf, sauvÃ©, jouissant du droit d'asile	QLF
+ecclesie	ecclesia assemblÃ©e, communautÃ© de fidÃ¨les, Ã©glise	SUB
+par	par1 Ã©gal, pareil, appariÃ©	QLF
+.	.	SENT
+iure	ius droit, justice Â¶ jus, sauce	SUB
+cuiuslibet	quilibet2 n'importe lequel, celui qu'on voudra, chacun	PRO
+prestito	prestitum emprunt	SUB
+prius	prius auparavant, jadis	ADV
+iuramento	iuramentum serment, jurement	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+huiusmodi	huiusmodi de cette maniÃ¨re, de cette sorte	ADV
+resignacione	resignatio action de desceller	SUB
+non	non ne... pas, ne... point, non	ADV
+interuenient	interuenio survenir, intervenir, s'interposer, intercÃ©der	VBE
+fraus	fraus tromperie, crime, mÃ©prise, dÃ©triment	SUB
+collata	collatus combat, confÃ©rence, donation, impÃ´t, action de recueillir	SUB
+est	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+dicto	dico2 dire, ordonner, chanter|dicto dicter, versifier, conseiller, dire souvent	VBE
+domino	dominus maÃ®tre, chef, seigneur, sire	SUB
+ricardo	-	NAM
+le	le	VBE
+pouire	pouire	VBE
+presenti	presens prÃ©sent, visible, efficace, secourable, favorable, de sang froid, rÃ©solu	QLF
+qui	qui2 qui, quel, lequel, quelque, quelqu'un|quis qui, que, quelqu'un, quelque	PRO
+iurauit	iuro jurer	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+forma	forma forme, type, beautÃ©, moule	SUB
+fuit	sum Ãªtre, exister, signifier Â¶ est : il est possible, il s'agit de	VBE
+installatus	installo installer	VBE
+placet	placeo plaire|placo apaiser	VBE
+dominis	domina dame|dominus maÃ®tre, chef, seigneur, sire	SUB
+quod	qui2 qui, quel, lequel, quelque, quelqu'un|quot combien, aussi nombreux que, tout, chaque Â¶ tot... quot : autant... que	PRO
+$	$	VBE
+michael	-	NAM
+$	$	VBE
+michael	-	NAM
+ursier	ursier	VBE
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+liricantu	liricantu	SUB
+habeat	habeo avoir, tenir, considÃ©rer, estimer Â¶ (+inf.) devoir, pouvoir Â¶ (impers.) il y a Â¶ (rÃ©fl.) se trouver, Ãªtre	VBE
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+se	se se, soi	PRO
+de	de de, du haut de, au cours de, immÃ©diatement aprÃ¨s, parmi	PRE
+quadam	quidam certain	QLF
+domo	domus maison, dynastie, manse	SUB
+iohanna	-	NAM
+eius	is2 il, elle, le, la, les	PRO
+uxore	uxor Ã©pouse, femme Â¶ uxorem ducere : Ã©pouser	SUB
+et	et et	CON
+suis	suus son, sa, sien, sienne	QLF
+quandam	quidam certain	QLF
+masuram	mansura exercice du droit de gÃ®te, maison, demeure, tenure, manse	SUB
+cum	cum1 (+ abl.) avec	PRE
+suis	suus son, sa, sien, sienne	QLF
+pertinenciis	pertinentia dÃ©pendance, domaine	SUB
+sitam	sino cesser, permettre, quitter	VBE
+apud	apud auprÃ¨s de, chez	PRE
+liricantum	liricantum	VBE
+apud	apud auprÃ¨s de, chez	PRE
+liricantum	liricantum	VBE
+in	in dans, en, sur, selon, envers, pour, contre, Ã  propos de, vu, par, avec	PRE
+uico	uicus agglomÃ©ration, quartier, rue, bourg, domaine	SUB
+des	do donner, concÃ©der, lÃ©guer, exprimer	VBE
+sablons	sablons	SUB
+tenentem	teneo (se) tenir, atteindre, s'arrÃªter, occuper, contenir, garder, dÃ©tenir, arrÃªter, empÃªcher, comprendre, savoir, croire, affirmer Â¶ (pass.) Ãªtre pris, Ãªtre convaincu d'un crime, Ãªtre tenu de	VBE
+ex	ex hors de, Ã  partir de, aprÃ¨s, en (matiÃ¨re), selon	PRE
+una	unus un, unique	NUM
+parte	pars part, partie, partage, parti Â¶ (pl.) rÃ´le (d'un acteur), parti|parta qui a enfantÃ©	SUB
+stephano	-	NAM
+cote	cautes rocher, Ã©cueil, pierre|cautum prÃ©caution, sauvetÃ©|cos pierre (Ã  polir, Ã  aiguiser), pilon du pharmacien|cottus manteau, couverture, matelas|quota quote-part, somme	SUB
+et	et et	CON
+alia	alius autre	QLF
+parte	pars part, partie, partage, parti Â¶ (pl.) rÃ´le (d'un acteur), parti|parta qui a enfantÃ©	SUB
+domui	domus maison, dynastie, manse	SUB
+presbyterali	presbyteralis presbytÃ©ral	QLF
+loci	locus lieu, place, passage (d'un Ã©crit), localitÃ©, monastÃ¨re	SUB
+pro	pro devant, en avant de, pour, en faveur de, Ã  la place de, en raison de	PRE
+u	5	NUM
+s	signum anneau sigillaire, sceau, seing manuel, monogramme, borne, marque, signe, symbole, signal, cloche, prodige, miracle	SUB
+.	.	SENT
+p	-	NAM
+.	.	SENT
+redditus	redditus1 frÃ¨re convers|redditus2 remise, don, redevance|reditus retour, retraite, revenu, rÃ©volution (astre)	SUB
